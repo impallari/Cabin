@@ -8,3 +8,9 @@ Counters of the b, g, p and q are rounded and optically adjusted.
 The curved stem endings have a 10 degree angle.
 E and F have shorter center arms.
 M is splashed.
+
+## License
+
+- Cabin is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
+- To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/impallari/cabin/blob/master/OFL.txt)
+
