@@ -18122,13 +18122,37 @@ unicode = 02DC;
 disablesAutomaticAlignment = 1;
 instances = (
 {
-interpolationWeight = 500;
+interpolationWeight = 95;
 instanceInterpolations = {
-UUID0 = -11.2727;
-"7C863538-AAB4-42AD-A9FE-7240E615272A" = 12.2727;
+UUID0 = 1;
 };
-name = "0 wt";
-weightClass = Thin;
+name = Regular;
+},
+{
+interpolationWeight = 106;
+instanceInterpolations = {
+UUID0 = 0.666667;
+"7C863538-AAB4-42AD-A9FE-7240E615272A" = 0.333333;
+};
+name = Medium;
+weightClass = Medium;
+},
+{
+interpolationWeight = 118;
+instanceInterpolations = {
+UUID0 = 0.30303;
+"7C863538-AAB4-42AD-A9FE-7240E615272A" = 0.69697;
+};
+name = SemiBold;
+weightClass = SemiBold;
+},
+{
+interpolationWeight = 128;
+instanceInterpolations = {
+"7C863538-AAB4-42AD-A9FE-7240E615272A" = 1;
+};
+name = Bold;
+weightClass = Bold;
 }
 );
 kerning = {
