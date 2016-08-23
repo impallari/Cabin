@@ -31217,6 +31217,40 @@ unicode = 02DC;
 disablesAutomaticAlignment = 1;
 instances = (
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 965;
+},
+{
+name = typoAscender;
+value = 965;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 250;
+},
+{
+name = winAscent;
+value = 965;
+}
+);
 interpolationWeight = 95;
 instanceInterpolations = {
 UUID0 = 1;
@@ -31224,6 +31258,40 @@ UUID0 = 1;
 name = Regular;
 },
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 965;
+},
+{
+name = typoAscender;
+value = 965;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 250;
+},
+{
+name = winAscent;
+value = 965;
+}
+);
 interpolationWeight = 106;
 instanceInterpolations = {
 UUID0 = 0.666667;
@@ -31232,6 +31300,40 @@ UUID0 = 0.666667;
 name = Medium;
 },
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 965;
+},
+{
+name = typoAscender;
+value = 965;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 250;
+},
+{
+name = winAscent;
+value = 965;
+}
+);
 interpolationWeight = 118;
 instanceInterpolations = {
 UUID0 = 0.30303;
@@ -31240,6 +31342,40 @@ UUID0 = 0.30303;
 name = SemiBold;
 },
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 965;
+},
+{
+name = typoAscender;
+value = 965;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 250;
+},
+{
+name = winAscent;
+value = 965;
+}
+);
 interpolationWeight = 128;
 instanceInterpolations = {
 "D879A026-05F7-4E99-AC55-D533E46CE7AB" = 1;
