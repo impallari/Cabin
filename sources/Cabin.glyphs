@@ -18122,6 +18122,40 @@ unicode = 02DC;
 disablesAutomaticAlignment = 1;
 instances = (
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 965;
+},
+{
+name = typoAscender;
+value = 965;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 250;
+},
+{
+name = winAscent;
+value = 965;
+}
+);
 interpolationWeight = 95;
 instanceInterpolations = {
 UUID0 = 1;
@@ -18129,6 +18163,40 @@ UUID0 = 1;
 name = Regular;
 },
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 965;
+},
+{
+name = typoAscender;
+value = 965;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 250;
+},
+{
+name = winAscent;
+value = 965;
+}
+);
 interpolationWeight = 106;
 instanceInterpolations = {
 UUID0 = 0.666667;
@@ -18138,6 +18206,40 @@ name = Medium;
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 965;
+},
+{
+name = typoAscender;
+value = 965;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 250;
+},
+{
+name = winAscent;
+value = 965;
+}
+);
 interpolationWeight = 118;
 instanceInterpolations = {
 UUID0 = 0.30303;
@@ -18147,6 +18249,40 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 965;
+},
+{
+name = typoAscender;
+value = 965;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 250;
+},
+{
+name = winAscent;
+value = 965;
+}
+);
 interpolationWeight = 128;
 instanceInterpolations = {
 "7C863538-AAB4-42AD-A9FE-7240E615272A" = 1;
