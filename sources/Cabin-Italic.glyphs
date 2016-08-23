@@ -31253,7 +31253,7 @@ instanceInterpolations = {
 UUID0 = 1;
 };
 isItalic = 1;
-name = Regular;
+name = "Regular Italic";
 },
 {
 customParameters = (
@@ -31297,7 +31297,7 @@ UUID0 = 0.666667;
 };
 isItalic = 1;
 linkStyle = Medium;
-name = Medium;
+name = "Medium Italic";
 },
 {
 customParameters = (
@@ -31341,7 +31341,7 @@ UUID0 = 0.30303;
 };
 isItalic = 1;
 linkStyle = SemiBold;
-name = SemiBold;
+name = "SemiBold Italic";
 },
 {
 customParameters = (
@@ -31382,9 +31382,10 @@ interpolationWeight = 128;
 instanceInterpolations = {
 "D879A026-05F7-4E99-AC55-D533E46CE7AB" = 1;
 };
+isBold = 1;
 isItalic = 1;
 linkStyle = Bold;
-name = Bold;
+name = "Bold Italic";
 }
 );
 kerning = {

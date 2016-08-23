@@ -129,7 +129,6 @@ value = 965;
 );
 descender = -250;
 horizontalStems = (
-0,
 124
 );
 id = UUID0;
@@ -18319,6 +18318,7 @@ interpolationWeight = 128;
 instanceInterpolations = {
 "7C863538-AAB4-42AD-A9FE-7240E615272A" = 1;
 };
+isBold = 1;
 name = Bold;
 weightClass = Bold;
 }

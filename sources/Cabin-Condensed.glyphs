@@ -140,6 +140,7 @@ verticalStems = (
 128
 );
 weightValue = 94;
+width = Condensed;
 xHeight = 490;
 },
 {
@@ -197,6 +198,7 @@ verticalStems = (
 );
 weight = Bold;
 weightValue = 122;
+width = Condensed;
 xHeight = 500;
 }
 );
@@ -19008,6 +19010,7 @@ instanceInterpolations = {
 UUID0 = 1;
 };
 name = Regular;
+widthClass = Condensed;
 },
 {
 customParameters = (
@@ -19051,6 +19054,7 @@ UUID0 = 0.571429;
 };
 name = Medium;
 weightClass = Medium;
+widthClass = Condensed;
 },
 {
 customParameters = (
@@ -19093,6 +19097,7 @@ UUID0 = 0.321429;
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 0.678571;
 };
 name = SemiBold;
+widthClass = Condensed;
 },
 {
 customParameters = (
@@ -19134,6 +19139,7 @@ instanceInterpolations = {
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 1;
 };
 name = Bold;
+widthClass = Condensed;
 }
 );
 kerning = {
