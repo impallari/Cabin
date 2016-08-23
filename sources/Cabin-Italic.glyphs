@@ -1,5 +1,8 @@
 {
 .appVersion = "911";
+DisplayStrings = (
+H
+);
 copyright = "Copyright (c) 2011 The Cabin Project Authors (www.impallari.com impallari@gmail.com)";
 customParameters = (
 {
@@ -137,6 +140,7 @@ verticalStems = (
 95,
 128
 );
+weightValue = 95;
 xHeight = 490;
 },
 {
@@ -193,6 +197,7 @@ verticalStems = (
 125
 );
 weight = Bold;
+weightValue = 128;
 xHeight = 500;
 }
 );
@@ -31212,8 +31217,34 @@ unicode = 02DC;
 disablesAutomaticAlignment = 1;
 instances = (
 {
-name = "0 wt";
-weightClass = Thin;
+interpolationWeight = 95;
+instanceInterpolations = {
+UUID0 = 1;
+};
+name = Regular;
+},
+{
+interpolationWeight = 106;
+instanceInterpolations = {
+UUID0 = 0.666667;
+"D879A026-05F7-4E99-AC55-D533E46CE7AB" = 0.333333;
+};
+name = Medium;
+},
+{
+interpolationWeight = 118;
+instanceInterpolations = {
+UUID0 = 0.30303;
+"D879A026-05F7-4E99-AC55-D533E46CE7AB" = 0.69697;
+};
+name = SemiBold;
+},
+{
+interpolationWeight = 128;
+instanceInterpolations = {
+"D879A026-05F7-4E99-AC55-D533E46CE7AB" = 1;
+};
+name = Bold;
 }
 );
 kerning = {
