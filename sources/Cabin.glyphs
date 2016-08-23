@@ -26,7 +26,7 @@ value = "Cabin is a trademark of Pablo Impallari. www.impallari.com Igino Marini
 },
 {
 name = license;
-value = "Copyright (c) 2010, Pablo Impallari (www.impallari.com|impallari@gmail.com),\012with Reserved Font Name Cabin.\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\012This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
 name = panose;
@@ -312,6 +312,14 @@ zero,
 zeroinferior,
 zerosuperior
 );
+},
+{
+name = fsType;
+value = 0;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2011-03-21 07:48:50 +0000";
@@ -378,6 +386,7 @@ verticalStems = (
 95,
 128
 );
+weightValue = 0;
 xHeight = 490;
 },
 {
@@ -434,6 +443,7 @@ verticalStems = (
 125
 );
 weight = Bold;
+weightValue = 1000;
 xHeight = 500;
 }
 );
@@ -18393,6 +18403,11 @@ width = 250;
 disablesAutomaticAlignment = 1;
 instances = (
 {
+interpolationWeight = 500;
+instanceInterpolations = {
+UUID0 = 0.5;
+"7C863538-AAB4-42AD-A9FE-7240E615272A" = 0.5;
+};
 name = "0 wt";
 weightClass = Thin;
 }
