@@ -18969,6 +18969,40 @@ unicode = 02DC;
 disablesAutomaticAlignment = 1;
 instances = (
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 965;
+},
+{
+name = typoAscender;
+value = 965;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 250;
+},
+{
+name = winAscent;
+value = 965;
+}
+);
 interpolationWeight = 94;
 instanceInterpolations = {
 UUID0 = 1;
@@ -18976,6 +19010,40 @@ UUID0 = 1;
 name = Regular;
 },
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 965;
+},
+{
+name = typoAscender;
+value = 965;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 250;
+},
+{
+name = winAscent;
+value = 965;
+}
+);
 interpolationWeight = 106;
 instanceInterpolations = {
 UUID0 = 0.571429;
@@ -18985,6 +19053,40 @@ name = Medium;
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 965;
+},
+{
+name = typoAscender;
+value = 965;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 250;
+},
+{
+name = winAscent;
+value = 965;
+}
+);
 interpolationWeight = 113;
 instanceInterpolations = {
 UUID0 = 0.321429;
@@ -18993,6 +19095,40 @@ UUID0 = 0.321429;
 name = SemiBold;
 },
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 965;
+},
+{
+name = typoAscender;
+value = 965;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 250;
+},
+{
+name = winAscent;
+value = 965;
+}
+);
 interpolationWeight = 122;
 instanceInterpolations = {
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 1;
