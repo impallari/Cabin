@@ -105,7 +105,7 @@ verticalStems = (
 95,
 128
 );
-weightValue = 0;
+weightValue = 95;
 xHeight = 490;
 },
 {
@@ -162,7 +162,7 @@ verticalStems = (
 125
 );
 weight = Bold;
-weightValue = 1000;
+weightValue = 128;
 xHeight = 500;
 }
 );
@@ -18124,8 +18124,8 @@ instances = (
 {
 interpolationWeight = 500;
 instanceInterpolations = {
-UUID0 = 0.5;
-"7C863538-AAB4-42AD-A9FE-7240E615272A" = 0.5;
+UUID0 = -11.2727;
+"7C863538-AAB4-42AD-A9FE-7240E615272A" = 12.2727;
 };
 name = "0 wt";
 weightClass = Thin;
