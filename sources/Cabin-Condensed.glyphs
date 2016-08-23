@@ -1,5 +1,8 @@
 {
 .appVersion = "911";
+DisplayStrings = (
+C
+);
 copyright = "Copyright (c) 2011 The Cabin Project Authors (www.impallari.com impallari@gmail.com)";
 customParameters = (
 {
@@ -665,7 +668,7 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2016-08-23 12:44:07 +0000";
+lastChange = "2016-08-23 12:47:47 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -707,6 +710,39 @@ width = 524;
 },
 {
 layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
+paths = (
+{
+closed = 1;
+nodes = (
+"388 -14 OFFCURVE",
+"454 2 OFFCURVE",
+"498 27 CURVE",
+"484 149 LINE",
+"433 126 OFFCURVE",
+"388 109 OFFCURVE",
+"324 109 CURVE",
+"217 109 OFFCURVE",
+"164 210 OFFCURVE",
+"164 350 CURVE",
+"164 490 OFFCURVE",
+"217 591 OFFCURVE",
+"325 591 CURVE",
+"388 591 OFFCURVE",
+"433 574 OFFCURVE",
+"484 551 CURVE",
+"498 673 LINE",
+"453 698 OFFCURVE",
+"388 714 OFFCURVE",
+"325 714 CURVE",
+"154 714 OFFCURVE",
+"30 570 OFFCURVE",
+"30 350 CURVE",
+"30 130 OFFCURVE",
+"154 -14 OFFCURVE",
+"324 -14 CURVE"
+);
+}
+);
 width = 600;
 }
 );
