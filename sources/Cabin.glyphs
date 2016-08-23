@@ -21982,6 +21982,6 @@ slash = -13;
 manufacturer = "Pablo Impallari. http://www.impallari.com Igino Marini. http://www.ikern.com";
 manufacturerURL = "http://www.impallari.com";
 unitsPerEm = 1000;
-versionMajor = 1;
+versionMajor = 2;
 versionMinor = 5;
 }
