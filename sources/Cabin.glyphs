@@ -33,7 +33,7 @@ value = IMPA;
 );
 date = "2011-03-21 07:48:50 +0000";
 designer = "Pablo Impallari";
-designerURL = www.impallari.com;
+designerURL = "http://www.impallari.com";
 familyName = Cabin;
 featurePrefixes = (
 {
@@ -21979,7 +21979,7 @@ slash = -13;
 };
 };
 };
-manufacturer = "Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com";
+manufacturer = "http://Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com";
 manufacturerURL = www.impallari.com;
 unitsPerEm = 1000;
 versionMajor = 1;
