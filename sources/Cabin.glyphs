@@ -320,6 +320,10 @@ value = 0;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = vendorID;
+value = IMPA;
 }
 );
 date = "2011-03-21 07:48:50 +0000";
