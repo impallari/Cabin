@@ -1,8 +1,5 @@
 {
 .appVersion = "911";
-DisplayStrings = (
-H
-);
 copyright = "Copyright (c) 2011 The Cabin Project Authors (www.impallari.com impallari@gmail.com)";
 customParameters = (
 {
@@ -37,7 +34,7 @@ value = 1;
 date = "2011-03-21 07:48:50 +0000";
 designer = "Pablo Impallari";
 designerURL = "http://www.impallari.com";
-familyName = "Cabin Italic";
+familyName = Cabin;
 featurePrefixes = (
 {
 automatic = 1;
@@ -31255,6 +31252,7 @@ interpolationWeight = 95;
 instanceInterpolations = {
 UUID0 = 1;
 };
+isItalic = 1;
 name = Regular;
 },
 {
@@ -31297,6 +31295,8 @@ instanceInterpolations = {
 UUID0 = 0.666667;
 "D879A026-05F7-4E99-AC55-D533E46CE7AB" = 0.333333;
 };
+isItalic = 1;
+linkStyle = Medium;
 name = Medium;
 },
 {
@@ -31339,6 +31339,8 @@ instanceInterpolations = {
 UUID0 = 0.30303;
 "D879A026-05F7-4E99-AC55-D533E46CE7AB" = 0.69697;
 };
+isItalic = 1;
+linkStyle = SemiBold;
 name = SemiBold;
 },
 {
@@ -31380,6 +31382,8 @@ interpolationWeight = 128;
 instanceInterpolations = {
 "D879A026-05F7-4E99-AC55-D533E46CE7AB" = 1;
 };
+isItalic = 1;
+linkStyle = Bold;
 name = Bold;
 }
 );
