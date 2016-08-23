@@ -1,15 +1,5 @@
 {
 .appVersion = "911";
-classes = (
-{
-code = "a' b c d e f g h i j k l m n o p q r s t u v w x y z ae oe";
-name = lowercase;
-},
-{
-code = "A.sc' B.sc C.sc D.sc E.sc F.sc G.sc H.sc I.sc J.sc K.sc L.sc M.sc N.sc O.sc P.sc Q.sc R.sc S.sc T.sc U.sc V.sc W.sc X.sc Y.sc Z.sc AE.sc OE.sc";
-name = smallcaps;
-}
-);
 copyright = "Copyright (c) 2011 The Cabin Project Authors (www.impallari.com impallari@gmail.com)";
 customParameters = (
 {
@@ -45,9 +35,51 @@ date = "2011-03-21 07:48:50 +0000";
 designer = "Pablo Impallari";
 designerURL = "http://www.impallari.com";
 familyName = "Cabin Italic";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012";
+name = Languagesystems;
+},
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012";
+name = Languagesystems;
+}
+);
 features = (
 {
-code = "sub @lowercase by @smallcaps;\012";
+automatic = 1;
+code = "feature subs;\012feature sups;\012feature frac;\012feature ordn;\012feature c2sc;\012";
+name = aalt;
+},
+{
+automatic = 1;
+code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;\012";
+name = subs;
+},
+{
+automatic = 1;
+code = "sub zero by zerosuperior;\012sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012sub four by foursuperior;\012sub five by fivesuperior;\012sub six by sixsuperior;\012sub seven by sevensuperior;\012sub eight by eightsuperior;\012sub nine by ninesuperior;\012";
+name = sups;
+},
+{
+automatic = 1;
+code = "sub one slash four by onequarter;\012sub one slash two by onehalf;\012sub three slash four by threequarters;\012";
+name = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
+name = ordn;
+},
+{
+automatic = 1;
+code = "sub A by A.sc;\012sub AE by AE.sc;\012sub B by B.sc;\012sub C by C.sc;\012sub D by D.sc;\012sub E by E.sc;\012sub F by F.sc;\012sub G by G.sc;\012sub H by H.sc;\012sub I by I.sc;\012sub J by J.sc;\012sub K by K.sc;\012sub L by L.sc;\012sub M by M.sc;\012sub N by N.sc;\012sub O by O.sc;\012sub OE by OE.sc;\012sub P by P.sc;\012sub Q by Q.sc;\012sub R by R.sc;\012sub S by S.sc;\012sub T by T.sc;\012sub U by U.sc;\012sub V by V.sc;\012sub W by W.sc;\012sub X by X.sc;\012sub Y by Y.sc;\012sub Z by Z.sc;\012";
+name = c2sc;
+},
+{
+code = "sub a by A.sc;\012sub ae by AE.sc;\012sub b by B.sc;\012sub c by C.sc;\012sub d by D.sc;\012sub e by E.sc;\012sub f by F.sc;\012sub g by G.sc;\012sub h by H.sc;\012sub i by I.sc;\012sub j by J.sc;\012sub k by K.sc;\012sub l by L.sc;\012sub m by M.sc;\012sub n by N.sc;\012sub o by O.sc;\012sub oe by OE.sc;\012sub p by P.sc;\012sub q by Q.sc;\012sub r by R.sc;\012sub s by S.sc;\012sub t by T.sc;\012sub u by U.sc;\012sub v by V.sc;\012sub w by W.sc;\012sub x by X.sc;\012sub y by Y.sc;\012sub z by Z.sc;\012";
 name = smcp;
 }
 );
