@@ -8795,9 +8795,27 @@ unicode = 00E7;
 },
 {
 glyphname = d;
-lastChange = "2016-08-30 22:36:25 +0000";
+lastChange = "2016-09-01 11:55:45 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{260, 0}";
+},
+{
+name = center;
+position = "{433, 616}";
+},
+{
+name = top;
+position = "{260, 490}";
+},
+{
+name = topright;
+position = "{500, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -8886,6 +8904,24 @@ nodes = (
 width = 520;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{281, 0}";
+},
+{
+name = center;
+position = "{471, 636}";
+},
+{
+name = top;
+position = "{281, 500}";
+},
+{
+name = topright;
+position = "{541, 500}";
+}
+);
 background = {
 paths = (
 {
@@ -9252,7 +9288,7 @@ unicode = 00F0;
 },
 {
 glyphname = dcroat;
-lastChange = "2016-08-30 22:30:55 +0000";
+lastChange = "2016-09-01 11:55:45 +0000";
 layers = (
 {
 components = (
@@ -9260,12 +9296,13 @@ components = (
 name = d;
 },
 {
+alignment = 1;
 name = strokeshortcomb;
-transform = "{1, 0, 0, 1, 152, 332}";
+transform = "{1, 0, 0, 1, 185, 357}";
 }
 );
 layerId = UUID0;
-width = 600;
+width = 520;
 },
 {
 components = (
@@ -9274,11 +9311,11 @@ name = d;
 },
 {
 name = strokeshortcomb;
-transform = "{1, 0, 0, 1, 198, 335}";
+transform = "{1, 0, 0, 1, 215, 367}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
-width = 600;
+width = 561;
 }
 );
 unicode = 0111;
@@ -34788,9 +34825,15 @@ unicode = 0323;
 },
 {
 glyphname = strokeshortcomb;
-lastChange = "2016-08-30 19:26:00 +0000";
+lastChange = "2016-09-01 11:55:02 +0000";
 layers = (
 {
+anchors = (
+{
+name = _center;
+position = "{248, 259}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -34806,6 +34849,12 @@ nodes = (
 width = 496;
 },
 {
+anchors = (
+{
+name = _center;
+position = "{256, 269}";
+}
+);
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
 paths = (
 {
