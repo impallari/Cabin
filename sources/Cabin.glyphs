@@ -1,5 +1,8 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+"Fahis/scedilla  bluz g\U00FCvencesi ya/gbreve d/idotless rma projesi \U00E7\U00F6kt\U00FC"
+);
 classes = (
 {
 automatic = 1;
@@ -17466,7 +17469,7 @@ width = 360;
 anchors = (
 {
 name = bottom;
-position = "{199, 0}";
+position = "{177, 0}";
 },
 {
 name = top;
@@ -33170,7 +33173,7 @@ name = s;
 },
 {
 name = cedillacomb;
-transform = "{1, 0, 0, 1, 199, 0}";
+transform = "{1, 0, 0, 1, 177, 0}";
 }
 );
 layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
@@ -47758,7 +47761,6 @@ transform = "{1, 0, 0, 1, 0, 384}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 0, 20}";
 }
 );
 layerId = UUID0;
@@ -47872,7 +47874,7 @@ name = comma;
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 8, 364}";
+transform = "{1, 0, 0, 1, 8, 384}";
 }
 );
 guideLines = (
@@ -65443,7 +65445,7 @@ name = Ohorn;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 385, 215}";
+transform = "{1, 0, 0, 1, 385, 210}";
 }
 );
 layerId = UUID0;
@@ -65456,7 +65458,7 @@ name = Ohorn;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 380, 205}";
+transform = "{1, 0, 0, 1, 380, 200}";
 }
 );
 layerId = "7C863538-AAB4-42AD-A9FE-7240E615272A";
@@ -65504,7 +65506,7 @@ name = Ohorn;
 },
 {
 name = hookabovecomb.case;
-transform = "{1, 0, 0, 1, 385, 215}";
+transform = "{1, 0, 0, 1, 385, 210}";
 }
 );
 layerId = UUID0;
@@ -65517,7 +65519,7 @@ name = Ohorn;
 },
 {
 name = hookabovecomb.case;
-transform = "{1, 0, 0, 1, 380, 205}";
+transform = "{1, 0, 0, 1, 380, 200}";
 }
 );
 layerId = "7C863538-AAB4-42AD-A9FE-7240E615272A";
@@ -65565,7 +65567,7 @@ name = Ohorn;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 385, 215}";
+transform = "{1, 0, 0, 1, 385, 210}";
 }
 );
 layerId = UUID0;
@@ -65578,7 +65580,7 @@ name = Ohorn;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 380, 205}";
+transform = "{1, 0, 0, 1, 380, 200}";
 }
 );
 layerId = "7C863538-AAB4-42AD-A9FE-7240E615272A";
