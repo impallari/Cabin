@@ -91567,7 +91567,7 @@ instanceInterpolations = {
 "A616F07E-65DE-4D07-A020-83605E49AA22" = 1.0303;
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = -0.030303;
 };
-name = Regular;
+name = "Regular Condensed";
 widthClass = Condensed;
 },
 {
@@ -91610,7 +91610,7 @@ instanceInterpolations = {
 "A616F07E-65DE-4D07-A020-83605E49AA22" = 0.575758;
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 0.424242;
 };
-name = Medium;
+name = "Medium Condensed";
 weightClass = Medium;
 widthClass = Condensed;
 },
@@ -91654,7 +91654,7 @@ instanceInterpolations = {
 "A616F07E-65DE-4D07-A020-83605E49AA22" = 0.363636;
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 0.636364;
 };
-name = SemiBold;
+name = "SemiBold Condensed";
 weightClass = SemiBold;
 widthClass = Condensed;
 },
@@ -91697,7 +91697,7 @@ interpolationWeight = 128;
 instanceInterpolations = {
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 1;
 };
-name = Bold;
+name = "Bold Condensed";
 weightClass = Bold;
 widthClass = Condensed;
 }
