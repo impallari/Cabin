@@ -14,10 +14,6 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
-name = description;
-value = "Copyright (c) 2016 by Pablo Impallari. www.impallari.com Copyright (c) 2016 by Igino Marini. www.ikern.com All rights reserved.";
-},
-{
 name = trademark;
 value = "Cabin is a trademark of Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com.";
 },
