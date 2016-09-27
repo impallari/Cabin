@@ -1,8 +1,5 @@
 {
 .appVersion = "923";
-DisplayStrings = (
-/increment
-);
 classes = (
 {
 automatic = 1;
@@ -90658,6 +90655,48 @@ layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
 width = 0;
 }
 );
+},
+{
+glyphname = NULL.001;
+layers = (
+{
+layerId = UUID0;
+width = 600;
+},
+{
+layerId = "7C863538-AAB4-42AD-A9FE-7240E615272A";
+width = 600;
+},
+{
+layerId = "A616F07E-65DE-4D07-A020-83605E49AA22";
+width = 600;
+},
+{
+layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
+width = 600;
+}
+);
+},
+{
+glyphname = NULL.002;
+layers = (
+{
+layerId = UUID0;
+width = 600;
+},
+{
+layerId = "7C863538-AAB4-42AD-A9FE-7240E615272A";
+width = 600;
+},
+{
+layerId = "A616F07E-65DE-4D07-A020-83605E49AA22";
+width = 600;
+},
+{
+layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
+width = 600;
+}
+);
 }
 );
 instances = (
@@ -90743,11 +90782,15 @@ weightClass = Bold;
 customParameters = (
 {
 name = postscriptFullName;
-value = "Cabin Regular Condensed";
+value = "Cabin Condensed Regular";
 },
 {
 name = compatibleFullName;
-value = "Cabin Regular Condensed";
+value = "Cabin Condensed Regular";
+},
+{
+name = familyName;
+value = "Cabin Condensed";
 }
 );
 interpolationWeight = 94;
@@ -90755,18 +90798,22 @@ instanceInterpolations = {
 "A616F07E-65DE-4D07-A020-83605E49AA22" = 1.0303;
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = -0.030303;
 };
-name = "Regular Condensed";
+name = Regular;
 widthClass = Condensed;
 },
 {
 customParameters = (
 {
 name = postscriptFullName;
-value = "Cabin Medium Condensed";
+value = "Cabin Condensed Medium";
 },
 {
 name = compatibleFullName;
-value = "Cabin Medium Condensed";
+value = "Cabin Condensed Medium";
+},
+{
+name = familyName;
+value = "Cabin Condensed";
 }
 );
 interpolationWeight = 109;
@@ -90774,7 +90821,7 @@ instanceInterpolations = {
 "A616F07E-65DE-4D07-A020-83605E49AA22" = 0.575758;
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 0.424242;
 };
-name = "Medium Condensed";
+name = Medium;
 weightClass = Medium;
 widthClass = Condensed;
 },
@@ -90782,11 +90829,15 @@ widthClass = Condensed;
 customParameters = (
 {
 name = postscriptFullName;
-value = "Cabin SemiBold Condensed";
+value = "Cabin Condensed SemiBold";
 },
 {
 name = compatibleFullName;
-value = "Cabin SemiBold Condensed";
+value = "Cabin Condensed SemiBold";
+},
+{
+name = familyName;
+value = "Cabin Condensed";
 }
 );
 interpolationWeight = 116;
@@ -90794,7 +90845,7 @@ instanceInterpolations = {
 "A616F07E-65DE-4D07-A020-83605E49AA22" = 0.363636;
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 0.636364;
 };
-name = "SemiBold Condensed";
+name = SemiBold;
 weightClass = SemiBold;
 widthClass = Condensed;
 },
@@ -90802,18 +90853,22 @@ widthClass = Condensed;
 customParameters = (
 {
 name = postscriptFullName;
-value = "Cabin Bold Condensed";
+value = "Cabin Condensed Bold";
 },
 {
 name = compatibleFullName;
-value = "Cabin Bold Condensed";
+value = "Cabin Condensed Bold";
+},
+{
+name = familyName;
+value = "Cabin Condensed";
 }
 );
 interpolationWeight = 128;
 instanceInterpolations = {
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 1;
 };
-name = "Bold Condensed";
+name = Bold;
 weightClass = Bold;
 widthClass = Condensed;
 }
