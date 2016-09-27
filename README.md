@@ -18,9 +18,9 @@ M is splashed.
 - Converted project files to .glyphs
 - Fixed tasks listed in [ProjectChecklist.md](https://github.com/googlefonts/gf-docs/blob/master/ProjectChecklist.md) and internal planning spreadsheet.
 - Corrected OpenType features
+- Add anchors
 
 # Todo:
 - Improve README.md
-- Add anchors
 - Check Trademark.md is correct
 - Run fonts through Font bakery and Ship fonts
