@@ -139,7 +139,7 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -147,11 +147,11 @@ value = -250;
 },
 {
 name = typoLineGap;
-value = 250;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 1000;
 },
 {
 name = hheaDescender;
@@ -159,7 +159,7 @@ value = -250;
 },
 {
 name = hheaLineGap;
-value = 250;
+value = 0;
 },
 {
 name = winAscent;
@@ -167,7 +167,7 @@ value = 1145;
 },
 {
 name = winDescent;
-value = 277;
+value = 314;
 }
 );
 descender = -250;
@@ -202,7 +202,7 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -210,11 +210,11 @@ value = -250;
 },
 {
 name = typoLineGap;
-value = 250;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 1000;
 },
 {
 name = hheaDescender;
@@ -222,7 +222,7 @@ value = -250;
 },
 {
 name = hheaLineGap;
-value = 250;
+value = 0;
 },
 {
 name = winAscent;
@@ -230,7 +230,7 @@ value = 1145;
 },
 {
 name = winDescent;
-value = 277;
+value = 314;
 }
 );
 descender = -250;
@@ -61147,6 +61147,7 @@ UUID0 = 0.666667;
 isItalic = 1;
 linkStyle = Regular;
 name = "Medium Italic";
+weightClass = Medium;
 },
 {
 customParameters = (
@@ -61167,6 +61168,7 @@ UUID0 = 0.30303;
 isItalic = 1;
 linkStyle = Regular;
 name = "SemiBold Italic";
+weightClass = SemiBold;
 },
 {
 customParameters = (
@@ -61187,6 +61189,7 @@ isBold = 1;
 isItalic = 1;
 linkStyle = Regular;
 name = "Bold Italic";
+weightClass = Bold;
 }
 );
 kerning = {

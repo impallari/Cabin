@@ -139,7 +139,7 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -147,11 +147,11 @@ value = -250;
 },
 {
 name = typoLineGap;
-value = 250;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 1000;
 },
 {
 name = hheaDescender;
@@ -159,15 +159,15 @@ value = -250;
 },
 {
 name = hheaLineGap;
-value = 250;
+value = 0;
 },
 {
 name = winAscent;
-value = 1139;
+value = 1145;
 },
 {
 name = winDescent;
-value = 298;
+value = 314;
 }
 );
 descender = -250;
@@ -200,7 +200,7 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -208,11 +208,11 @@ value = -250;
 },
 {
 name = typoLineGap;
-value = 250;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 1000;
 },
 {
 name = hheaDescender;
@@ -220,15 +220,15 @@ value = -250;
 },
 {
 name = hheaLineGap;
-value = 250;
+value = 0;
 },
 {
 name = winAscent;
-value = 1139;
+value = 1145;
 },
 {
 name = winDescent;
-value = 298;
+value = 314;
 }
 );
 descender = -250;
@@ -275,7 +275,7 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -283,11 +283,11 @@ value = -250;
 },
 {
 name = typoLineGap;
-value = 250;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 1000;
 },
 {
 name = hheaDescender;
@@ -295,15 +295,15 @@ value = -250;
 },
 {
 name = hheaLineGap;
-value = 250;
+value = 0;
 },
 {
 name = winAscent;
-value = 1139;
+value = 1145;
 },
 {
 name = winDescent;
-value = 298;
+value = 314;
 }
 );
 descender = -250;
@@ -331,7 +331,7 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -339,11 +339,11 @@ value = -250;
 },
 {
 name = typoLineGap;
-value = 250;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 1000;
 },
 {
 name = hheaDescender;
@@ -351,15 +351,15 @@ value = -250;
 },
 {
 name = hheaLineGap;
-value = 250;
+value = 0;
 },
 {
 name = winAscent;
-value = 1139;
+value = 1145;
 },
 {
 name = winDescent;
-value = 298;
+value = 314;
 }
 );
 descender = -250;
