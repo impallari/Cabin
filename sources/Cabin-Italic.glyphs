@@ -1,5 +1,8 @@
 {
 .appVersion = "923";
+DisplayStrings = (
+/Abrevetilde
+);
 classes = (
 {
 automatic = 1;
@@ -179,6 +182,7 @@ horizontalStems = (
 124
 );
 id = UUID0;
+italicAngle = 7;
 verticalStems = (
 95,
 128
@@ -240,6 +244,7 @@ horizontalStems = (
 102
 );
 id = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
+italicAngle = 7;
 verticalStems = (
 128,
 125
@@ -61121,8 +61126,7 @@ instanceInterpolations = {
 UUID0 = 1;
 };
 isItalic = 1;
-linkStyle = Regular;
-name = "Regular Italic";
+name = Italic;
 },
 {
 customParameters = (
@@ -61141,7 +61145,7 @@ UUID0 = 0.666667;
 "D879A026-05F7-4E99-AC55-D533E46CE7AB" = 0.333333;
 };
 isItalic = 1;
-linkStyle = Regular;
+linkStyle = Medium;
 name = "Medium Italic";
 weightClass = Medium;
 },
@@ -61162,7 +61166,7 @@ UUID0 = 0.30303;
 "D879A026-05F7-4E99-AC55-D533E46CE7AB" = 0.69697;
 };
 isItalic = 1;
-linkStyle = Regular;
+linkStyle = SemiBold;
 name = "SemiBold Italic";
 weightClass = SemiBold;
 },
@@ -61183,7 +61187,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = Regular;
+linkStyle = Bold;
 name = "Bold Italic";
 weightClass = Bold;
 }
