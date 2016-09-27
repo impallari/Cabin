@@ -90651,48 +90651,6 @@ layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
 width = 0;
 }
 );
-},
-{
-glyphname = NULL.001;
-layers = (
-{
-layerId = UUID0;
-width = 600;
-},
-{
-layerId = "7C863538-AAB4-42AD-A9FE-7240E615272A";
-width = 600;
-},
-{
-layerId = "A616F07E-65DE-4D07-A020-83605E49AA22";
-width = 600;
-},
-{
-layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
-width = 600;
-}
-);
-},
-{
-glyphname = NULL.002;
-layers = (
-{
-layerId = UUID0;
-width = 600;
-},
-{
-layerId = "7C863538-AAB4-42AD-A9FE-7240E615272A";
-width = 600;
-},
-{
-layerId = "A616F07E-65DE-4D07-A020-83605E49AA22";
-width = 600;
-},
-{
-layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
-width = 600;
-}
-);
 }
 );
 instances = (
