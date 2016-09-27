@@ -1,5 +1,5 @@
 {
-.appVersion = "895";
+.appVersion = "923";
 classes = (
 {
 automatic = 1;
@@ -61813,40 +61813,6 @@ width = 0;
 );
 instances = (
 {
-customParameters = (
-{
-name = typoAscender;
-value = 750;
-},
-{
-name = typoDescender;
-value = -250;
-},
-{
-name = typoLineGap;
-value = 250;
-},
-{
-name = hheaAscender;
-value = 750;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 250;
-},
-{
-name = winAscent;
-value = 1145;
-},
-{
-name = winDescent;
-value = 277;
-}
-);
 interpolationWeight = 95;
 instanceInterpolations = {
 UUID0 = 1;
@@ -61855,40 +61821,6 @@ isItalic = 1;
 name = "Regular Italic";
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 750;
-},
-{
-name = typoDescender;
-value = -250;
-},
-{
-name = typoLineGap;
-value = 250;
-},
-{
-name = hheaAscender;
-value = 750;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 250;
-},
-{
-name = winAscent;
-value = 1145;
-},
-{
-name = winDescent;
-value = 277;
-}
-);
 interpolationWeight = 106;
 instanceInterpolations = {
 UUID0 = 0.666667;
@@ -61899,40 +61831,6 @@ linkStyle = Medium;
 name = "Medium Italic";
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 750;
-},
-{
-name = typoDescender;
-value = -250;
-},
-{
-name = typoLineGap;
-value = 250;
-},
-{
-name = hheaAscender;
-value = 750;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 250;
-},
-{
-name = winAscent;
-value = 1145;
-},
-{
-name = winDescent;
-value = 277;
-}
-);
 interpolationWeight = 118;
 instanceInterpolations = {
 UUID0 = 0.30303;
@@ -61943,40 +61841,6 @@ linkStyle = SemiBold;
 name = "SemiBold Italic";
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 750;
-},
-{
-name = typoDescender;
-value = -250;
-},
-{
-name = typoLineGap;
-value = 250;
-},
-{
-name = hheaAscender;
-value = 750;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 250;
-},
-{
-name = winAscent;
-value = 1145;
-},
-{
-name = winDescent;
-value = 277;
-}
-);
 interpolationWeight = 128;
 instanceInterpolations = {
 "D879A026-05F7-4E99-AC55-D533E46CE7AB" = 1;

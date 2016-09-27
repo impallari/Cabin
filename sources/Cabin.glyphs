@@ -1,5 +1,5 @@
 {
-.appVersion = "895";
+.appVersion = "923";
 classes = (
 {
 automatic = 1;
@@ -91354,40 +91354,6 @@ width = 0;
 );
 instances = (
 {
-customParameters = (
-{
-name = typoAscender;
-value = 750;
-},
-{
-name = typoDescender;
-value = -250;
-},
-{
-name = typoLineGap;
-value = 250;
-},
-{
-name = hheaAscender;
-value = 750;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 250;
-},
-{
-name = winAscent;
-value = 1138;
-},
-{
-name = winDescent;
-value = 304;
-}
-);
 interpolationWeight = 95;
 interpolationWidth = 0;
 instanceInterpolations = {
@@ -91396,40 +91362,6 @@ UUID0 = 1;
 name = Regular;
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 750;
-},
-{
-name = typoDescender;
-value = -250;
-},
-{
-name = typoLineGap;
-value = 250;
-},
-{
-name = hheaAscender;
-value = 750;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 250;
-},
-{
-name = winAscent;
-value = 1138;
-},
-{
-name = winDescent;
-value = 304;
-}
-);
 interpolationWeight = 109;
 interpolationWidth = 0;
 instanceInterpolations = {
@@ -91440,40 +91372,6 @@ name = Medium;
 weightClass = Medium;
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 750;
-},
-{
-name = typoDescender;
-value = -250;
-},
-{
-name = typoLineGap;
-value = 250;
-},
-{
-name = hheaAscender;
-value = 750;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 250;
-},
-{
-name = winAscent;
-value = 1138;
-},
-{
-name = winDescent;
-value = 304;
-}
-);
 interpolationWeight = 116;
 interpolationWidth = 0;
 instanceInterpolations = {
@@ -91484,40 +91382,6 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 750;
-},
-{
-name = typoDescender;
-value = -250;
-},
-{
-name = typoLineGap;
-value = 250;
-},
-{
-name = hheaAscender;
-value = 750;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 250;
-},
-{
-name = winAscent;
-value = 1138;
-},
-{
-name = winDescent;
-value = 304;
-}
-);
 interpolationWeight = 128;
 interpolationWidth = 0;
 instanceInterpolations = {
@@ -91528,40 +91392,6 @@ name = Bold;
 weightClass = Bold;
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 750;
-},
-{
-name = typoDescender;
-value = -250;
-},
-{
-name = typoLineGap;
-value = 250;
-},
-{
-name = hheaAscender;
-value = 750;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 250;
-},
-{
-name = winAscent;
-value = 1138;
-},
-{
-name = winDescent;
-value = 304;
-}
-);
 interpolationWeight = 94;
 instanceInterpolations = {
 "A616F07E-65DE-4D07-A020-83605E49AA22" = 1.0303;
@@ -91571,40 +91401,6 @@ name = "Regular Condensed";
 widthClass = Condensed;
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 750;
-},
-{
-name = typoDescender;
-value = -250;
-},
-{
-name = typoLineGap;
-value = 250;
-},
-{
-name = hheaAscender;
-value = 750;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 250;
-},
-{
-name = winAscent;
-value = 1138;
-},
-{
-name = winDescent;
-value = 304;
-}
-);
 interpolationWeight = 109;
 instanceInterpolations = {
 "A616F07E-65DE-4D07-A020-83605E49AA22" = 0.575758;
@@ -91615,40 +91411,6 @@ weightClass = Medium;
 widthClass = Condensed;
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 750;
-},
-{
-name = typoDescender;
-value = -250;
-},
-{
-name = typoLineGap;
-value = 250;
-},
-{
-name = hheaAscender;
-value = 750;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 250;
-},
-{
-name = winAscent;
-value = 1138;
-},
-{
-name = winDescent;
-value = 304;
-}
-);
 interpolationWeight = 116;
 instanceInterpolations = {
 "A616F07E-65DE-4D07-A020-83605E49AA22" = 0.363636;
@@ -91659,40 +91421,6 @@ weightClass = SemiBold;
 widthClass = Condensed;
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 750;
-},
-{
-name = typoDescender;
-value = -250;
-},
-{
-name = typoLineGap;
-value = 250;
-},
-{
-name = hheaAscender;
-value = 750;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 250;
-},
-{
-name = winAscent;
-value = 1138;
-},
-{
-name = winDescent;
-value = 304;
-}
-);
 interpolationWeight = 128;
 instanceInterpolations = {
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 1;
