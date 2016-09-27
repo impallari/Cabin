@@ -17,7 +17,7 @@ To contribute to the project contact Pablo Impallari at impallari@gmail.com
 
 ChangeLog
 
-27 Sep 2016 (Kalapi Gajjar-Bordawekar) Cabin v2.005 (Cabin, Cabin Italic, and Cabin Condensed)
+27 Sep 2016 (Kalapi Gajjar-Bordawekar) Cabin v2.000 (Cabin, Cabin Italic, and Cabin Condensed)
 - Updated the glyph-set to Google Pro
 - Updated vertical metrics as per Khaled's scheme
 - Updated OpenType layout code (automated by Glyphs)
