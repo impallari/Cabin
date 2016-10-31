@@ -14,13 +14,7 @@ M is splashed.
 - Cabin is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
 - To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/impallari/cabin/blob/master/OFL.txt)
 
-# Completed tasks:
-- Converted project files to .glyphs
-- Fixed tasks listed in [ProjectChecklist.md](https://github.com/googlefonts/gf-docs/blob/master/ProjectChecklist.md) and internal planning spreadsheet.
-- Corrected OpenType features
-- Add anchors
+## Authors
 
-# Todo:
-- Improve README.md
-- Check Trademark.md is correct
-- Run fonts through Font bakery and Ship fonts
+[Pablo Impallari](http://www.impallari.com), iKerned by [Igino Marini](http://ikern.com/k1/), improved and extended by [Kalapi Gajjar-Bordawekar](https://github.com/kalapi)
+Also including contributions by [Marc Foley](https://github.com/m4rc1e) and [Lasse Fister](https://github.com/graphicore).
