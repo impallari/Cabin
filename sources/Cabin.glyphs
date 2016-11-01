@@ -1,5 +1,5 @@
 {
-.appVersion = "923";
+.appVersion = "930";
 classes = (
 {
 automatic = 1;
@@ -67640,27 +67640,6 @@ nodes = (
 }
 );
 width = 603;
-}
-);
-},
-{
-glyphname = .null;
-layers = (
-{
-layerId = UUID0;
-width = 0;
-},
-{
-layerId = "7C863538-AAB4-42AD-A9FE-7240E615272A";
-width = 0;
-},
-{
-layerId = "A616F07E-65DE-4D07-A020-83605E49AA22";
-width = 0;
-},
-{
-layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
-width = 0;
 }
 );
 },
