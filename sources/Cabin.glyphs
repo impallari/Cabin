@@ -1,5 +1,5 @@
 {
-.appVersion = "930";
+.appVersion = "895";
 classes = (
 {
 automatic = 1;
@@ -43,7 +43,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2016-09-19 04:09:48 +0000";
+date = "2016-11-06 07:50:47 +0000";
 designer = "Pablo Impallari";
 designerURL = "http://www.impallari.com";
 familyName = Cabin;
@@ -47620,17 +47620,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"261 0 LINE",
-"429 500 LINE",
-"317 500 LINE",
-"216 154 LINE",
-"114 500 LINE",
+"275 0 LINE",
+"444 500 LINE",
+"319 500 LINE",
+"223 160 LINE",
+"127 500 LINE",
 "2 500 LINE",
-"170 0 LINE"
+"171 0 LINE"
 );
 }
 );
-width = 431;
+width = 446;
 },
 {
 associatedMasterId = "A616F07E-65DE-4D07-A020-83605E49AA22";
@@ -47836,11 +47836,11 @@ width = 613;
 anchors = (
 {
 name = bottom;
-position = "{306, 0}";
+position = "{315, 0}";
 },
 {
 name = top;
-position = "{306, 500}";
+position = "{315, 500}";
 }
 );
 layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
@@ -47848,23 +47848,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"218 0 LINE",
-"306 326 LINE",
-"394 0 LINE",
-"485 0 LINE",
-"610 500 LINE",
-"498 500 LINE",
-"428 151 LINE",
-"352 490 LINE",
-"260 490 LINE",
-"183 151 LINE",
-"114 500 LINE",
+"245 0 LINE",
+"315 322 LINE",
+"385 0 LINE",
+"488 0 LINE",
+"627 500 LINE",
+"506 500 LINE",
+"437 160 LINE",
+"365 490 LINE",
+"265 490 LINE",
+"196 160 LINE",
+"123 500 LINE",
 "2 500 LINE",
-"127 0 LINE"
+"142 0 LINE"
 );
 }
 );
-width = 612;
+width = 629;
 },
 {
 associatedMasterId = "A616F07E-65DE-4D07-A020-83605E49AA22";
@@ -47970,11 +47970,11 @@ name = w;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 306, 0}";
+transform = "{1, 0, 0, 1, 315, 0}";
 }
 );
 layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
-width = 612;
+width = 629;
 }
 );
 unicode = 1E83;
@@ -48028,11 +48028,11 @@ name = w;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 306, 0}";
+transform = "{1, 0, 0, 1, 315, 0}";
 }
 );
 layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
-width = 612;
+width = 629;
 }
 );
 unicode = 0175;
@@ -48086,11 +48086,11 @@ name = w;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 306, 0}";
+transform = "{1, 0, 0, 1, 315, 0}";
 }
 );
 layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
-width = 612;
+width = 629;
 }
 );
 unicode = 1E85;
@@ -48144,11 +48144,11 @@ name = w;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 306, 0}";
+transform = "{1, 0, 0, 1, 315, 0}";
 }
 );
 layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
-width = 612;
+width = 629;
 }
 );
 unicode = 1E81;
@@ -48282,17 +48282,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"150 0 LINE",
-"207 141 LINE",
-"273 0 LINE",
+"138 0 LINE",
+"207 147 LINE",
+"285 0 LINE",
 "418 0 LINE",
-"280 250 LINE",
+"274 250 LINE",
 "420 500 LINE",
-"277 500 LINE",
-"215 359 LINE",
-"149 500 LINE",
+"289 500 LINE",
+"215 353 LINE",
+"137 500 LINE",
 "4 500 LINE",
-"140 250 LINE",
+"146 250 LINE",
 "5 0 LINE"
 );
 }
@@ -48520,14 +48520,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"182 -242 LINE",
-"477 500 LINE",
-"365 500 LINE",
-"240 161 LINE",
-"114 500 LINE",
-"2 500 LINE",
-"182 33 LINE",
-"70 -242 LINE"
+"197 -242 LINE",
+"470 500 LINE",
+"345 500 LINE",
+"239 160 LINE",
+"133 500 LINE",
+"8 500 LINE",
+"179 23 LINE",
+"75 -242 LINE"
 );
 }
 );
@@ -48594,6 +48594,38 @@ nodes = (
 }
 );
 width = 461;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{241, 0}";
+},
+{
+name = top;
+position = "{241, 500}";
+}
+);
+associatedMasterId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
+layerId = "D1519E91-DB79-495D-9DAB-D03DE122378C";
+name = "Bold Condensed Nov 6 16, 12:51";
+paths = (
+{
+closed = 1;
+nodes = (
+"182 -242 LINE",
+"477 500 LINE",
+"365 500 LINE",
+"240 161 LINE",
+"114 500 LINE",
+"2 500 LINE",
+"182 33 LINE",
+"70 -242 LINE"
+);
+}
+);
+width = 479;
+visible = 1;
 }
 );
 leftKerningGroup = y;
@@ -99496,5 +99528,5 @@ oV = "90";
 };
 };
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
