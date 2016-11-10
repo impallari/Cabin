@@ -1,5 +1,5 @@
 {
-.appVersion = "930";
+.appVersion = "895";
 classes = (
 {
 automatic = 1;
@@ -43,7 +43,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2016-09-27 02:36:17 +0000";
+date = "2016-11-06 07:51:57 +0000";
 designer = "Pablo Impallari";
 designerURL = "http://www.impallari.com";
 familyName = Cabin;
@@ -10306,7 +10306,7 @@ nodes = (
 );
 }
 );
-width = 669;
+width = 667;
 },
 {
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -10351,7 +10351,7 @@ nodes = (
 );
 }
 );
-width = 700;
+width = 698;
 },
 {
 associatedMasterId = UUID0;
@@ -17519,32 +17519,6 @@ width = 488;
 }
 );
 unicode = 1EBD;
-},
-{
-glyphname = schwa;
-layers = (
-{
-components = (
-{
-name = e;
-transform = "{-1, 0, 0, -1, 458, 490}";
-}
-);
-layerId = UUID0;
-width = 458;
-},
-{
-components = (
-{
-name = e;
-transform = "{-1, 0, 0, -1, 488, 500}";
-}
-);
-layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
-width = 488;
-}
-);
-unicode = 0259;
 },
 {
 glyphname = f;
@@ -27653,6 +27627,32 @@ leftKerningGroup = f;
 unicode = 00DF;
 },
 {
+glyphname = schwa;
+layers = (
+{
+components = (
+{
+name = e;
+transform = "{-1, 0, 0, -1, 458, 490}";
+}
+);
+layerId = UUID0;
+width = 458;
+},
+{
+components = (
+{
+name = e;
+transform = "{-1, 0, 0, -1, 488, 500}";
+}
+);
+layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
+width = 488;
+}
+);
+unicode = 0259;
+},
+{
 glyphname = t;
 layers = (
 {
@@ -28013,7 +28013,7 @@ layers = (
 components = (
 {
 name = t;
-transform = "{1, 0, 0, 1, 32, 0}";
+transform = "{1, 0, 0, 1, 11, 0}";
 }
 );
 layerId = UUID0;
@@ -28021,20 +28021,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"308 242 LINE",
-"320 305 LINE",
-"47 305 LINE",
-"35 242 LINE"
+"287 242 LINE",
+"299 305 LINE",
+"26 305 LINE",
+"14 242 LINE"
 );
 }
 );
-width = 335;
+width = 314;
 },
 {
 components = (
 {
 name = t;
-transform = "{1, 0, 0, 1, 31, 0}";
+transform = "{1, 0, 0, 1, 10, 0}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -28042,14 +28042,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"329 224 LINE",
-"345 307 LINE",
-"55 307 LINE",
-"39 224 LINE"
+"308 224 LINE",
+"324 307 LINE",
+"34 307 LINE",
+"18 224 LINE"
 );
 }
 );
-width = 369;
+width = 348;
 }
 );
 leftMetricsKey = t;
@@ -37580,7 +37580,7 @@ components = (
 {
 alignment = -1;
 name = zero.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -7, -58}";
 }
 );
 layerId = UUID0;
@@ -37591,11 +37591,11 @@ components = (
 {
 alignment = -1;
 name = zero.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -8, -58}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
-width = 377;
+width = 376;
 },
 {
 associatedMasterId = UUID0;
@@ -37632,22 +37632,22 @@ components = (
 {
 alignment = -1;
 name = one.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -7, -58}";
 }
 );
 layerId = UUID0;
-width = 206;
+width = 207;
 },
 {
 components = (
 {
 alignment = -1;
 name = one.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -8, -58}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
-width = 225;
+width = 224;
 },
 {
 associatedMasterId = UUID0;
@@ -37684,7 +37684,7 @@ components = (
 {
 alignment = -1;
 name = two.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -7, -58}";
 }
 );
 layerId = UUID0;
@@ -37694,7 +37694,7 @@ width = 292;
 components = (
 {
 name = two.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -7, -58}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -37735,7 +37735,7 @@ components = (
 {
 alignment = -1;
 name = three.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -7, -58}";
 }
 );
 layerId = UUID0;
@@ -37746,7 +37746,7 @@ components = (
 {
 alignment = -1;
 name = three.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -7, -58}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -37787,18 +37787,18 @@ components = (
 {
 alignment = -1;
 name = four.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -8, -58}";
 }
 );
 layerId = UUID0;
-width = 283;
+width = 282;
 },
 {
 components = (
 {
 alignment = -1;
 name = four.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -7, -58}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -37839,18 +37839,18 @@ components = (
 {
 alignment = -1;
 name = five.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -8, -58}";
 }
 );
 layerId = UUID0;
-width = 284;
+width = 283;
 },
 {
 components = (
 {
 alignment = -1;
 name = five.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -7, -58}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -37891,7 +37891,7 @@ components = (
 {
 alignment = -1;
 name = six.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -7, -58}";
 }
 );
 layerId = UUID0;
@@ -37902,7 +37902,7 @@ components = (
 {
 alignment = -1;
 name = six.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -7, -58}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -37943,7 +37943,7 @@ components = (
 {
 alignment = -1;
 name = seven.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -7, -58}";
 }
 );
 layerId = UUID0;
@@ -37954,7 +37954,7 @@ components = (
 {
 alignment = -1;
 name = seven.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -7, -58}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -37995,7 +37995,7 @@ components = (
 {
 alignment = -1;
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -7, -58}";
 }
 );
 layerId = UUID0;
@@ -38006,7 +38006,7 @@ components = (
 {
 alignment = -1;
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -7, -58}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -38047,18 +38047,18 @@ components = (
 {
 alignment = -1;
 name = nine.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -8, -58}";
 }
 );
 layerId = UUID0;
-width = 326;
+width = 325;
 },
 {
 components = (
 {
 alignment = -1;
 name = nine.dnom;
-transform = "{1, 0, 0, 1, 0, -58}";
+transform = "{1, 0, 0, 1, -7, -58}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -40828,22 +40828,22 @@ components = (
 {
 alignment = -1;
 name = zero.dnom;
-transform = "{1, 0, 0, 1, 60, 386}";
+transform = "{1, 0, 0, 1, 68, 386}";
 }
 );
 layerId = UUID0;
-width = 392;
+width = 393;
 },
 {
 components = (
 {
 alignment = -1;
 name = zero.dnom;
-transform = "{1, 0, 0, 1, 44, 386}";
+transform = "{1, 0, 0, 1, 51, 386}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
-width = 387;
+width = 386;
 },
 {
 associatedMasterId = UUID0;
@@ -40965,17 +40965,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"172 320 LINE",
-"238 698 LINE",
-"181 698 LINE",
-"169 672 OFFCURVE",
-"128 643 OFFCURVE",
-"108 639 CURVE",
-"101 579 LINE",
-"121 582 OFFCURVE",
-"137 589 OFFCURVE",
-"147 596 CURVE",
-"98 320 LINE"
+"180 320 LINE",
+"246 698 LINE",
+"189 698 LINE",
+"177 672 OFFCURVE",
+"136 643 OFFCURVE",
+"116 639 CURVE",
+"109 579 LINE",
+"129 582 OFFCURVE",
+"145 589 OFFCURVE",
+"155 596 CURVE",
+"106 320 LINE"
 );
 }
 );
@@ -40984,11 +40984,11 @@ components = (
 {
 alignment = -1;
 name = one.dnom;
-transform = "{1, 0, 0, 1, 20, 386}";
+transform = "{1, 0, 0, 1, 28, 386}";
 }
 );
 layerId = UUID0;
-width = 196;
+width = 197;
 },
 {
 background = {
@@ -40996,17 +40996,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"185 320 LINE",
-"252 698 LINE",
-"176 698 LINE",
-"170 671 OFFCURVE",
-"123 636 OFFCURVE",
-"109 639 CURVE",
-"98 565 LINE",
-"121 565 OFFCURVE",
-"139 572 OFFCURVE",
-"133 563 CURVE",
-"90 320 LINE"
+"192 320 LINE",
+"259 698 LINE",
+"183 698 LINE",
+"177 671 OFFCURVE",
+"130 636 OFFCURVE",
+"116 639 CURVE",
+"105 565 LINE",
+"128 565 OFFCURVE",
+"146 572 OFFCURVE",
+"140 563 CURVE",
+"97 320 LINE"
 );
 }
 );
@@ -41015,7 +41015,7 @@ components = (
 {
 alignment = -1;
 name = one.dnom;
-transform = "{1, 0, 0, 1, 20, 386}";
+transform = "{1, 0, 0, 1, 27, 386}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -41079,28 +41079,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"312 320 LINE",
-"325 390 LINE",
-"224 390 LINE",
-"317 510 OFFCURVE",
-"352 569 OFFCURVE",
-"352 623 CURVE SMOOTH",
-"352 662 OFFCURVE",
-"333 706 OFFCURVE",
-"268 706 CURVE SMOOTH",
-"210 706 OFFCURVE",
-"167 672 OFFCURVE",
-"152 652 CURVE",
-"150 587 LINE",
-"162 604 OFFCURVE",
-"198 646 OFFCURVE",
-"244 646 CURVE SMOOTH",
-"268 646 OFFCURVE",
-"281 631 OFFCURVE",
-"281 605 CURVE SMOOTH",
-"281 566 OFFCURVE",
-"256 522 OFFCURVE",
-"86 320 CURVE"
+"319 320 LINE",
+"332 390 LINE",
+"231 390 LINE",
+"324 510 OFFCURVE",
+"359 569 OFFCURVE",
+"359 623 CURVE SMOOTH",
+"359 662 OFFCURVE",
+"340 706 OFFCURVE",
+"275 706 CURVE SMOOTH",
+"217 706 OFFCURVE",
+"174 672 OFFCURVE",
+"159 652 CURVE",
+"157 587 LINE",
+"169 604 OFFCURVE",
+"205 646 OFFCURVE",
+"251 646 CURVE SMOOTH",
+"275 646 OFFCURVE",
+"288 631 OFFCURVE",
+"288 605 CURVE SMOOTH",
+"288 566 OFFCURVE",
+"263 522 OFFCURVE",
+"93 320 CURVE"
 );
 }
 );
@@ -41109,7 +41109,7 @@ components = (
 {
 alignment = -1;
 name = two.dnom;
-transform = "{1, 0, 0, 1, 56, 386}";
+transform = "{1, 0, 0, 1, 63, 386}";
 }
 );
 layerId = UUID0;
@@ -41121,28 +41121,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"319 320 LINE",
-"337 419 LINE",
-"251 419 LINE",
-"325 515 OFFCURVE",
-"359 574 OFFCURVE",
-"359 624 CURVE SMOOTH",
-"359 661 OFFCURVE",
-"340 706 OFFCURVE",
-"271 706 CURVE SMOOTH",
-"212 706 OFFCURVE",
-"167 681 OFFCURVE",
-"144 650 CURVE",
-"141 563 LINE",
-"148 575 OFFCURVE",
-"191 633 OFFCURVE",
-"241 633 CURVE SMOOTH",
-"260 633 OFFCURVE",
-"267 620 OFFCURVE",
-"267 602 CURVE SMOOTH",
-"267 565 OFFCURVE",
-"245 522 OFFCURVE",
-"69 320 CURVE"
+"326 320 LINE",
+"344 419 LINE",
+"258 419 LINE",
+"332 515 OFFCURVE",
+"366 574 OFFCURVE",
+"366 624 CURVE SMOOTH",
+"366 661 OFFCURVE",
+"347 706 OFFCURVE",
+"278 706 CURVE SMOOTH",
+"219 706 OFFCURVE",
+"174 681 OFFCURVE",
+"151 650 CURVE",
+"148 563 LINE",
+"155 575 OFFCURVE",
+"198 633 OFFCURVE",
+"248 633 CURVE SMOOTH",
+"267 633 OFFCURVE",
+"274 620 OFFCURVE",
+"274 602 CURVE SMOOTH",
+"274 565 OFFCURVE",
+"252 522 OFFCURVE",
+"76 320 CURVE"
 );
 }
 );
@@ -41151,7 +41151,7 @@ components = (
 {
 alignment = -1;
 name = two.dnom;
-transform = "{1, 0, 0, 1, 46, 386}";
+transform = "{1, 0, 0, 1, 53, 386}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -41237,47 +41237,47 @@ paths = (
 {
 closed = 1;
 nodes = (
-"278 312 OFFCURVE",
-"361 362 OFFCURVE",
-"361 457 CURVE SMOOTH",
-"361 489 OFFCURVE",
-"349 514 OFFCURVE",
-"332 530 CURVE",
-"357 549 OFFCURVE",
-"377 581 OFFCURVE",
-"377 622 CURVE SMOOTH",
-"377 659 OFFCURVE",
-"358 706 OFFCURVE",
-"279 706 CURVE SMOOTH",
-"243 706 OFFCURVE",
-"207 692 OFFCURVE",
-"193 681 CURVE",
-"194 628 LINE",
-"212 641 OFFCURVE",
-"240 645 OFFCURVE",
-"259 645 CURVE SMOOTH",
-"291 645 OFFCURVE",
-"302 630 OFFCURVE",
-"302 610 CURVE SMOOTH",
-"302 584 OFFCURVE",
-"290 553 OFFCURVE",
-"231 553 CURVE SMOOTH",
-"205 553 LINE",
-"189 498 LINE",
-"240 498 LINE SMOOTH",
-"278 498 OFFCURVE",
-"289 477 OFFCURVE",
-"289 451 CURVE SMOOTH",
-"289 398 OFFCURVE",
-"254 382 OFFCURVE",
-"211 382 CURVE SMOOTH",
-"182 382 OFFCURVE",
-"145 394 OFFCURVE",
-"140 408 CURVE",
-"110 342 LINE",
-"115 332 OFFCURVE",
-"157 312 OFFCURVE",
-"202 312 CURVE SMOOTH"
+"285 312 OFFCURVE",
+"368 362 OFFCURVE",
+"368 457 CURVE SMOOTH",
+"368 489 OFFCURVE",
+"356 514 OFFCURVE",
+"339 530 CURVE",
+"364 549 OFFCURVE",
+"384 581 OFFCURVE",
+"384 622 CURVE SMOOTH",
+"384 659 OFFCURVE",
+"365 706 OFFCURVE",
+"286 706 CURVE SMOOTH",
+"250 706 OFFCURVE",
+"214 692 OFFCURVE",
+"200 681 CURVE",
+"201 628 LINE",
+"219 641 OFFCURVE",
+"247 645 OFFCURVE",
+"266 645 CURVE SMOOTH",
+"298 645 OFFCURVE",
+"309 630 OFFCURVE",
+"309 610 CURVE SMOOTH",
+"309 584 OFFCURVE",
+"297 553 OFFCURVE",
+"238 553 CURVE SMOOTH",
+"212 553 LINE",
+"196 498 LINE",
+"247 498 LINE SMOOTH",
+"285 498 OFFCURVE",
+"296 477 OFFCURVE",
+"296 451 CURVE SMOOTH",
+"296 398 OFFCURVE",
+"261 382 OFFCURVE",
+"218 382 CURVE SMOOTH",
+"189 382 OFFCURVE",
+"152 394 OFFCURVE",
+"147 408 CURVE",
+"117 342 LINE",
+"122 332 OFFCURVE",
+"164 312 OFFCURVE",
+"209 312 CURVE SMOOTH"
 );
 }
 );
@@ -41286,7 +41286,7 @@ components = (
 {
 alignment = -1;
 name = three.dnom;
-transform = "{1, 0, 0, 1, 80, 390}";
+transform = "{1, 0, 0, 1, 87, 390}";
 }
 );
 layerId = UUID0;
@@ -41298,47 +41298,47 @@ paths = (
 {
 closed = 1;
 nodes = (
-"267 312 OFFCURVE",
-"354 363 OFFCURVE",
-"354 459 CURVE SMOOTH",
-"354 495 OFFCURVE",
-"338 510 OFFCURVE",
-"337 530 CURVE",
-"338 532 OFFCURVE",
-"368 570 OFFCURVE",
-"368 617 CURVE SMOOTH",
-"368 654 OFFCURVE",
-"348 706 OFFCURVE",
-"260 706 CURVE SMOOTH",
-"234 706 OFFCURVE",
-"190 696 OFFCURVE",
-"172 681 CURVE",
-"173 616 LINE",
-"194 633 OFFCURVE",
-"229 629 OFFCURVE",
-"233 629 CURVE SMOOTH",
-"265 629 OFFCURVE",
-"272 611 OFFCURVE",
-"272 598 CURVE SMOOTH",
-"272 587 OFFCURVE",
-"261 561 OFFCURVE",
-"221 561 CURVE SMOOTH",
-"187 561 LINE",
-"167 489 LINE",
-"233 489 LINE SMOOTH",
-"256 489 OFFCURVE",
-"263 473 OFFCURVE",
-"263 451 CURVE SMOOTH",
-"263 420 OFFCURVE",
-"239 410 OFFCURVE",
-"194 410 CURVE SMOOTH",
-"168 410 OFFCURVE",
-"115 422 OFFCURVE",
-"127 432 CURVE",
-"87 342 LINE",
-"92 332 OFFCURVE",
-"140 312 OFFCURVE",
-"184 312 CURVE SMOOTH"
+"275 312 OFFCURVE",
+"362 363 OFFCURVE",
+"362 459 CURVE SMOOTH",
+"362 495 OFFCURVE",
+"346 510 OFFCURVE",
+"345 530 CURVE",
+"346 532 OFFCURVE",
+"376 570 OFFCURVE",
+"376 617 CURVE SMOOTH",
+"376 654 OFFCURVE",
+"356 706 OFFCURVE",
+"268 706 CURVE SMOOTH",
+"242 706 OFFCURVE",
+"198 696 OFFCURVE",
+"180 681 CURVE",
+"181 616 LINE",
+"202 633 OFFCURVE",
+"237 629 OFFCURVE",
+"241 629 CURVE SMOOTH",
+"273 629 OFFCURVE",
+"280 611 OFFCURVE",
+"280 598 CURVE SMOOTH",
+"280 587 OFFCURVE",
+"269 561 OFFCURVE",
+"229 561 CURVE SMOOTH",
+"195 561 LINE",
+"175 489 LINE",
+"241 489 LINE SMOOTH",
+"264 489 OFFCURVE",
+"271 473 OFFCURVE",
+"271 451 CURVE SMOOTH",
+"271 420 OFFCURVE",
+"247 410 OFFCURVE",
+"202 410 CURVE SMOOTH",
+"176 410 OFFCURVE",
+"123 422 OFFCURVE",
+"135 432 CURVE",
+"95 342 LINE",
+"100 332 OFFCURVE",
+"148 312 OFFCURVE",
+"192 312 CURVE SMOOTH"
 );
 }
 );
@@ -41347,7 +41347,7 @@ components = (
 {
 alignment = -1;
 name = three.dnom;
-transform = "{1, 0, 0, 1, 60, 390}";
+transform = "{1, 0, 0, 1, 68, 390}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -41470,7 +41470,7 @@ components = (
 {
 alignment = -1;
 name = four.dnom;
-transform = "{1, 0, 0, 1, 110, 386}";
+transform = "{1, 0, 0, 1, 117, 386}";
 }
 );
 layerId = UUID0;
@@ -41481,11 +41481,11 @@ components = (
 {
 alignment = -1;
 name = four.dnom;
-transform = "{1, 0, 0, 1, 100, 386}";
+transform = "{1, 0, 0, 1, 108, 386}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
-width = 371;
+width = 372;
 },
 {
 associatedMasterId = UUID0;
@@ -41584,7 +41584,7 @@ components = (
 {
 alignment = -1;
 name = five.dnom;
-transform = "{1, 0, 0, 1, 80, 386}";
+transform = "{1, 0, 0, 1, 87, 386}";
 }
 );
 layerId = UUID0;
@@ -41595,11 +41595,11 @@ components = (
 {
 alignment = -1;
 name = five.dnom;
-transform = "{1, 0, 0, 1, 70, 386}";
+transform = "{1, 0, 0, 1, 77, 386}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
-width = 341;
+width = 340;
 },
 {
 associatedMasterId = UUID0;
@@ -41712,7 +41712,7 @@ components = (
 {
 alignment = -1;
 name = six.dnom;
-transform = "{1, 0, 0, 1, 60, 386}";
+transform = "{1, 0, 0, 1, 67, 386}";
 }
 );
 layerId = UUID0;
@@ -41723,11 +41723,11 @@ components = (
 {
 alignment = -1;
 name = six.dnom;
-transform = "{1, 0, 0, 1, 40, 386}";
+transform = "{1, 0, 0, 1, 48, 386}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
-width = 322;
+width = 323;
 },
 {
 associatedMasterId = UUID0;
@@ -41862,7 +41862,7 @@ components = (
 {
 alignment = -1;
 name = seven.dnom;
-transform = "{1, 0, 0, 1, 36, 386}";
+transform = "{1, 0, 0, 1, 44, 386}";
 }
 );
 layerId = UUID0;
@@ -41873,11 +41873,11 @@ components = (
 {
 alignment = -1;
 name = seven.dnom;
-transform = "{1, 0, 0, 1, 30, 386}";
+transform = "{1, 0, 0, 1, 37, 386}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
-width = 291;
+width = 290;
 },
 {
 associatedMasterId = UUID0;
@@ -41952,7 +41952,7 @@ components = (
 {
 alignment = -1;
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 60, 386}";
+transform = "{1, 0, 0, 1, 67, 386}";
 }
 );
 layerId = UUID0;
@@ -41963,7 +41963,7 @@ components = (
 {
 alignment = -1;
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 50, 386}";
+transform = "{1, 0, 0, 1, 57, 386}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -42146,18 +42146,18 @@ components = (
 {
 alignment = -1;
 name = nine.dnom;
-transform = "{1, 0, 0, 1, 30, 386}";
+transform = "{1, 0, 0, 1, 37, 386}";
 }
 );
 layerId = UUID0;
-width = 296;
+width = 295;
 },
 {
 components = (
 {
 alignment = -1;
 name = nine.dnom;
-transform = "{1, 0, 0, 1, 30, 386}";
+transform = "{1, 0, 0, 1, 37, 386}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -46139,25 +46139,25 @@ paths = (
 {
 closed = 1;
 nodes = (
-"76 640 LINE",
-"53 510 LINE",
-"176 510 LINE",
-"199 640 LINE",
-"169 650 LINE",
-"215 736 LINE",
-"193 750 LINE"
+"77 640 LINE",
+"54 510 LINE",
+"177 510 LINE",
+"200 640 LINE",
+"170 650 LINE",
+"216 736 LINE",
+"194 750 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"278 640 LINE",
-"255 510 LINE",
-"377 510 LINE",
-"400 640 LINE",
-"371 650 LINE",
-"417 736 LINE",
-"394 750 LINE"
+"279 640 LINE",
+"256 510 LINE",
+"378 510 LINE",
+"401 640 LINE",
+"372 650 LINE",
+"418 736 LINE",
+"395 750 LINE"
 );
 }
 );
@@ -46165,11 +46165,11 @@ nodes = (
 components = (
 {
 name = comma;
-transform = "{-1, 0, 0, -1, 210, 593}";
+transform = "{-1, 0, 0, -1, 211, 593}";
 },
 {
 name = comma;
-transform = "{-1, 0, 0, -1, 400, 593}";
+transform = "{-1, 0, 0, -1, 401, 593}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -50692,19 +50692,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"382 318 LINE",
-"395 394 LINE",
-"62 394 LINE",
-"49 318 LINE"
+"372 318 LINE",
+"385 394 LINE",
+"52 394 LINE",
+"39 318 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"354 160 LINE",
-"367 236 LINE",
-"34 236 LINE",
-"21 160 LINE"
+"344 160 LINE",
+"357 236 LINE",
+"24 236 LINE",
+"11 160 LINE"
 );
 }
 );
@@ -50712,7 +50712,7 @@ nodes = (
 guideLines = (
 {
 angle = 80;
-position = "{38, 318}";
+position = "{28, 318}";
 }
 );
 layerId = UUID0;
@@ -50720,23 +50720,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"388 318 LINE",
-"402 394 LINE",
-"52 394 LINE",
-"38 318 LINE"
+"378 318 LINE",
+"392 394 LINE",
+"42 394 LINE",
+"28 318 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"360 160 LINE",
-"374 236 LINE",
-"24 236 LINE",
-"10 160 LINE"
+"350 160 LINE",
+"364 236 LINE",
+"14 236 LINE",
+"0 160 LINE"
 );
 }
 );
-width = 460;
+width = 441;
 },
 {
 background = {
@@ -50744,19 +50744,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"410 310 LINE",
-"427 404 LINE",
-"72 404 LINE",
-"55 310 LINE"
+"400 310 LINE",
+"417 404 LINE",
+"62 404 LINE",
+"45 310 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"382 150 LINE",
-"399 244 LINE",
-"44 244 LINE",
-"27 150 LINE"
+"372 150 LINE",
+"389 244 LINE",
+"34 244 LINE",
+"17 150 LINE"
 );
 }
 );
@@ -50766,23 +50766,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"404 312 LINE",
-"420 404 LINE",
-"50 404 LINE",
-"34 312 LINE"
+"394 312 LINE",
+"410 404 LINE",
+"40 404 LINE",
+"24 312 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"376 150 LINE",
-"392 242 LINE",
-"22 242 LINE",
-"6 150 LINE"
+"366 150 LINE",
+"382 242 LINE",
+"12 242 LINE",
+"-4 150 LINE"
 );
 }
 );
-width = 470;
+width = 450;
 },
 {
 associatedMasterId = UUID0;
@@ -50906,7 +50906,7 @@ nodes = (
 );
 }
 );
-width = 460;
+width = 441;
 },
 {
 components = (
@@ -50926,7 +50926,7 @@ nodes = (
 );
 }
 );
-width = 470;
+width = 450;
 },
 {
 associatedMasterId = UUID0;
@@ -51701,29 +51701,29 @@ layers = (
 components = (
 {
 name = asciitilde;
-transform = "{1, 0, 0, 1, 1, 0}";
+transform = "{1, 0, 0, 1, -11, 0}";
 },
 {
 name = asciitilde;
-transform = "{1, 0, 0, 1, -26, -150}";
+transform = "{1, 0, 0, 1, -38, -150}";
 }
 );
 layerId = UUID0;
-width = 477;
+width = 452;
 },
 {
 components = (
 {
 name = asciitilde;
-transform = "{1, 0, 0, 1, 4, 6}";
+transform = "{1, 0, 0, 1, -7, 6}";
 },
 {
 name = asciitilde;
-transform = "{1, 0, 0, 1, -24, -155}";
+transform = "{1, 0, 0, 1, -35, -155}";
 }
 );
 layerId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
-width = 481;
+width = 457;
 },
 {
 associatedMasterId = UUID0;
@@ -66107,5 +66107,5 @@ manufacturer = "Pablo Impallari. http://www.impallari.com Igino Marini. http://w
 manufacturerURL = "http://www.impallari.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
