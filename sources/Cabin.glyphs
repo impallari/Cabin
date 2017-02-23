@@ -1,5 +1,5 @@
 {
-.appVersion = "939";
+.appVersion = "976";
 classes = (
 {
 automatic = 1;
@@ -359,7 +359,7 @@ value = 1139;
 },
 {
 name = winDescent;
-value = 298;
+value = 314;
 },
 {
 name = hheaAscender;
@@ -416,7 +416,7 @@ value = 1139;
 },
 {
 name = winDescent;
-value = 298;
+value = 314;
 },
 {
 name = hheaAscender;
@@ -487,7 +487,7 @@ value = 1139;
 },
 {
 name = winDescent;
-value = 298;
+value = 314;
 },
 {
 name = hheaAscender;
@@ -539,7 +539,7 @@ value = 1139;
 },
 {
 name = winDescent;
-value = 298;
+value = 314;
 },
 {
 name = hheaAscender;
@@ -101963,5 +101963,5 @@ oV = "90";
 };
 };
 versionMajor = 2;
-versionMinor = 100;
+versionMinor = 200;
 }
