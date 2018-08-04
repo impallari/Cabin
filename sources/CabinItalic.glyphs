@@ -1,5 +1,5 @@
 {
-.appVersion = "976";
+.appVersion = "1141";
 classes = (
 {
 automatic = 1;
@@ -41,6 +41,19 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
+},
+{
+name = "Variation Font Origin";
+value = UUID0;
 }
 );
 date = "2016-11-17 06:19:49 +0000";
@@ -370,6 +383,15 @@ value = 965;
 {
 name = hheaDescender;
 value = -250;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
 }
 );
 descender = -250;
@@ -430,6 +452,15 @@ value = 965;
 {
 name = hheaDescender;
 value = -250;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
 }
 );
 descender = -250;
@@ -7829,8 +7860,8 @@ nodes = (
 );
 }
 );
-width = 741;
 visible = 1;
+width = 741;
 }
 );
 leftKerningGroup = O;
@@ -8374,8 +8405,8 @@ nodes = (
 );
 }
 );
-width = 1029;
 visible = 1;
+width = 1029;
 }
 );
 leftKerningGroup = O;
@@ -8597,8 +8628,8 @@ nodes = (
 );
 }
 );
-width = 587;
 visible = 1;
+width = 587;
 }
 );
 leftKerningGroup = I;
@@ -8905,8 +8936,8 @@ nodes = (
 );
 }
 );
-width = 550;
 visible = 1;
+width = 550;
 }
 );
 leftKerningGroup = I;
@@ -10254,8 +10285,8 @@ nodes = (
 );
 }
 );
-width = 600;
 visible = 1;
+width = 600;
 }
 );
 unicode = 1E9E;
@@ -10439,8 +10470,8 @@ nodes = (
 );
 }
 );
-width = 600;
 visible = 1;
+width = 600;
 }
 );
 rightMetricsKey = O;
@@ -12618,9 +12649,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = IJ;
 },
 {
+alignment = -1;
 name = acutecomb.case;
 transform = "{1, 0, 0, 1, 211, 210}";
 },
@@ -12636,9 +12669,11 @@ width = 676;
 {
 components = (
 {
+alignment = -1;
 name = IJ;
 },
 {
+alignment = -1;
 name = acutecomb.case;
 transform = "{1, 0, 0, 1, 220, 210}";
 },
@@ -22192,8 +22227,8 @@ name = n;
 );
 layerId = "29955088-E5E1-4B8D-A2D2-95D86EFD9D0F";
 name = "Nov 17 16, 11:29";
-width = 600;
 visible = 1;
+width = 600;
 }
 );
 leftMetricsKey = apostrophemod;
@@ -24281,8 +24316,8 @@ nodes = (
 );
 }
 );
-width = 545;
 visible = 1;
+width = 545;
 }
 );
 leftKerningGroup = o;
@@ -25426,8 +25461,8 @@ nodes = (
 );
 }
 );
-width = 557;
 visible = 1;
+width = 557;
 }
 );
 leftKerningGroup = n;
@@ -27656,8 +27691,8 @@ nodes = (
 );
 }
 );
-width = 553;
 visible = 1;
+width = 553;
 }
 );
 leftKerningGroup = f;
@@ -35361,8 +35396,8 @@ nodes = (
 );
 }
 );
-width = 691;
 visible = 1;
+width = 691;
 }
 );
 unicode = 0030;
@@ -35748,8 +35783,8 @@ nodes = (
 );
 }
 );
-width = 519;
 visible = 1;
+width = 519;
 }
 );
 unicode = 0032;
@@ -36069,8 +36104,8 @@ nodes = (
 );
 }
 );
-width = 528;
 visible = 1;
+width = 528;
 }
 );
 unicode = 0033;
@@ -36254,8 +36289,8 @@ nodes = (
 );
 }
 );
-width = 569;
 visible = 1;
+width = 569;
 }
 );
 unicode = 0034;
@@ -36417,8 +36452,8 @@ nodes = (
 );
 }
 );
-width = 508;
 visible = 1;
+width = 508;
 },
 {
 associatedMasterId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -36780,8 +36815,8 @@ nodes = (
 );
 }
 );
-width = 551;
 visible = 1;
+width = 551;
 }
 );
 unicode = 0036;
@@ -37638,6 +37673,7 @@ width = 376;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = zero.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -37649,6 +37685,7 @@ width = 344;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = zero.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -37690,6 +37727,7 @@ width = 228;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = one.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -37701,6 +37739,7 @@ width = 206;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = one.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -37741,6 +37780,7 @@ width = 303;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = two.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -37752,6 +37792,7 @@ width = 264;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = two.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -37793,6 +37834,7 @@ width = 314;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = three.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -37804,6 +37846,7 @@ width = 309;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = three.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -37845,6 +37888,7 @@ width = 330;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = four.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -37856,6 +37900,7 @@ width = 292;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = four.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -37897,6 +37942,7 @@ width = 301;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = five.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -37908,6 +37954,7 @@ width = 289;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = five.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -37949,6 +37996,7 @@ width = 308;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = six.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -37960,6 +38008,7 @@ width = 299;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = six.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -38001,6 +38050,7 @@ width = 293;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = seven.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -38012,6 +38062,7 @@ width = 274;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = seven.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -38053,6 +38104,7 @@ width = 302;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = eight.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -38064,6 +38116,7 @@ width = 266;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = eight.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -38105,6 +38158,7 @@ width = 322;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = nine.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -38116,6 +38170,7 @@ width = 299;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = nine.dnom;
 transform = "{1, 0, 0, 1, 0, -58}";
 }
@@ -40396,6 +40451,7 @@ width = 387;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = zero.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40407,6 +40463,7 @@ width = 344;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = zero.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40445,6 +40502,7 @@ width = 215;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = one.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40456,6 +40514,7 @@ width = 206;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = one.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40494,6 +40553,7 @@ width = 319;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = two.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40505,6 +40565,7 @@ width = 264;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = two.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40543,6 +40604,7 @@ width = 324;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = three.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40554,6 +40616,7 @@ width = 309;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = three.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40592,6 +40655,7 @@ width = 371;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = four.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40603,6 +40667,7 @@ width = 292;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = four.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40641,6 +40706,7 @@ width = 341;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = five.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40652,6 +40718,7 @@ width = 289;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = five.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40690,6 +40757,7 @@ width = 322;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = six.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40701,6 +40769,7 @@ width = 299;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = six.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40739,6 +40808,7 @@ width = 291;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = seven.dnom;
 transform = "{1, 0, 0, 1, 0, 322}";
 }
@@ -40750,6 +40820,7 @@ width = 274;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = seven.dnom;
 transform = "{1, 0, 0, 1, 0, 322}";
 }
@@ -40788,6 +40859,7 @@ width = 312;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = eight.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40799,6 +40871,7 @@ width = 266;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = eight.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40837,6 +40910,7 @@ width = 282;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = nine.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40848,6 +40922,7 @@ width = 299;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = nine.dnom;
 transform = "{1, 0, 0, 1, 0, 328}";
 }
@@ -40970,6 +41045,7 @@ width = 399;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = zero.dnom;
 transform = "{1, 0, 0, 1, 0, 386}";
 }
@@ -40981,6 +41057,7 @@ width = 344;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = zero.dnom;
 transform = "{1, 0, 0, 1, 0, 386}";
 }
@@ -41590,6 +41667,7 @@ width = 348;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = four.dnom;
 transform = "{1, 0, 0, 1, 0, 386}";
 }
@@ -41601,6 +41679,7 @@ width = 292;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = four.dnom;
 transform = "{1, 0, 0, 1, 0, 386}";
 }
@@ -41718,6 +41797,7 @@ width = 307;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = five.dnom;
 transform = "{1, 0, 0, 1, 0, 386}";
 }
@@ -41729,6 +41809,7 @@ width = 289;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = five.dnom;
 transform = "{1, 0, 0, 1, 0, 386}";
 }
@@ -41868,6 +41949,7 @@ width = 318;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = six.dnom;
 transform = "{1, 0, 0, 1, 0, 386}";
 }
@@ -41879,6 +41961,7 @@ width = 299;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = six.dnom;
 transform = "{1, 0, 0, 1, 0, 386}";
 }
@@ -41958,6 +42041,7 @@ width = 298;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = seven.dnom;
 transform = "{1, 0, 0, 1, 0, 386}";
 }
@@ -41969,6 +42053,7 @@ width = 274;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = seven.dnom;
 transform = "{1, 0, 0, 1, 0, 386}";
 }
@@ -42152,6 +42237,7 @@ width = 341;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = eight.dnom;
 transform = "{1, 0, 0, 1, 0, 386}";
 }
@@ -42163,6 +42249,7 @@ width = 266;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = eight.dnom;
 transform = "{1, 0, 0, 1, 0, 386}";
 }
@@ -42302,6 +42389,7 @@ width = 317;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = nine.dnom;
 transform = "{1, 0, 0, 1, 0, 386}";
 }
@@ -42313,6 +42401,7 @@ width = 299;
 associatedMasterId = UUID0;
 components = (
 {
+alignment = -1;
 name = nine.dnom;
 transform = "{1, 0, 0, 1, 0, 386}";
 }
@@ -43595,8 +43684,8 @@ nodes = (
 );
 }
 );
-width = 235;
 visible = 1;
+width = 235;
 }
 );
 leftKerningGroup = period;
@@ -43883,8 +43972,8 @@ nodes = (
 );
 }
 );
-width = 432;
 visible = 1;
+width = 432;
 }
 );
 unicode = 003F;
@@ -44299,8 +44388,8 @@ nodes = (
 );
 }
 );
-width = 538;
 visible = 1;
+width = 538;
 }
 );
 unicode = 002F;
@@ -44929,8 +45018,8 @@ nodes = (
 );
 }
 );
-width = 315;
 visible = 1;
+width = 315;
 }
 );
 unicode = 007B;
@@ -44941,7 +45030,7 @@ layers = (
 {
 components = (
 {
-alignment = 1;
+alignment = -1;
 name = braceleft;
 transform = "{-1, 0, 0, -1, 280, 614}";
 }
@@ -44952,7 +45041,7 @@ width = 280;
 {
 components = (
 {
-alignment = 1;
+alignment = -1;
 name = braceleft;
 transform = "{-1, 0, 0, -1, 344, 614}";
 }
@@ -45190,8 +45279,8 @@ nodes = (
 );
 }
 );
-width = 333;
 visible = 1;
+width = 333;
 }
 );
 unicode = 005D;
@@ -45320,8 +45409,8 @@ nodes = (
 );
 }
 );
-width = 258;
 visible = 1;
+width = 258;
 },
 {
 associatedMasterId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -45405,7 +45494,7 @@ nodes = (
 };
 components = (
 {
-alignment = 1;
+alignment = -1;
 name = parenleft;
 transform = "{-1, 0, 0, -1, 258, 614}";
 }
@@ -45439,7 +45528,7 @@ nodes = (
 };
 components = (
 {
-alignment = 1;
+alignment = -1;
 name = parenleft;
 transform = "{-1, 0, 0, -1, 331, 614}";
 }
@@ -48805,8 +48894,8 @@ nodes = (
 );
 }
 );
-width = 600;
 visible = 1;
+width = 600;
 }
 );
 unicode = 20BA;
@@ -50207,8 +50296,8 @@ nodes = (
 );
 }
 );
-width = 425;
 visible = 1;
+width = 425;
 },
 {
 associatedMasterId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -50523,8 +50612,8 @@ nodes = (
 );
 }
 );
-width = 442;
 visible = 1;
+width = 442;
 }
 );
 unicode = 00D7;
@@ -51310,8 +51399,8 @@ nodes = (
 );
 }
 );
-width = 439;
 visible = 1;
+width = 439;
 }
 );
 unicode = 003C;
@@ -51412,8 +51501,8 @@ nodes = (
 );
 }
 );
-width = 446;
 visible = 1;
+width = 446;
 }
 );
 unicode = 2265;
@@ -51543,8 +51632,8 @@ nodes = (
 );
 }
 );
-width = 600;
 visible = 1;
+width = 600;
 }
 );
 unicode = 2264;
@@ -51802,8 +51891,8 @@ nodes = (
 );
 }
 );
-width = 474;
 visible = 1;
+width = 474;
 }
 );
 unicode = 00B1;
@@ -55541,8 +55630,8 @@ nodes = (
 );
 }
 );
-width = 319;
 visible = 1;
+width = 319;
 }
 );
 unicode = 00B0;
@@ -55995,8 +56084,8 @@ nodes = (
 );
 }
 );
-width = 600;
 visible = 1;
+width = 600;
 }
 );
 unicode = 2113;
@@ -56463,8 +56552,8 @@ nodes = (
 );
 }
 );
-width = 459;
 visible = 1;
+width = 459;
 },
 {
 associatedMasterId = "D879A026-05F7-4E99-AC55-D533E46CE7AB";
@@ -57467,8 +57556,8 @@ nodes = (
 );
 }
 );
-width = 0;
 visible = 1;
+width = 0;
 }
 );
 unicode = 0302;
@@ -57832,8 +57921,8 @@ nodes = (
 );
 }
 );
-width = 600;
 visible = 1;
+width = 600;
 }
 );
 unicode = 030A;
@@ -58209,8 +58298,8 @@ nodes = (
 );
 }
 );
-width = 369;
 visible = 1;
+width = 369;
 }
 );
 unicode = 0309;
@@ -58829,8 +58918,8 @@ nodes = (
 );
 }
 );
-width = 600;
 visible = 1;
+width = 600;
 }
 );
 unicode = 0327;
@@ -59506,8 +59595,8 @@ nodes = (
 );
 }
 );
-width = 600;
 visible = 1;
+width = 600;
 }
 );
 },
@@ -59624,8 +59713,8 @@ nodes = (
 );
 }
 );
-width = 600;
 visible = 1;
+width = 600;
 }
 );
 },
@@ -61821,8 +61910,8 @@ name = Italic;
 {
 interpolationWeight = 106;
 instanceInterpolations = {
-UUID0 = 0.666667;
-"D879A026-05F7-4E99-AC55-D533E46CE7AB" = 0.333333;
+"D879A026-05F7-4E99-AC55-D533E46CE7AB" = 0.33333;
+UUID0 = 0.66667;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -61832,8 +61921,8 @@ weightClass = Medium;
 {
 interpolationWeight = 118;
 instanceInterpolations = {
-UUID0 = 0.30303;
 "D879A026-05F7-4E99-AC55-D533E46CE7AB" = 0.69697;
+UUID0 = 0.30303;
 };
 isItalic = 1;
 linkStyle = SemiBold;
