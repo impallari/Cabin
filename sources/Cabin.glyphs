@@ -62,6 +62,10 @@ Tag = ital;
 {
 name = "Variation Font Origin";
 value = UUID0;
+},
+{
+name = "Name Table Entry";
+value = Condensed;
 }
 );
 date = "2016-11-16 20:10:32 +0000";
@@ -376,7 +380,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1139;
+value = 1144;
 },
 {
 name = winDescent;
@@ -449,7 +453,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1139;
+value = 1144;
 },
 {
 name = winDescent;
@@ -536,7 +540,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1139;
+value = 1144;
 },
 {
 name = winDescent;
@@ -589,7 +593,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1139;
+value = 1144;
 },
 {
 name = winDescent;
