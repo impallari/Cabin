@@ -48,14 +48,6 @@ value = (
 {
 Name = Weight;
 Tag = wght;
-},
-{
-Name = Width;
-Tag = wdth;
-},
-{
-Name = Italic;
-Tag = ital;
 }
 );
 },
@@ -399,14 +391,6 @@ value = (
 {
 Axis = Weight;
 Location = 400;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }
@@ -477,14 +461,6 @@ value = (
 {
 Axis = Weight;
 Location = 700;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Italic;
-Location = 1;
 }
 );
 }

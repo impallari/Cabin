@@ -52,20 +52,12 @@ Tag = wght;
 {
 Name = Width;
 Tag = wdth;
-},
-{
-Name = Italic;
-Tag = ital;
 }
 );
 },
 {
 name = "Variation Font Origin";
 value = UUID0;
-},
-{
-name = "Name Table Entry";
-value = Condensed;
 }
 );
 date = "2016-11-16 20:10:32 +0000";
@@ -393,23 +385,6 @@ value = 965;
 {
 name = hheaDescender;
 value = -250;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Italic;
-Location = 0;
-}
-);
 }
 );
 descender = -250;
@@ -466,23 +441,6 @@ value = 965;
 {
 name = hheaDescender;
 value = -250;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Italic;
-Location = 0;
-}
-);
 }
 );
 descender = -250;
@@ -560,6 +518,7 @@ horizontalStems = (
 124
 );
 id = "A616F07E-65DE-4D07-A020-83605E49AA22";
+name = "Regular Condensed";
 verticalStems = (
 95,
 128
