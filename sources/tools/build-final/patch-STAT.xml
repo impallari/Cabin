@@ -6,12 +6,12 @@
       <Axis index="0">
         <AxisTag value="wght"/>
         <AxisNameID value="256"/>  <!-- Weight -->
-        <AxisOrdering value="0"/>
+        <AxisOrdering value="1"/>
       </Axis>
       <Axis index="1">
         <AxisTag value="wdth"/>
         <AxisNameID value="257"/>  <!-- Width -->
-        <AxisOrdering value="1"/>
+        <AxisOrdering value="0"/>
       </Axis>
       <Axis index="2">
         <AxisTag value="ital"/>
