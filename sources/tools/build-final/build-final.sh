@@ -35,7 +35,7 @@ ttx Cabin-VF.ttx
 
 rm -rf Cabin-VF.ttx
 
-mv Cabin-VF.ttf VF-final/Cabin-VF.ttf
+mv Cabin-VF.ttf VF-final/Cabin-Roman-VF.ttf
 
 
 # —————————————————————————————————————————————————————————————————————————————————————————————————————————————
@@ -72,5 +72,5 @@ ttx CabinItalic-VF.ttx
 
 rm -rf CabinItalic-VF.ttx
 
-mv CabinItalic-VF.ttf VF-final/CabinItalic-VF.ttf
+mv CabinItalic-VF.ttf VF-final/Cabin-Italic-VF.ttf
 

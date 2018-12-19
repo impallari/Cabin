@@ -44,7 +44,7 @@ ttx Cabin-VF.ttx
 
 rm -rf Cabin-VF.ttx
 
-mv Cabin-VF.ttf VF-linked/Cabin-VF.ttf
+mv Cabin-VF.ttf VF-linked/Cabin-Roman-VF.ttf
 
 
 # —————————————————————————————————————————————————————————————————————————————————————————————————————————————
@@ -86,7 +86,7 @@ ttx CabinCondensed-VF.ttx
 
 rm -rf CabinCondensed-VF.ttx
 
-mv CabinCondensed-VF.ttf VF-linked/CabinCondensed-VF.ttf
+mv CabinCondensed-VF.ttf VF-linked/CabinCondensed-Roman-VF.ttf
 
 # —————————————————————————————————————————————————————————————————————————————————————————————————————————————
 # Build Italic ————————————————————————————————————————————————————————————————————————————————————————————————
@@ -122,4 +122,4 @@ ttx CabinItalic-VF.ttx
 
 rm -rf CabinItalic-VF.ttx
 
-mv CabinItalic-VF.ttf VF-linked/CabinItalic-VF.ttf
+mv CabinItalic-VF.ttf VF-linked/Cabin-Italic-VF.ttf

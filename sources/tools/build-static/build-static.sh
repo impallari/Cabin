@@ -17,6 +17,7 @@ rm -rf instance_ufo
 
 for path in instance_ttf/*.ttf; do
 	filename=${path##*/}
+	gftools fix-dsig --autofix $path
 	ttfautohint $path statics/$filename -I
 done
 
@@ -34,6 +35,7 @@ rm -rf instance_ufo
 
 for path in instance_ttf/*.ttf; do
 	filename=${path##*/}
+	gftools fix-dsig --autofix $path
 	ttfautohint $path statics/$filename -I
 done
 
