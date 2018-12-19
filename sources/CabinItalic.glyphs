@@ -7,7 +7,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircu
 name = Uppercase;
 }
 );
-copyright = "Copyright 2016 The Cabin Project Authors (impallari@gmail.com)";
+copyright = "Copyright 2018 The Cabin Project Authors (https://github.com/impallari/Cabin.git)";
 customParameters = (
 {
 name = licenseURL;
@@ -56,7 +56,7 @@ name = "Variation Font Origin";
 value = UUID0;
 }
 );
-date = "2016-11-17 06:19:49 +0000";
+date = "2018-12-18 21:28:51 +0000";
 designer = "Pablo Impallari";
 designerURL = "http://www.impallari.com";
 familyName = Cabin;
@@ -371,7 +371,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1144;
+value = 1145;
 },
 {
 name = winDescent;
@@ -393,6 +393,10 @@ Axis = Weight;
 Location = 400;
 }
 );
+},
+{
+name = hheaLineGap;
+value = "0";
 }
 );
 descender = -250;
@@ -441,7 +445,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1144;
+value = 1145;
 },
 {
 name = winDescent;
@@ -463,6 +467,10 @@ Axis = Weight;
 Location = 700;
 }
 );
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -250;
@@ -61908,6 +61916,7 @@ instanceInterpolations = {
 UUID0 = 1;
 };
 isItalic = 1;
+linkStyle = Regular;
 name = "Regular Italic";
 },
 {
@@ -66483,5 +66492,5 @@ manufacturer = "Pablo Impallari. http://www.impallari.com Igino Marini. http://w
 manufacturerURL = "http://www.impallari.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 200;
+versionMinor = 201;
 }

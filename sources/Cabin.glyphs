@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2016 The Cabin Project Authors (impallari@gmail.com)";
+copyright = "Copyright 2018 The Cabin Project Authors (https://github.com/impallari/Cabin.git)";
 customParameters = (
 {
 name = licenseURL;
@@ -60,7 +60,7 @@ name = "Variation Font Origin";
 value = UUID0;
 }
 );
-date = "2016-11-16 20:10:32 +0000";
+date = "2018-12-18 21:29:00 +0000";
 designer = "Pablo Impallari";
 designerURL = "http://www.impallari.com";
 familyName = Cabin;
@@ -385,6 +385,10 @@ value = 965;
 {
 name = hheaDescender;
 value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -250;
@@ -441,6 +445,10 @@ value = 965;
 {
 name = hheaDescender;
 value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -250;
@@ -511,6 +519,10 @@ value = 965;
 {
 name = hheaDescender;
 value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -250;
@@ -565,6 +577,10 @@ value = 965;
 {
 name = hheaDescender;
 value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -250;
@@ -93426,6 +93442,7 @@ instanceInterpolations = {
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 1;
 };
 isBold = 1;
+linkStyle = "Regular Condensed";
 name = "Bold Condensed";
 weightClass = Bold;
 widthClass = Condensed;
@@ -101696,5 +101713,5 @@ oV = "90";
 };
 };
 versionMajor = 2;
-versionMinor = 200;
+versionMinor = 201;
 }
