@@ -1,8 +1,5 @@
 {
 .appVersion = "1192";
-DisplayStrings = (
-"/OE"
-);
 classes = (
 {
 automatic = 1;
@@ -59,11 +56,11 @@ Tag = wdth;
 );
 },
 {
-name = "Variation Font Origin";
+name = "Variable Font Origin";
 value = UUID0;
 }
 );
-date = "2018-12-18 21:29:00 +0000";
+date = "2019-01-25 04:00:18 +0000";
 designer = "Pablo Impallari";
 designerURL = "http://www.impallari.com";
 familyName = Cabin;

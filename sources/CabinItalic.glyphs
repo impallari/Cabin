@@ -1,5 +1,5 @@
 {
-.appVersion = "1141";
+.appVersion = "1192";
 classes = (
 {
 automatic = 1;
@@ -52,7 +52,7 @@ Tag = wght;
 );
 },
 {
-name = "Variation Font Origin";
+name = "Variable Font Origin";
 value = UUID0;
 }
 );
@@ -396,7 +396,7 @@ Location = 400;
 },
 {
 name = hheaLineGap;
-value = "0";
+value = 0;
 }
 );
 descender = -250;
