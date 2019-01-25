@@ -1,5 +1,8 @@
 {
-.appVersion = "1141";
+.appVersion = "1192";
+DisplayStrings = (
+"/OE"
+);
 classes = (
 {
 automatic = 1;
@@ -15119,6 +15122,9 @@ paths = (
 {
 closed = 1;
 nodes = (
+"551 -14 OFFCURVE",
+"700 128 OFFCURVE",
+"700 350 CURVE SMOOTH",
 "700 572 OFFCURVE",
 "551 714 OFFCURVE",
 "372 714 CURVE SMOOTH",
@@ -15127,10 +15133,7 @@ nodes = (
 "40 350 CURVE SMOOTH",
 "40 128 OFFCURVE",
 "179 -14 OFFCURVE",
-"372 -14 CURVE SMOOTH",
-"551 -14 OFFCURVE",
-"700 128 OFFCURVE",
-"700 350 CURVE SMOOTH"
+"372 -14 CURVE SMOOTH"
 );
 },
 {
@@ -15153,7 +15156,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"624 0 LINE",
 "1034 0 LINE",
 "1034 86 LINE",
 "715 86 LINE",
@@ -15164,7 +15166,8 @@ nodes = (
 "715 614 LINE",
 "1025 614 LINE",
 "1025 699 LINE",
-"624 699 LINE"
+"624 699 LINE",
+"624 0 LINE"
 );
 }
 );
@@ -15176,6 +15179,9 @@ paths = (
 {
 closed = 1;
 nodes = (
+"556 -14 OFFCURVE",
+"699 130 OFFCURVE",
+"699 350 CURVE SMOOTH",
 "699 570 OFFCURVE",
 "556 714 OFFCURVE",
 "380 714 CURVE SMOOTH",
@@ -15184,10 +15190,7 @@ nodes = (
 "35 350 CURVE SMOOTH",
 "35 130 OFFCURVE",
 "180 -14 OFFCURVE",
-"380 -14 CURVE SMOOTH",
-"556 -14 OFFCURVE",
-"699 130 OFFCURVE",
-"699 350 CURVE SMOOTH"
+"380 -14 CURVE SMOOTH"
 );
 },
 {
@@ -15210,7 +15213,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"593 0 LINE",
 "1029 0 LINE",
 "1029 124 LINE",
 "724 124 LINE",
@@ -15221,7 +15223,8 @@ nodes = (
 "724 576 LINE",
 "1020 576 LINE",
 "1020 700 LINE",
-"593 700 LINE"
+"593 700 LINE",
+"593 0 LINE"
 );
 }
 );
