@@ -30,7 +30,7 @@ gftools fix-nonhinting Cabin-VF.ttf Cabin-VF.ttf
 gftools fix-dsig --autofix Cabin-VF.ttf
 gftools fix-gasp Cabin-VF.ttf
 
-ttx Cabin-VF.ttf
+ttx -x 'MVAR' Cabin-VF.ttf
 
 rm -rf Cabin-VF.ttf
 rm -rf Cabin-VF-backup-fonttools-prep-gasp.ttf
@@ -67,12 +67,7 @@ gftools fix-nonhinting CabinCondensed-VF.ttf CabinCondensed-VF.ttf
 gftools fix-dsig --autofix CabinCondensed-VF.ttf
 gftools fix-gasp CabinCondensed-VF.ttf
 
-ttx CabinCondensed-VF.ttf
-
-rm -rf CabinCondensed-VF.ttf
-rm -rf CabinCondensed-VF-backup-fonttools-prep-gasp.ttf
-
-ttx CabinCondensed-VF.ttf
+ttx -x 'MVAR' CabinCondensed-VF.ttf
 
 rm -rf CabinCondensed-VF.ttf
 rm -rf CabinCondensed-VF-backup-fonttools-prep-gasp.ttf
@@ -108,7 +103,7 @@ gftools fix-nonhinting CabinItalic-VF.ttf CabinItalic-VF.ttf
 gftools fix-dsig --autofix CabinItalic-VF.ttf
 gftools fix-gasp CabinItalic-VF.ttf
 
-ttx CabinItalic-VF.ttf
+ttx -x 'MVAR' CabinItalic-VF.ttf
 
 rm -rf CabinItalic-VF.ttf
 rm -rf CabinItalic-VF-backup-fonttools-prep-gasp.ttf
