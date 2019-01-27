@@ -386,15 +386,6 @@ name = hheaDescender;
 value = -250;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-}
-);
-},
-{
 name = hheaLineGap;
 value = 0;
 }
@@ -458,15 +449,6 @@ value = 965;
 {
 name = hheaDescender;
 value = -250;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-}
-);
 },
 {
 name = hheaLineGap;
@@ -61916,8 +61898,7 @@ instanceInterpolations = {
 UUID0 = 1;
 };
 isItalic = 1;
-linkStyle = Regular;
-name = "Regular Italic";
+name = Italic;
 },
 {
 interpolationCustom = 1;
