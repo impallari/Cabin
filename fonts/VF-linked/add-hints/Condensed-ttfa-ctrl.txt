@@ -1,0 +1,64 @@
+#——————————————————————————————————————————————————————————————
+# a
+
+a nodir 33 
+# Tail gets pinched when joining bowl in bold
+# pt33 was snapping to the edge of the inner counter for the bowl
+
+a left 8-10 (-100, 0)
+# a in bold loses top counter @ 14ppem
+# make segment for the top of the bowl
+# extend to the left to be repeled from the top stroke
+
+
+#——————————————————————————————————————————————————————————————
+# P
+
+P left 13-14
+# Rises off baseline
+
+#——————————————————————————————————————————————————————————————
+# oe.sc (487)
+
+# oe.sc (487) top of O is too high
+
+
+#——————————————————————————————————————————————————————————————
+# o.sc (486)
+
+# Top is too high
+
+
+#——————————————————————————————————————————————————————————————
+# q.sc (489)
+
+# Top is too high
+
+
+#——————————————————————————————————————————————————————————————
+# p.sc (488)
+
+# 488 right 1-2 (0, 80) 
+# 488 left 0 (-300, 300)
+# 488 nodir 1, 11, 12
+# Top gets too short
+
+
+#——————————————————————————————————————————————————————————————
+# 5.dnom (527)
+
+527 right 23-26 (0, 250)
+# Top counter collapses
+
+
+#——————————————————————————————————————————————————————————————
+# dnom glyphs (522–531): 0(522) 1(523) 2(524) 3(525) 4(526) 5(527) 6(528) 7(529) 8(530) 9(531) 
+
+530 touch 29-31, 41-43 yshift -1.0 @ 14
+530 touch 27, 33, 39, 45 yshift -0.5 @ 14
+# 8 top bowl is too tall at 14ppem
+
+# 3 top bowl is too tall at 14ppem
+
+# 0 top bowl is too tall at 14ppem
+

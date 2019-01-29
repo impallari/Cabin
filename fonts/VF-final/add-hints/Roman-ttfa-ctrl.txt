@@ -1,0 +1,33 @@
+#——————————————————————————————————————————————————————————————
+# a
+
+a left 7-10 (-100, 0)
+# Bold loses top counter
+
+a nodir 36  
+# Tail joins bowl with large inktrap in bold
+
+
+#——————————————————————————————————————————————————————————————
+# p.sc (488)
+
+488 left 0
+488 left 13
+# Stem does not stick to baseline
+
+488 left 1-3
+# Once stem is somewhat resolved via "488 left 0" and "488 left 13" top stroke collapses
+
+
+#——————————————————————————————————————————————————————————————
+# g
+
+# g is a little dense in middle area below 20ppem
+
+
+#——————————————————————————————————————————————————————————————
+# Test cap height jumps in A and B
+
+A left 8-9
+B left 1-3
+#  Cap heights are different @ 17, 18, 27, 28, 33, 34, 37, 38, 43, 44, 46, 47, 49, 50, 52, 53, 54, 56
