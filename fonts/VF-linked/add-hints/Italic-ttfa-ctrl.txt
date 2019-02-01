@@ -27,8 +27,18 @@ r nodir 3
 
 
 #——————————————————————————————————————————————————————————————
-# .dnom glyphs (522–531): 0(522) 1(523) 2(524) 3(525) 4(526) 5(527) 6(528) 7(529) 8(530) 9(531)
+# macroncomb (712)
 
-# 2.dnom and 1.dnom are too short in Bold @ 21 ppem
 
-# General alignment issues
+296 point 46-49  yshift -1.0 @ 19
+297 point 46-49 yshift -1.0 @ 19
+63 point 12-15 yshift -1.0 @ 19
+64 point 12-15 yshift -1.0 @ 19
+384 point 32-35 yshift -1.0 @ 19
+385 point 32-35 yshift -1.0 @ 19
+# macron collides with acute in macron_acute. Shifting the macron itself however causes other stacked accents to break
+
+#——————————————————————————————————————————————————————————————
+# macroncombbelow (700)
+
+700 touch 0-3 yshift -1.0 @ 19
