@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H.sc" format="2">
+  <outline>
+    <contour>
+      <point x="788" y="0" type="line"/>
+      <point x="1036" y="0" type="line"/>
+      <point x="1242" y="1162" type="line"/>
+      <point x="994" y="1162" type="line"/>
+      <point x="916" y="724" type="line"/>
+      <point x="414" y="724" type="line"/>
+      <point x="490" y="1162" type="line"/>
+      <point x="244" y="1162" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="372" y="486" type="line"/>
+      <point x="874" y="486" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute_j.loclNLD" format="2">
+  <advance width="788"/>
+  <outline>
+    <contour>
+      <point x="56" y="1152" type="line"/>
+      <point x="310" y="1278" type="line"/>
+      <point x="310" y="1474" type="line"/>
+      <point x="56" y="1274" type="line"/>
+    </contour>
+    <contour>
+      <point x="478" y="1152" type="line"/>
+      <point x="732" y="1278" type="line"/>
+      <point x="732" y="1474" type="line"/>
+      <point x="478" y="1274" type="line"/>
+    </contour>
+    <component base="idotless" xOffset="-32"/>
+    <component base="jdotless" xOffset="392"/>
+  </outline>
+</glyph>

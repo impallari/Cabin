@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="1100"/>
+  <unicode hex="00F8"/>
+  <guideline x="518" y="245" angle="90"/>
+  <guideline x="32" y="245" angle="90"/>
+  <anchor x="550" y="980" name="top"/>
+  <outline>
+    <contour>
+      <point x="822" y="1060" type="line"/>
+      <point x="116" y="-80" type="line"/>
+      <point x="278" y="-80" type="line"/>
+      <point x="984" y="1060" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

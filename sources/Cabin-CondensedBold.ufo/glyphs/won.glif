@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="1620"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="308" y="0" type="line"/>
+      <point x="568" y="0" type="line"/>
+      <point x="836" y="1120" type="line"/>
+      <point x="784" y="1120" type="line"/>
+      <point x="1052" y="0" type="line"/>
+      <point x="1312" y="0" type="line"/>
+      <point x="1624" y="1400" type="line"/>
+      <point x="1380" y="1400" type="line"/>
+      <point x="1154" y="252" type="line"/>
+      <point x="1202" y="254" type="line"/>
+      <point x="940" y="1374" type="line"/>
+      <point x="680" y="1374" type="line"/>
+      <point x="418" y="254" type="line"/>
+      <point x="466" y="252" type="line"/>
+      <point x="240" y="1400" type="line"/>
+      <point x="-4" y="1400" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="644" type="line"/>
+      <point x="1600" y="644" type="line"/>
+      <point x="1600" y="808" type="line"/>
+      <point x="20" y="808" type="line"/>
+    </contour>
+  </outline>
+</glyph>

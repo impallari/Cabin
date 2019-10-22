@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior" format="2">
+  <advance width="420"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="156" y="640" type="line"/>
+      <point x="304" y="640" type="line"/>
+      <point x="436" y="1396" type="line"/>
+      <point x="322" y="1396" type="line"/>
+      <point x="298" y="1344"/>
+      <point x="216" y="1286"/>
+      <point x="176" y="1278" type="curve"/>
+      <point x="162" y="1158" type="line"/>
+      <point x="202" y="1164"/>
+      <point x="234" y="1178"/>
+      <point x="254" y="1192" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>one.numr</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>one.numr</string>
+    </dict>
+  </lib>
+</glyph>

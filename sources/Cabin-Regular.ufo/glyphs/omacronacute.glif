@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omacronacute" format="2">
+  <advance width="1100"/>
+  <unicode hex="1E53"/>
+  <outline>
+    <component base="o"/>
+    <component base="macroncomb.case" xOffset="550"/>
+    <component base="acutecomb.case" xOffset="550" yOffset="344"/>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="1522"/>
+  <unicode hex="0025"/>
+  <outline>
+    <component base="zero.numr" xOffset="8"/>
+    <component base="fraction" xOffset="702"/>
+    <component base="zero.dnom" xOffset="826"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
