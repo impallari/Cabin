@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iacute_J.loclNLD" format="2">
+  <advance width="1200"/>
+  <outline>
+    <component base="IJ"/>
+    <component base="acutecomb.case" xOffset="240" yOffset="420"/>
+    <component base="acutecomb.case" xOffset="952" yOffset="420"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

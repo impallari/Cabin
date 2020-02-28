@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb" format="2">
+  <unicode hex="032E"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="0" y="-468" name="bottom"/>
+  <outline>
+    <component base="brevecomb" yOffset="-1634"/>
+  </outline>
+</glyph>

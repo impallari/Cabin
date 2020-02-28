@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <array>
+    <array>
+      <string>public.default</string>
+      <string>glyphs</string>
+    </array>
+    <array>
+      <string>public.background</string>
+      <string>glyphs.public.background</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 14:04</string>
+      <string>glyphs.B_old S_ep 7 16, 14_04</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 01:48</string>
+      <string>glyphs.B_old S_ep 16 16, 01_48</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 21:06</string>
+      <string>glyphs.B_old S_ep 16 16, 21_06</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 01:17</string>
+      <string>glyphs.B_old S_ep 16 16, 01_17</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 18:52</string>
+      <string>glyphs.B_old S_ep 7 16, 18_52</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 14:04.background</string>
+      <string>glyphs.B_old S_ep 7 16, 14_04.background</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 01:43</string>
+      <string>glyphs.B_old S_ep 16 16, 01_43</string>
+    </array>
+    <array>
+      <string>Bold Sep 20 16, 18:12</string>
+      <string>glyphs.B_old S_ep 20 16, 18_12</string>
+    </array>
+    <array>
+      <string>Bold Sep 15 16, 19:10</string>
+      <string>glyphs.B_old S_ep 15 16, 19_10</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 00:59</string>
+      <string>glyphs.B_old S_ep 16 16, 00_59</string>
+    </array>
+    <array>
+      <string>Bold Sep 19 16, 19:46</string>
+      <string>glyphs.B_old S_ep 19 16, 19_46</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 01:20</string>
+      <string>glyphs.B_old S_ep 16 16, 01_20</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 01:28</string>
+      <string>glyphs.B_old S_ep 16 16, 01_28</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 19:01</string>
+      <string>glyphs.B_old S_ep 7 16, 19_01</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 15:17</string>
+      <string>glyphs.B_old S_ep 7 16, 15_17</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 21:03</string>
+      <string>glyphs.B_old S_ep 7 16, 21_03</string>
+    </array>
+    <array>
+      <string>Bold Sep 9 16, 17:32</string>
+      <string>glyphs.B_old S_ep 9 16, 17_32</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 21:33</string>
+      <string>glyphs.B_old S_ep 7 16, 21_33</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 20:42</string>
+      <string>glyphs.B_old S_ep 7 16, 20_42</string>
+    </array>
+    <array>
+      <string>Bold Sep 9 16, 17:41</string>
+      <string>glyphs.B_old S_ep 9 16, 17_41</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 21:57</string>
+      <string>glyphs.B_old S_ep 7 16, 21_57</string>
+    </array>
+    <array>
+      <string>Bold Sep 9 16, 19:33</string>
+      <string>glyphs.B_old S_ep 9 16, 19_33</string>
+    </array>
+    <array>
+      <string>Bold Sep 9 16, 20:36</string>
+      <string>glyphs.B_old S_ep 9 16, 20_36</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 21:06</string>
+      <string>glyphs.B_old S_ep 7 16, 21_06</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 21:13</string>
+      <string>glyphs.B_old S_ep 7 16, 21_13</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 21:21</string>
+      <string>glyphs.B_old S_ep 7 16, 21_21</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 21:30</string>
+      <string>glyphs.B_old S_ep 7 16, 21_30</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 20:51</string>
+      <string>glyphs.B_old S_ep 7 16, 20_51</string>
+    </array>
+    <array>
+      <string>Bold Sep 9 16, 21:04</string>
+      <string>glyphs.B_old S_ep 9 16, 21_04</string>
+    </array>
+    <array>
+      <string>Bold Sep 15 16, 02:01</string>
+      <string>glyphs.B_old S_ep 15 16, 02_01</string>
+    </array>
+    <array>
+      <string>Bold Sep 9 16, 22:55</string>
+      <string>glyphs.B_old S_ep 9 16, 22_55</string>
+    </array>
+    <array>
+      <string>Bold Sep 9 16, 20:59</string>
+      <string>glyphs.B_old S_ep 9 16, 20_59</string>
+    </array>
+    <array>
+      <string>Bold Sep 15 16, 02:02</string>
+      <string>glyphs.B_old S_ep 15 16, 02_02</string>
+    </array>
+    <array>
+      <string>Bold Sep 9 16, 22:58</string>
+      <string>glyphs.B_old S_ep 9 16, 22_58</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 20:26</string>
+      <string>glyphs.B_old S_ep 16 16, 20_26</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 20:44</string>
+      <string>glyphs.B_old S_ep 16 16, 20_44</string>
+    </array>
+    <array>
+      <string>Bold Sep 17 16, 06:41</string>
+      <string>glyphs.B_old S_ep 17 16, 06_41</string>
+    </array>
+    <array>
+      <string>Bold Sep 17 16, 06:51</string>
+      <string>glyphs.B_old S_ep 17 16, 06_51</string>
+    </array>
+    <array>
+      <string>Bold Sep 17 16, 06:35</string>
+      <string>glyphs.B_old S_ep 17 16, 06_35</string>
+    </array>
+    <array>
+      <string>Bold Sep 17 16, 06:17</string>
+      <string>glyphs.B_old S_ep 17 16, 06_17</string>
+    </array>
+    <array>
+      <string>Bold Sep 17 16, 06:28</string>
+      <string>glyphs.B_old S_ep 17 16, 06_28</string>
+    </array>
+    <array>
+      <string>Bold Sep 17 16, 06:50</string>
+      <string>glyphs.B_old S_ep 17 16, 06_50</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 19:34</string>
+      <string>glyphs.B_old S_ep 16 16, 19_34</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 20:18</string>
+      <string>glyphs.B_old S_ep 16 16, 20_18</string>
+    </array>
+    <array>
+      <string>Bold Sep 22 16, 06:14</string>
+      <string>glyphs.B_old S_ep 22 16, 06_14</string>
+    </array>
+    <array>
+      <string>Bold Sep 17 16, 07:07</string>
+      <string>glyphs.B_old S_ep 17 16, 07_07</string>
+    </array>
+    <array>
+      <string>Bold Sep 17 16, 07:03</string>
+      <string>glyphs.B_old S_ep 17 16, 07_03</string>
+    </array>
+    <array>
+      <string>Bold Sep 17 16, 07:04</string>
+      <string>glyphs.B_old S_ep 17 16, 07_04</string>
+    </array>
+    <array>
+      <string>Bold Sep 17 16, 06:58</string>
+      <string>glyphs.B_old S_ep 17 16, 06_58</string>
+    </array>
+    <array>
+      <string>Bold Sep 17 16, 07:00</string>
+      <string>glyphs.B_old S_ep 17 16, 07_00</string>
+    </array>
+    <array>
+      <string>Bold Sep 17 16, 07:05</string>
+      <string>glyphs.B_old S_ep 17 16, 07_05</string>
+    </array>
+    <array>
+      <string>Bold Sep 8 16, 20:19</string>
+      <string>glyphs.B_old S_ep 8 16, 20_19</string>
+    </array>
+    <array>
+      <string>Bold Sep 8 16, 15:08</string>
+      <string>glyphs.B_old S_ep 8 16, 15_08</string>
+    </array>
+    <array>
+      <string>Bold Sep 8 16, 20:12</string>
+      <string>glyphs.B_old S_ep 8 16, 20_12</string>
+    </array>
+    <array>
+      <string>Bold Sep 8 16, 20:08</string>
+      <string>glyphs.B_old S_ep 8 16, 20_08</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 16:50</string>
+      <string>glyphs.B_old S_ep 16 16, 16_50</string>
+    </array>
+    <array>
+      <string>Bold Sep 8 16, 20:28</string>
+      <string>glyphs.B_old S_ep 8 16, 20_28</string>
+    </array>
+    <array>
+      <string>Bold Sep 8 16, 20:47</string>
+      <string>glyphs.B_old S_ep 8 16, 20_47</string>
+    </array>
+    <array>
+      <string>Bold Sep 8 16, 14:04</string>
+      <string>glyphs.B_old S_ep 8 16, 14_04</string>
+    </array>
+    <array>
+      <string>Bold Sep 22 16, 20:11</string>
+      <string>glyphs.B_old S_ep 22 16, 20_11</string>
+    </array>
+    <array>
+      <string>Bold Sep 8 16, 14:21</string>
+      <string>glyphs.B_old S_ep 8 16, 14_21</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 21:00</string>
+      <string>glyphs.B_old S_ep 16 16, 21_00</string>
+    </array>
+    <array>
+      <string>Bold Sep 17 16, 04:40</string>
+      <string>glyphs.B_old S_ep 17 16, 04_40</string>
+    </array>
+    <array>
+      <string>Bold Sep 17 16, 02:57</string>
+      <string>glyphs.B_old S_ep 17 16, 02_57</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 20:36</string>
+      <string>glyphs.B_old S_ep 7 16, 20_36</string>
+    </array>
+    <array>
+      <string>Bold Sep 9 16, 23:05</string>
+      <string>glyphs.B_old S_ep 9 16, 23_05</string>
+    </array>
+    <array>
+      <string>Bold Sep 7 16, 20:40</string>
+      <string>glyphs.B_old S_ep 7 16, 20_40</string>
+    </array>
+    <array>
+      <string>Bold Sep 9 16, 23:07</string>
+      <string>glyphs.B_old S_ep 9 16, 23_07</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 20:54</string>
+      <string>glyphs.B_old S_ep 16 16, 20_54</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 15:51</string>
+      <string>glyphs.B_old S_ep 16 16, 15_51</string>
+    </array>
+    <array>
+      <string>Bold Sep 17 16, 02:33</string>
+      <string>glyphs.B_old S_ep 17 16, 02_33</string>
+    </array>
+    <array>
+      <string>Bold Sep 8 16, 13:09</string>
+      <string>glyphs.B_old S_ep 8 16, 13_09</string>
+    </array>
+    <array>
+      <string>Bold Sep 15 16, 16:14</string>
+      <string>glyphs.B_old S_ep 15 16, 16_14</string>
+    </array>
+    <array>
+      <string>Bold Sep 15 16, 03:00</string>
+      <string>glyphs.B_old S_ep 15 16, 03_00</string>
+    </array>
+    <array>
+      <string>Bold Sep 15 16, 03:05</string>
+      <string>glyphs.B_old S_ep 15 16, 03_05</string>
+    </array>
+    <array>
+      <string>Bold Sep 15 16, 17:22</string>
+      <string>glyphs.B_old S_ep 15 16, 17_22</string>
+    </array>
+    <array>
+      <string>Bold Sep 15 16, 03:39</string>
+      <string>glyphs.B_old S_ep 15 16, 03_39</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 17:01</string>
+      <string>glyphs.B_old S_ep 16 16, 17_01</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 02:29</string>
+      <string>glyphs.B_old S_ep 16 16, 02_29</string>
+    </array>
+    <array>
+      <string>Bold Sep 27 16, 06:14</string>
+      <string>glyphs.B_old S_ep 27 16, 06_14</string>
+    </array>
+    <array>
+      <string>Bold Sep 15 16, 16:05</string>
+      <string>glyphs.B_old S_ep 15 16, 16_05</string>
+    </array>
+    <array>
+      <string>Bold Sep 15 16, 19:24</string>
+      <string>glyphs.B_old S_ep 15 16, 19_24</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 17:21</string>
+      <string>glyphs.B_old S_ep 16 16, 17_21</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 18:38</string>
+      <string>glyphs.B_old S_ep 16 16, 18_38</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 18:44</string>
+      <string>glyphs.B_old S_ep 16 16, 18_44</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 18:52</string>
+      <string>glyphs.B_old S_ep 16 16, 18_52</string>
+    </array>
+    <array>
+      <string>Bold Sep 16 16, 18:57</string>
+      <string>glyphs.B_old S_ep 16 16, 18_57</string>
+    </array>
+  </array>
+</plist>
