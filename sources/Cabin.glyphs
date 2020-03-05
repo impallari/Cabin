@@ -65427,12 +65427,6 @@ unicode = 005F;
 glyphname = periodcentered.loclCAT.case;
 layers = (
 {
-anchors = (
-{
-name = _center;
-position = "{238, 556}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -65448,12 +65442,6 @@ nodes = (
 width = 476;
 },
 {
-anchors = (
-{
-name = _center;
-position = "{224, 556}";
-}
-);
 layerId = "7C863538-AAB4-42AD-A9FE-7240E615272A";
 paths = (
 {
@@ -65469,12 +65457,6 @@ nodes = (
 width = 448;
 },
 {
-anchors = (
-{
-name = _center;
-position = "{230, 556}";
-}
-);
 layerId = "A616F07E-65DE-4D07-A020-83605E49AA22";
 paths = (
 {
@@ -65490,12 +65472,6 @@ nodes = (
 width = 460;
 },
 {
-anchors = (
-{
-name = _center;
-position = "{216, 556}";
-}
-);
 layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
 paths = (
 {
@@ -65516,12 +65492,6 @@ width = 432;
 glyphname = periodcentered.loclCAT;
 layers = (
 {
-anchors = (
-{
-name = _center;
-position = "{234, 556}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -65537,12 +65507,6 @@ nodes = (
 width = 476;
 },
 {
-anchors = (
-{
-name = _center;
-position = "{224, 556}";
-}
-);
 layerId = "7C863538-AAB4-42AD-A9FE-7240E615272A";
 paths = (
 {
@@ -65558,12 +65522,6 @@ nodes = (
 width = 448;
 },
 {
-anchors = (
-{
-name = _center;
-position = "{226, 556}";
-}
-);
 layerId = "A616F07E-65DE-4D07-A020-83605E49AA22";
 paths = (
 {
@@ -65579,12 +65537,6 @@ nodes = (
 width = 460;
 },
 {
-anchors = (
-{
-name = _center;
-position = "{216, 556}";
-}
-);
 layerId = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
 paths = (
 {
