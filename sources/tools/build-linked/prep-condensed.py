@@ -55,6 +55,6 @@ for parameter in font.customParameters:
     elif parameter.name == "Variation Font Origin":
         parameter.value = font.masters[0].id
 
-print "Built Cabin Condensed source"
+print("Built Cabin Condensed source")
 
 font.save(filename)
