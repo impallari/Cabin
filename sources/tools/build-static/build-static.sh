@@ -4,7 +4,7 @@ mkdir statics
 
 cp Cabin.glyphs Build-Roman.glyphs
 
-python2 $(dirname ${BASH_SOURCE[0]})/prep-roman.py Build-Roman.glyphs
+python3 $(dirname ${BASH_SOURCE[0]})/prep-roman.py Build-Roman.glyphs
 
 # —————————————————————————————————————————————————————————————————————————————————————————————————————————————
 # Build Romans ————————————————————————————————————————————————————————————————————————————————————————————————
