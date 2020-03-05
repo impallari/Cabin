@@ -2,6 +2,8 @@
 <glyph name="iogonek" format="2">
   <advance width="408"/>
   <unicode hex="012F"/>
+  <anchor x="204" y="0" name="bottom"/>
+  <anchor x="236" y="0" name="ogonek"/>
   <outline>
     <component base="i"/>
     <component base="ogonekcomb" xOffset="236"/>

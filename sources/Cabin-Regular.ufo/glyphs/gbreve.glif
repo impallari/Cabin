@@ -2,6 +2,8 @@
 <glyph name="gbreve" format="2">
   <advance width="996"/>
   <unicode hex="011F"/>
+  <anchor x="514" y="-484" name="bottom"/>
+  <anchor x="506" y="1528" name="top"/>
   <outline>
     <component base="g"/>
     <component base="brevecomb" xOffset="506"/>

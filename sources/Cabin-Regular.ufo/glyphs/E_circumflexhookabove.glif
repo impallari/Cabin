@@ -2,6 +2,9 @@
 <glyph name="Ecircumflexhookabove" format="2">
   <advance width="1108"/>
   <unicode hex="1EC2"/>
+  <anchor x="612" y="0" name="bottom"/>
+  <anchor x="976" y="0" name="ogonek"/>
+  <anchor x="608" y="1980" name="top"/>
   <outline>
     <component base="E"/>
     <component base="circumflexcomb_hookabovecomb" xOffset="608" yOffset="420"/>

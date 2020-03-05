@@ -2,6 +2,8 @@
 <glyph name="Ydotbelow" format="2">
   <advance width="1050"/>
   <unicode hex="1EF4"/>
+  <anchor x="526" y="-380" name="bottom"/>
+  <anchor x="526" y="1400" name="top"/>
   <outline>
     <component base="Y"/>
     <component base="dotbelowcomb" xOffset="526"/>

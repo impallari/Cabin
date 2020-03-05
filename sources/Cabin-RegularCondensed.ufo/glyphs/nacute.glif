@@ -2,6 +2,8 @@
 <glyph name="nacute" format="2">
   <advance width="934"/>
   <unicode hex="0144"/>
+  <anchor x="464" y="0" name="bottom"/>
+  <anchor x="474" y="1464" name="top"/>
   <outline>
     <component base="n"/>
     <component base="acutecomb" xOffset="474"/>

@@ -2,6 +2,10 @@
 <glyph name="Lj" format="2">
   <advance width="1276"/>
   <unicode hex="01C8"/>
+  <anchor x="490" y="0" name="bottom"/>
+  <anchor x="684" y="784" name="center"/>
+  <anchor x="254" y="1400" name="top"/>
+  <anchor x="658" y="1400" name="topright"/>
   <outline>
     <component base="L"/>
     <component base="j" xOffset="860"/>

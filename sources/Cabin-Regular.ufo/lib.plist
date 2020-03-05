@@ -51,8 +51,6 @@
     <string>UUID0</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>0</integer>
-    <key>com.schriftgestaltung.glyphOrder</key>
-    <false/>
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>

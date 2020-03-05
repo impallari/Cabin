@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iacute_j.loclNLD" format="2">
   <advance width="788"/>
+  <anchor x="176" y="0" name="bottom"/>
+  <anchor x="340" y="20" name="ogonek"/>
+  <anchor x="176" y="1000" name="top_1"/>
+  <anchor x="600" y="1000" name="top_2"/>
   <outline>
     <contour>
       <point x="56" y="1152" type="line"/>

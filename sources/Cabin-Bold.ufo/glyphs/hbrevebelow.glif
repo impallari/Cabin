@@ -2,6 +2,8 @@
 <glyph name="hbrevebelow" format="2">
   <advance width="1102"/>
   <unicode hex="1E2B"/>
+  <anchor x="552" y="-468" name="bottom"/>
+  <anchor x="238" y="1480" name="top"/>
   <outline>
     <component base="h"/>
     <component base="brevebelowcomb" xOffset="552"/>

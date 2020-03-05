@@ -2,6 +2,10 @@
 <glyph name="Uhungarumlaut" format="2">
   <advance width="1448"/>
   <unicode hex="0170"/>
+  <anchor x="724" y="0" name="bottom"/>
+  <anchor x="868" y="0" name="ogonek"/>
+  <anchor x="724" y="1930" name="top"/>
+  <anchor x="1210" y="1400" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="hungarumlautcomb.case" xOffset="726" yOffset="420"/>

@@ -51,8 +51,6 @@
     <string>A616F07E-65DE-4D07-A020-83605E49AA22</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>2</integer>
-    <key>com.schriftgestaltung.glyphOrder</key>
-    <false/>
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>
