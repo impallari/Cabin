@@ -2,6 +2,8 @@
 <glyph name="Cdotaccent" format="2">
   <advance width="1186"/>
   <unicode hex="010A"/>
+  <anchor x="654" y="0" name="bottom"/>
+  <anchor x="978" y="1760" name="top"/>
   <outline>
     <component base="C"/>
     <component base="dotaccentcomb.case" xOffset="946" yOffset="400"/>

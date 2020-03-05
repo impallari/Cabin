@@ -2,6 +2,9 @@
 <glyph name="Edblgrave" format="2">
   <advance width="1110"/>
   <unicode hex="0204"/>
+  <anchor x="516" y="0" name="bottom"/>
+  <anchor x="874" y="0" name="ogonek"/>
+  <anchor x="826" y="1910" name="top"/>
   <outline>
     <component base="E"/>
     <component base="dblgravecomb.case" xOffset="780" yOffset="400"/>

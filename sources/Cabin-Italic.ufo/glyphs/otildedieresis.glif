@@ -2,6 +2,11 @@
 <glyph name="otildedieresis" format="2">
   <advance width="1028"/>
   <unicode hex="1E4F"/>
+  <anchor x="410" y="0" name="bottom"/>
+  <anchor x="514" y="490" name="center"/>
+  <anchor x="484" y="0" name="ogonek"/>
+  <anchor x="704" y="1652" name="top"/>
+  <anchor x="662" y="980" name="topright"/>
   <outline>
     <component base="o"/>
     <component base="tildecomb.case" xOffset="618"/>

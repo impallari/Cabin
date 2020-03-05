@@ -2,6 +2,8 @@
 <glyph name="guarani" format="2">
   <advance width="1216"/>
   <unicode hex="20B2"/>
+  <anchor x="548" y="0" name="bottom"/>
+  <anchor x="780" y="1400" name="top"/>
   <outline>
     <contour>
       <point x="632" y="68" type="line"/>

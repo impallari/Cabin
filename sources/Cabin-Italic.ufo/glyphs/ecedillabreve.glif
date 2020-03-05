@@ -2,6 +2,9 @@
 <glyph name="ecedillabreve" format="2">
   <advance width="916"/>
   <unicode hex="1E1D"/>
+  <anchor x="386" y="-458" name="bottom"/>
+  <anchor x="696" y="56" name="ogonek"/>
+  <anchor x="700" y="1528" name="top"/>
   <outline>
     <component base="e"/>
     <component base="cedillacomb" xOffset="426"/>

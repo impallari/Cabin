@@ -2,6 +2,8 @@
 <glyph name="Scaron" format="2">
   <advance width="1076"/>
   <unicode hex="0160"/>
+  <anchor x="464" y="0" name="bottom"/>
+  <anchor x="682" y="1400" name="top"/>
   <outline>
     <component base="S"/>
     <component base="caron" xOffset="258" yOffset="420"/>

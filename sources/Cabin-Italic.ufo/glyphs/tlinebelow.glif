@@ -2,6 +2,10 @@
 <glyph name="tlinebelow" format="2">
   <advance width="606"/>
   <unicode hex="1E6F"/>
+  <anchor x="248" y="-324" name="bottom"/>
+  <anchor x="304" y="490" name="center"/>
+  <anchor x="374" y="1222" name="top"/>
+  <anchor x="596" y="1416" name="topright"/>
   <outline>
     <component base="t"/>
     <component base="macronbelowcomb" xOffset="276"/>

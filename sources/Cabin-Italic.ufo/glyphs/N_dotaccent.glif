@@ -2,6 +2,8 @@
 <glyph name="Ndotaccent" format="2">
   <advance width="1306"/>
   <unicode hex="1E44"/>
+  <anchor x="564" y="0" name="bottom"/>
+  <anchor x="858" y="1732" name="top"/>
   <outline>
     <component base="N"/>
     <component base="dotaccentcomb.case" xOffset="830" yOffset="420"/>

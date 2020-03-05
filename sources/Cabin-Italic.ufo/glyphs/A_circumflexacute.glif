@@ -2,6 +2,9 @@
 <glyph name="Acircumflexacute" format="2">
   <advance width="1136"/>
   <unicode hex="1EA4"/>
+  <anchor x="474" y="0" name="bottom"/>
+  <anchor x="964" y="0" name="ogonek"/>
+  <anchor x="810" y="1910" name="top"/>
   <outline>
     <component base="A"/>
     <component base="circumflexcomb_acutecomb" xOffset="748" yOffset="420"/>

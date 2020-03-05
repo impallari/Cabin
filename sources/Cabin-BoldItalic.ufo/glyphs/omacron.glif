@@ -2,6 +2,11 @@
 <glyph name="omacron" format="2">
   <advance width="1098"/>
   <unicode hex="014D"/>
+  <anchor x="432" y="0" name="bottom"/>
+  <anchor x="550" y="500" name="center"/>
+  <anchor x="508" y="0" name="ogonek"/>
+  <anchor x="718" y="1420" name="top"/>
+  <anchor x="716" y="1000" name="topright"/>
   <outline>
     <component base="o"/>
     <component base="macroncomb" xOffset="678" yOffset="20"/>

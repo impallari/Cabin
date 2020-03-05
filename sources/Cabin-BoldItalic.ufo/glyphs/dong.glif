@@ -2,6 +2,10 @@
 <glyph name="dong" format="2">
   <advance width="1198"/>
   <unicode hex="20AB"/>
+  <anchor x="526" y="0" name="bottom"/>
+  <anchor x="906" y="1272" name="center"/>
+  <anchor x="526" y="1000" name="top"/>
+  <anchor x="1198" y="1500" name="topright"/>
   <outline>
     <contour>
       <point x="-20" y="-294" type="line"/>

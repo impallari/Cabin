@@ -2,6 +2,9 @@
 <glyph name="ecircumflexdotbelow" format="2">
   <advance width="916"/>
   <unicode hex="1EC7"/>
+  <anchor x="400" y="-380" name="bottom"/>
+  <anchor x="696" y="56" name="ogonek"/>
+  <anchor x="688" y="1464" name="top"/>
   <outline>
     <component base="e"/>
     <component base="circumflexcomb" xOffset="640"/>

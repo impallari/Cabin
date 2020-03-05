@@ -2,6 +2,8 @@
 <glyph name="Rlinebelow" format="2">
   <advance width="1226"/>
   <unicode hex="1E5E"/>
+  <anchor x="506" y="-344" name="bottom"/>
+  <anchor x="768" y="1400" name="top"/>
   <outline>
     <component base="R"/>
     <component base="macronbelowcomb" xOffset="536"/>

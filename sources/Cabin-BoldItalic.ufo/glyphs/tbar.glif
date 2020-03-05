@@ -2,6 +2,10 @@
 <glyph name="tbar" format="2">
   <advance width="696"/>
   <unicode hex="0167"/>
+  <anchor x="359" y="0" name="bottom"/>
+  <anchor x="359" y="490" name="center"/>
+  <anchor x="432" y="1228" name="top"/>
+  <anchor x="686" y="1444" name="topright"/>
   <outline>
     <contour>
       <point x="36" y="448" type="line"/>

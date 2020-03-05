@@ -2,16 +2,26 @@
 <glyph name="dcaron" format="2">
   <advance width="1208"/>
   <unicode hex="010F"/>
+  <anchor x="562" y="0" name="bottom"/>
+  <anchor x="942" y="1272" name="center"/>
+  <anchor x="562" y="1000" name="top"/>
+  <anchor x="1234" y="1500" name="topright"/>
   <outline>
     <component base="d"/>
     <component base="caroncomb.alt" xOffset="1234" yOffset="110"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
-        <integer>-1</integer>
-        <integer>0</integer>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
       </array>
     </dict>
   </lib>

@@ -2,6 +2,8 @@
 <glyph name="colonsign" format="2">
   <advance width="1214"/>
   <unicode hex="20A1"/>
+  <anchor x="626" y="0" name="bottom"/>
+  <anchor x="886" y="1400" name="top"/>
   <outline>
     <contour>
       <point x="738" y="1628" type="line"/>

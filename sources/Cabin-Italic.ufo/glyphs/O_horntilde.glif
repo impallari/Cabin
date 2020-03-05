@@ -2,6 +2,10 @@
 <glyph name="Ohorntilde" format="2">
   <advance width="1420"/>
   <unicode hex="1EE0"/>
+  <anchor x="592" y="0" name="bottom"/>
+  <anchor x="678" y="0" name="ogonek"/>
+  <anchor x="934" y="1824" name="top"/>
+  <anchor x="1004" y="1400" name="topright"/>
   <outline>
     <component base="Ohorn"/>
     <component base="tildecomb" xOffset="894" yOffset="420"/>
