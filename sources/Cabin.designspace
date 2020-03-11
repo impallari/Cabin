@@ -147,7 +147,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Cabin Condensed" familyname="Cabin" stylename="Condensed" filename="instance_ufos/Cabin-Condensed.ufo">
+    <instance name="Cabin Condensed" familyname="Cabin" stylename="Condensed Regular" filename="instance_ufos/Cabin-CondensedRegular.ufo">
       <location>
         <dimension name="Weight" xvalue="95"/>
         <dimension name="Width" xvalue="50"/>
