@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.1">
   <axes>
+    <axis tag="wdth" name="Width" minimum="75" maximum="100" default="100">
+      <map input="75" output="50"/>
+      <map input="100" output="100"/>
+    </axis>
     <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
       <map input="400" output="95"/>
       <map input="500" output="109"/>
       <map input="600" output="116"/>
       <map input="700" output="128"/>
-    </axis>
-    <axis tag="wdth" name="Width" minimum="75" maximum="100" default="100">
-      <map input="75" output="50"/>
-      <map input="100" output="100"/>
     </axis>
   </axes>
   <sources>
