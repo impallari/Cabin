@@ -27,7 +27,7 @@ do
 	gftools fix-dsig -f $ttf;
 done
 
-vfs=$(ls ../fonts/vf/*\[wght\].ttf)
+vfs=$(ls ../fonts/vf/*.ttf)
 
 echo "Post processing VFs"
 for vf in $vfs
