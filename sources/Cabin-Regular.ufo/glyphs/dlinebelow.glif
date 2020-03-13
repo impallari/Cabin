@@ -2,6 +2,10 @@
 <glyph name="dlinebelow" format="2">
   <advance width="1110"/>
   <unicode hex="1E0F"/>
+  <anchor x="556" y="-324" name="bottom"/>
+  <anchor x="790" y="1254" name="center"/>
+  <anchor x="556" y="980" name="top"/>
+  <anchor x="1090" y="1500" name="topright"/>
   <outline>
     <component base="d"/>
     <component base="macronbelowcomb" xOffset="556"/>

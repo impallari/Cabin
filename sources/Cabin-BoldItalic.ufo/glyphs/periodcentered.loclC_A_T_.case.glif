@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered.loclCAT.case" format="2">
   <advance width="444"/>
-  <anchor x="222" y="556" name="_center"/>
   <outline>
     <contour>
       <point x="80" y="426" type="line"/>

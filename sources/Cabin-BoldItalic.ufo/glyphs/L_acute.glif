@@ -2,6 +2,9 @@
 <glyph name="Lacute" format="2">
   <advance width="980"/>
   <unicode hex="0139"/>
+  <anchor x="491" y="0" name="bottom"/>
+  <anchor x="496" y="1764" name="top"/>
+  <anchor x="914" y="1400" name="topright"/>
   <outline>
     <component base="L"/>
     <component base="acutecomb.case" xOffset="468" yOffset="420"/>

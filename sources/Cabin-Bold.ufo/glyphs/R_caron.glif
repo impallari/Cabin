@@ -2,6 +2,8 @@
 <glyph name="Rcaron" format="2">
   <advance width="1252"/>
   <unicode hex="0158"/>
+  <anchor x="686" y="0" name="bottom"/>
+  <anchor x="638" y="1770" name="top"/>
   <outline>
     <component base="R"/>
     <component base="caroncomb.case" xOffset="638" yOffset="400"/>

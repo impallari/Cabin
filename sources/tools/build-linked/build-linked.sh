@@ -5,8 +5,8 @@ mkdir VF-linked
 cp Cabin.glyphs Build-Normal.glyphs
 cp Cabin.glyphs Build-Condensed.glyphs
 
-python2 $(dirname ${BASH_SOURCE[0]})/prep-normal.py Build-Normal.glyphs
-python2 $(dirname ${BASH_SOURCE[0]})/prep-condensed.py Build-Condensed.glyphs
+python3 $(dirname ${BASH_SOURCE[0]})/prep-normal.py Build-Normal.glyphs
+python3 $(dirname ${BASH_SOURCE[0]})/prep-condensed.py Build-Condensed.glyphs
 
 # —————————————————————————————————————————————————————————————————————————————————————————————————————————————
 # Build Roman Normal ——————————————————————————————————————————————————————————————————————————————————————————

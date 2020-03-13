@@ -2,6 +2,8 @@
 <glyph name="Cacute" format="2">
   <advance width="1048"/>
   <unicode hex="0106"/>
+  <anchor x="696" y="0" name="bottom"/>
+  <anchor x="658" y="1724" name="top"/>
   <outline>
     <component base="C"/>
     <component base="acutecomb.case" xOffset="658" yOffset="420"/>

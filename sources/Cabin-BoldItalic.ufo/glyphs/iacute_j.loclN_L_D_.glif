@@ -2,6 +2,10 @@
 <glyph name="iacute_j.loclNLD" format="2">
   <advance width="958"/>
   <guideline x="262" y="570" angle="0"/>
+  <anchor x="144" y="0" name="bottom"/>
+  <anchor x="198" y="0" name="ogonek"/>
+  <anchor x="314" y="1000" name="top_1"/>
+  <anchor x="800" y="1000" name="top_2"/>
   <outline>
     <contour>
       <point x="156" y="1140" type="line"/>

@@ -2,6 +2,10 @@
 <glyph name="ocircumflexhookabove" format="2">
   <advance width="982"/>
   <unicode hex="1ED5"/>
+  <anchor x="492" y="0" name="bottom"/>
+  <anchor x="530" y="0" name="ogonek"/>
+  <anchor x="492" y="1608" name="top"/>
+  <anchor x="584" y="1000" name="topright"/>
   <outline>
     <component base="o"/>
     <component base="circumflexcomb_hookabovecomb" xOffset="492"/>

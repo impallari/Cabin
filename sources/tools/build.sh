@@ -1,4 +1,6 @@
 # flag technique from Jon Almeida: https://jonalmeida.com/posts/2013/05/26/different-ways-to-implement-flags-in-bash/
+set -e
+alias ttfautohint="python3 -m ttfautohint"
 
 while [ ! $# -eq 0 ]
 do

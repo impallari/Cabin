@@ -2,6 +2,9 @@
 <glyph name="Emacronacute" format="2">
   <advance width="1110"/>
   <unicode hex="1E16"/>
+  <anchor x="516" y="0" name="bottom"/>
+  <anchor x="874" y="0" name="ogonek"/>
+  <anchor x="868" y="2104" name="top"/>
   <outline>
     <component base="E"/>
     <component base="macroncomb.case" xOffset="764" yOffset="400"/>

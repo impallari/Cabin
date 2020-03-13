@@ -2,6 +2,10 @@
 <glyph name="Ohorn" format="2">
   <advance width="1308"/>
   <unicode hex="01A0"/>
+  <anchor x="654" y="0" name="bottom"/>
+  <anchor x="696" y="0" name="ogonek"/>
+  <anchor x="654" y="1400" name="top"/>
+  <anchor x="828" y="1400" name="topright"/>
   <outline>
     <component base="O"/>
     <component base="horncomb" xOffset="828" yOffset="420"/>

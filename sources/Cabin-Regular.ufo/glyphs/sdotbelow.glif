@@ -2,6 +2,8 @@
 <glyph name="sdotbelow" format="2">
   <advance width="828"/>
   <unicode hex="1E63"/>
+  <anchor x="416" y="-380" name="bottom"/>
+  <anchor x="444" y="980" name="top"/>
   <outline>
     <component base="s"/>
     <component base="dotbelowcomb" xOffset="416"/>

@@ -2,6 +2,10 @@
 <glyph name="Odieresismacron" format="2">
   <advance width="1420"/>
   <unicode hex="022A"/>
+  <anchor x="592" y="0" name="bottom"/>
+  <anchor x="678" y="0" name="ogonek"/>
+  <anchor x="982" y="2024" name="top"/>
+  <anchor x="1004" y="1400" name="topright"/>
   <outline>
     <component base="O"/>
     <component base="dieresiscomb.case" xOffset="880" yOffset="420"/>

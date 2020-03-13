@@ -2,6 +2,9 @@
 <glyph name="Adieresis" format="2">
   <advance width="1080"/>
   <unicode hex="00C4"/>
+  <anchor x="542" y="0" name="bottom"/>
+  <anchor x="966" y="0" name="ogonek"/>
+  <anchor x="542" y="1720" name="top"/>
   <outline>
     <component base="A"/>
     <component base="dieresiscomb.case" xOffset="542" yOffset="420"/>

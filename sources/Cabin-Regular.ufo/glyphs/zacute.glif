@@ -2,6 +2,8 @@
 <glyph name="zacute" format="2">
   <advance width="942"/>
   <unicode hex="017A"/>
+  <anchor x="471" y="0" name="bottom"/>
+  <anchor x="483" y="1484" name="top"/>
   <outline>
     <component base="z"/>
     <component base="acutecomb" xOffset="483" yOffset="20"/>

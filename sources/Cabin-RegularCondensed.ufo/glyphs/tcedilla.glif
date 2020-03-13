@@ -2,6 +2,9 @@
 <glyph name="tcedilla" format="2">
   <advance width="596"/>
   <unicode hex="0163"/>
+  <anchor x="372" y="0" name="bottom"/>
+  <anchor x="258" y="1226" name="top"/>
+  <anchor x="428" y="1416" name="topright"/>
   <outline>
     <component base="t"/>
     <component base="cedilla" xOffset="30"/>

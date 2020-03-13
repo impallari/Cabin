@@ -51,8 +51,6 @@
     <string>3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>3</integer>
-    <key>com.schriftgestaltung.glyphOrder</key>
-    <false/>
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>

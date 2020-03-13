@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.0">
+<designspace format="4.1">
   <axes>
+    <axis tag="wdth" name="Width" minimum="75" maximum="100" default="100">
+      <map input="75" output="50"/>
+      <map input="100" output="100"/>
+    </axis>
     <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
       <map input="400" output="95"/>
       <map input="500" output="109"/>
       <map input="600" output="116"/>
       <map input="700" output="128"/>
-    </axis>
-    <axis tag="wdth" name="Width" minimum="75" maximum="100" default="100">
-      <map input="75" output="50"/>
-      <map input="100" output="100"/>
     </axis>
   </axes>
   <sources>
@@ -29,7 +29,7 @@
         <dimension name="Width" xvalue="100"/>
       </location>
     </source>
-    <source filename="Cabin-RegularCondensed.ufo" name="Cabin Regular Condensed" familyname="Cabin" stylename="Regular Condensed">
+    <source filename="Cabin-RegularCondensed.ufo" name="Cabin Condensed" familyname="Cabin" stylename="Condensed">
       <location>
         <dimension name="Weight" xvalue="95"/>
         <dimension name="Width" xvalue="50"/>
@@ -147,7 +147,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Cabin Condensed Regular Condensed" familyname="Cabin Condensed" stylename="Regular Condensed" filename="instance_ufos/CabinCondensed-RegularCondensed.ufo">
+    <instance name="Cabin Condensed" familyname="Cabin" stylename="Condensed Regular" filename="instance_ufos/Cabin-CondensedRegular.ufo">
       <location>
         <dimension name="Weight" xvalue="95"/>
         <dimension name="Width" xvalue="50"/>
@@ -172,7 +172,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Cabin Condensed Medium Condensed" familyname="Cabin Condensed" stylename="Medium Condensed" filename="instance_ufos/CabinCondensed-MediumCondensed.ufo">
+    <instance name="Cabin Condensed Medium" familyname="Cabin" stylename="Condensed Medium" filename="instance_ufos/Cabin-CondensedMedium.ufo">
       <location>
         <dimension name="Weight" xvalue="109"/>
         <dimension name="Width" xvalue="50"/>
@@ -199,7 +199,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Cabin Condensed SemiBold Condensed" familyname="Cabin Condensed" stylename="SemiBold Condensed" filename="instance_ufos/CabinCondensed-SemiBoldCondensed.ufo">
+    <instance name="Cabin Condensed SemiBold" familyname="Cabin" stylename="Condensed SemiBold" filename="instance_ufos/Cabin-CondensedSemiBold.ufo">
       <location>
         <dimension name="Weight" xvalue="116"/>
         <dimension name="Width" xvalue="50"/>
@@ -226,7 +226,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Cabin Condensed Bold Condensed" familyname="Cabin Condensed" stylename="Bold Condensed" filename="instance_ufos/CabinCondensed-BoldCondensed.ufo" stylemapfamilyname="Cabin Condensed Regular Condensed" stylemapstylename="bold">
+    <instance name="Cabin Condensed Bold" familyname="Cabin" stylename="Condensed Bold" filename="instance_ufos/Cabin-CondensedBold.ufo" stylemapfamilyname="Cabin Condensed" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="128"/>
         <dimension name="Width" xvalue="50"/>
@@ -297,6 +297,11 @@
           <key>oV</key>
           <string>90</string>
         </dict>
+      </dict>
+      <key>org.statmake.additionalLocations</key>
+      <dict>
+        <key>Italic</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

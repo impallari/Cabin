@@ -2,6 +2,8 @@
 <glyph name="Rcommaaccent" format="2">
   <advance width="1130"/>
   <unicode hex="0156"/>
+  <anchor x="408" y="-618" name="bottom"/>
+  <anchor x="752" y="1400" name="top"/>
   <outline>
     <component base="R"/>
     <component base="commaaccentcomb" xOffset="462"/>

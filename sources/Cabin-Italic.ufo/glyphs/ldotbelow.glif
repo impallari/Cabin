@@ -2,6 +2,9 @@
 <glyph name="ldotbelow" format="2">
   <advance width="468"/>
   <unicode hex="1E37"/>
+  <anchor x="168" y="-380" name="bottom"/>
+  <anchor x="370" y="1500" name="top"/>
+  <anchor x="540" y="1500" name="topright"/>
   <outline>
     <component base="l"/>
     <component base="dotbelowcomb" xOffset="202"/>

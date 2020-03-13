@@ -2,6 +2,8 @@
 <glyph name="cedi" format="2">
   <advance width="1150"/>
   <unicode hex="20B5"/>
+  <anchor x="554" y="0" name="bottom"/>
+  <anchor x="814" y="1400" name="top"/>
   <outline>
     <contour>
       <point x="620" y="68" type="line"/>

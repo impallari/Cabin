@@ -2,6 +2,10 @@
 <glyph name="Uhorngrave" format="2">
   <advance width="1234"/>
   <unicode hex="1EEA"/>
+  <anchor x="618" y="0" name="bottom"/>
+  <anchor x="738" y="0" name="ogonek"/>
+  <anchor x="618" y="1844" name="top"/>
+  <anchor x="990" y="1400" name="topright"/>
   <outline>
     <component base="Uhorn"/>
     <component base="gravecomb.case" xOffset="618" yOffset="420"/>

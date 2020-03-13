@@ -5,6 +5,9 @@
   <guideline x="518" y="245" angle="90"/>
   <guideline x="32" y="245" angle="90"/>
   <anchor x="550" y="980" name="top"/>
+  <anchor x="550" y="0" name="bottom"/>
+  <anchor x="640" y="0" name="ogonek"/>
+  <anchor x="678" y="980" name="topright"/>
   <outline>
     <contour>
       <point x="822" y="1060" type="line"/>

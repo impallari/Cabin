@@ -2,6 +2,9 @@
 <glyph name="edotbelow" format="2">
   <advance width="1030"/>
   <unicode hex="1EB9"/>
+  <anchor x="516" y="-380" name="bottom"/>
+  <anchor x="868" y="56" name="ogonek"/>
+  <anchor x="562" y="1000" name="top"/>
   <outline>
     <component base="e"/>
     <component base="dotbelowcomb" xOffset="516"/>

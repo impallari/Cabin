@@ -2,6 +2,7 @@
 <glyph name="idotbelow" format="2">
   <advance width="428"/>
   <unicode hex="1ECB"/>
+  <anchor x="44" y="-380" name="bottom"/>
   <outline>
     <component base="i"/>
     <component base="dotbelowcomb" xOffset="78"/>

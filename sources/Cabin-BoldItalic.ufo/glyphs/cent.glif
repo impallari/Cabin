@@ -2,6 +2,8 @@
 <glyph name="cent" format="2">
   <advance width="920"/>
   <unicode hex="00A2"/>
+  <anchor x="438" y="0" name="bottom"/>
+  <anchor x="634" y="1000" name="top"/>
   <outline>
     <contour>
       <point x="502" y="68" type="line"/>

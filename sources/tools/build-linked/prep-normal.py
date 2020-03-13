@@ -47,6 +47,6 @@ for parameter in font.customParameters:
                 break
             j = j + 1
 
-print "Built Cabin Normal source"
+print("Built Cabin Normal source")
 
 font.save(filename)

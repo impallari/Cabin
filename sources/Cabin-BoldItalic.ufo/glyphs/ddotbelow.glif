@@ -2,6 +2,10 @@
 <glyph name="ddotbelow" format="2">
   <advance width="1122"/>
   <unicode hex="1E0D"/>
+  <anchor x="494" y="-380" name="bottom"/>
+  <anchor x="942" y="1272" name="center"/>
+  <anchor x="562" y="1000" name="top"/>
+  <anchor x="1234" y="1500" name="topright"/>
   <outline>
     <component base="d"/>
     <component base="dotbelowcomb" xOffset="528"/>

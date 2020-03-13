@@ -2,6 +2,8 @@
 <glyph name="idotbelow" format="2">
   <advance width="480"/>
   <unicode hex="1ECB"/>
+  <anchor x="240" y="-380" name="bottom"/>
+  <anchor x="300" y="0" name="ogonek"/>
   <outline>
     <component base="i"/>
     <component base="dotbelowcomb" xOffset="240"/>

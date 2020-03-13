@@ -2,6 +2,8 @@
 <glyph name="Ndotbelow" format="2">
   <advance width="1408"/>
   <unicode hex="1E46"/>
+  <anchor x="718" y="-380" name="bottom"/>
+  <anchor x="712" y="1400" name="top"/>
   <outline>
     <component base="N"/>
     <component base="dotbelowcomb" xOffset="718"/>

@@ -2,6 +2,8 @@
 <glyph name="Ncaron" format="2">
   <advance width="1222"/>
   <unicode hex="0147"/>
+  <anchor x="626" y="0" name="bottom"/>
+  <anchor x="614" y="1772" name="top"/>
   <outline>
     <component base="N"/>
     <component base="caroncomb.case" xOffset="614" yOffset="400"/>

@@ -2,6 +2,10 @@
 <glyph name="Utildeacute" format="2">
   <advance width="1336"/>
   <unicode hex="1E78"/>
+  <anchor x="562" y="0" name="bottom"/>
+  <anchor x="680" y="0" name="ogonek"/>
+  <anchor x="954" y="2116" name="top"/>
+  <anchor x="1220" y="1400" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="tildecomb.case" xOffset="854" yOffset="420"/>

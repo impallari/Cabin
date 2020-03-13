@@ -1,10 +1,10 @@
 # Builds static fonts
 
-mkdir statics
+mkdir -p statics
 
 cp Cabin.glyphs Build-Roman.glyphs
 
-python2 $(dirname ${BASH_SOURCE[0]})/prep-roman.py Build-Roman.glyphs
+python3 $(dirname ${BASH_SOURCE[0]})/prep-roman.py Build-Roman.glyphs
 
 # —————————————————————————————————————————————————————————————————————————————————————————————————————————————
 # Build Romans ————————————————————————————————————————————————————————————————————————————————————————————————
@@ -18,7 +18,7 @@ rm -rf instance_ufo
 for path in instance_ttf/*.ttf; do
 	filename=${path##*/}
 	gftools fix-dsig --autofix $path
-	ttfautohint $path statics/$filename -I
+	python3 -m ttfautohint $path statics/$filename -I
 done
 
 rm -rf instance_ttf
@@ -36,7 +36,7 @@ rm -rf instance_ufo
 for path in instance_ttf/*.ttf; do
 	filename=${path##*/}
 	gftools fix-dsig --autofix $path
-	ttfautohint $path statics/$filename -I
+	python3 -m ttfautohint $path statics/$filename -I
 done
 
 rm -rf instance_ttf

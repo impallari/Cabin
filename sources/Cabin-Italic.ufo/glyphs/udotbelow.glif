@@ -2,6 +2,10 @@
 <glyph name="udotbelow" format="2">
   <advance width="988"/>
   <unicode hex="1EE5"/>
+  <anchor x="276" y="-380" name="bottom"/>
+  <anchor x="890" y="20" name="ogonek"/>
+  <anchor x="558" y="980" name="top"/>
+  <anchor x="826" y="980" name="topright"/>
   <outline>
     <component base="u"/>
     <component base="dotbelowcomb" xOffset="310"/>

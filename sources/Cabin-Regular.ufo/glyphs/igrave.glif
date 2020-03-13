@@ -2,6 +2,9 @@
 <glyph name="igrave" format="2">
   <advance width="424"/>
   <unicode hex="00EC"/>
+  <anchor x="212" y="0" name="bottom"/>
+  <anchor x="246" y="0" name="ogonek"/>
+  <anchor x="212" y="1464" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="gravecomb" xOffset="212"/>

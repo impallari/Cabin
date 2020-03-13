@@ -2,6 +2,8 @@
 <glyph name="Hbar" format="2">
   <advance width="1448"/>
   <unicode hex="0126"/>
+  <anchor x="616" y="0" name="bottom"/>
+  <anchor x="862" y="1400" name="top"/>
   <outline>
     <contour>
       <point x="114" y="976" type="line"/>

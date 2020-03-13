@@ -2,6 +2,8 @@
 <glyph name="mdotbelow" format="2">
   <advance width="1754"/>
   <unicode hex="1E43"/>
+  <anchor x="882" y="-380" name="bottom"/>
+  <anchor x="904" y="980" name="top"/>
   <outline>
     <component base="m"/>
     <component base="dotbelowcomb" xOffset="882"/>

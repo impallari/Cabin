@@ -2,6 +2,8 @@
 <glyph name="Zdotbelow" format="2">
   <advance width="1000"/>
   <unicode hex="1E92"/>
+  <anchor x="292" y="-380" name="bottom"/>
+  <anchor x="686" y="1400" name="top"/>
   <outline>
     <component base="Z"/>
     <component base="dotbelowcomb" xOffset="326"/>
