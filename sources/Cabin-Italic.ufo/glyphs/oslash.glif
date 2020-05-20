@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="1028"/>
+  <unicode hex="00F8"/>
+  <anchor x="410" y="0" name="bottom"/>
+  <anchor x="514" y="490" name="center"/>
+  <anchor x="484" y="0" name="ogonek"/>
+  <anchor x="586" y="980" name="top"/>
+  <anchor x="662" y="980" name="topright"/>
+  <outline>
+    <contour>
+      <point x="852" y="1060" type="line"/>
+      <point x="-20" y="-80" type="line"/>
+      <point x="140" y="-80" type="line"/>
+      <point x="1012" y="1060" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+</glyph>

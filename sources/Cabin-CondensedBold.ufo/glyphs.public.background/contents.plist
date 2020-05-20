@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>P</key>
+    <string>P_.glif</string>
+    <key>P.sc</key>
+    <string>P_.sc.glif</string>
+    <key>cent</key>
+    <string>cent.glif</string>
+    <key>numbersign</key>
+    <string>numbersign.glif</string>
+    <key>percent</key>
+    <string>percent.glif</string>
+    <key>perthousand</key>
+    <string>perthousand.glif</string>
+    <key>sterling</key>
+    <string>sterling.glif</string>
+  </dict>
+</plist>

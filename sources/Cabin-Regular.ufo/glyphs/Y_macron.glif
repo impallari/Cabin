@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ymacron" format="2">
+  <advance width="1134"/>
+  <unicode hex="0232"/>
+  <anchor x="568" y="0" name="bottom"/>
+  <anchor x="566" y="1744" name="top"/>
+  <outline>
+    <component base="Y"/>
+    <component base="macroncomb.case" xOffset="566" yOffset="420"/>
+  </outline>
+</glyph>

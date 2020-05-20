@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani" format="2">
+  <advance width="1216"/>
+  <unicode hex="20B2"/>
+  <anchor x="548" y="0" name="bottom"/>
+  <anchor x="780" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="632" y="68" type="line"/>
+      <point x="516" y="68" type="line"/>
+      <point x="434" y="-288" type="line"/>
+      <point x="590" y="-288" type="line"/>
+    </contour>
+    <contour>
+      <point x="742" y="1346" type="line"/>
+      <point x="858" y="1346" type="line"/>
+      <point x="938" y="1688" type="line"/>
+      <point x="782" y="1688" type="line"/>
+    </contour>
+    <component base="G" xOffset="-74"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sacutedotaccent" format="2">
+  <advance width="720"/>
+  <unicode hex="1E65"/>
+  <anchor x="362" y="0" name="bottom"/>
+  <anchor x="400" y="1638" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="acutecomb.case" xOffset="400"/>
+    <component base="dotaccentcomb.case" xOffset="400" yOffset="326"/>
+  </outline>
+</glyph>

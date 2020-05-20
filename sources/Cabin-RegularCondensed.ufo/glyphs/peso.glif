@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance width="1118"/>
+  <unicode hex="20B1"/>
+  <outline>
+    <contour>
+      <point x="152" y="0" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="336" y="390" type="line"/>
+      <point x="512" y="390" type="line" smooth="yes"/>
+      <point x="800" y="390"/>
+      <point x="978" y="564"/>
+      <point x="978" y="896" type="curve" smooth="yes"/>
+      <point x="978" y="1230"/>
+      <point x="800" y="1400"/>
+      <point x="512" y="1400" type="curve" smooth="yes"/>
+      <point x="152" y="1400" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="558" type="line"/>
+      <point x="336" y="1232" type="line"/>
+      <point x="496" y="1232" type="line" smooth="yes"/>
+      <point x="698" y="1232"/>
+      <point x="786" y="1108"/>
+      <point x="786" y="896" type="curve" smooth="yes"/>
+      <point x="786" y="684"/>
+      <point x="698" y="558"/>
+      <point x="496" y="558" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="20" y="962" type="line"/>
+      <point x="1098" y="962" type="line"/>
+      <point x="1098" y="1102" type="line"/>
+      <point x="20" y="1102" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="688" type="line"/>
+      <point x="1098" y="688" type="line"/>
+      <point x="1098" y="828" type="line"/>
+      <point x="20" y="828" type="line"/>
+    </contour>
+  </outline>
+</glyph>

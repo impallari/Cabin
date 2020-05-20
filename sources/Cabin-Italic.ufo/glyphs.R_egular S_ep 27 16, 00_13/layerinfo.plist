@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>C91F19AB-E246-42A2-9D03-62EC3ED567EE</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.cent</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.currency</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.euro</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.florin</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.micro</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.numero</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.onesuperior</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ordfeminine</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ordmasculine</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.section</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.sterling</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.threesuperior</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.twosuperior</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.yen</key>
+      <integer>2</integer>
+    </dict>
+  </dict>
+</plist>

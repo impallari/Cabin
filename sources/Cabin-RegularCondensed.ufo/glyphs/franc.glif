@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <advance width="940"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <contour>
+      <point x="172" y="0" type="line"/>
+      <point x="356" y="0" type="line"/>
+      <point x="356" y="650" type="line"/>
+      <point x="784" y="650" type="line"/>
+      <point x="784" y="818" type="line"/>
+      <point x="356" y="818" type="line"/>
+      <point x="356" y="1232" type="line"/>
+      <point x="910" y="1232" type="line"/>
+      <point x="910" y="1400" type="line"/>
+      <point x="172" y="1400" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="276" type="line"/>
+      <point x="680" y="276" type="line"/>
+      <point x="680" y="424" type="line"/>
+      <point x="40" y="424" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>F</string>
+    </dict>
+  </lib>
+</glyph>

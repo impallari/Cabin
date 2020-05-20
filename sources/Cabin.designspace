@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wdth" name="Width" minimum="75" maximum="100" default="100">
+      <map input="75" output="50"/>
+      <map input="100" output="100"/>
+    </axis>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+      <map input="400" output="95"/>
+      <map input="500" output="109"/>
+      <map input="600" output="116"/>
+      <map input="700" output="128"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Cabin-Regular.ufo" name="Cabin Regular" familyname="Cabin" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Cabin-Bold.ufo" name="Cabin Bold" familyname="Cabin" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Cabin-RegularCondensed.ufo" name="Cabin Condensed" familyname="Cabin" stylename="Condensed">
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="Cabin-CondensedBold.ufo" name="Cabin Condensed Bold" familyname="Cabin" stylename="Condensed Bold">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="50"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Cabin Regular" familyname="Cabin" stylename="Regular" filename="instance_ufos/Cabin-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>UUID0</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cabin Medium" familyname="Cabin" stylename="Medium" filename="instance_ufos/Cabin-Medium.ufo">
+      <location>
+        <dimension name="Weight" xvalue="109"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>7C863538-AAB4-42AD-A9FE-7240E615272A</key>
+            <real>0.42424</real>
+            <key>UUID0</key>
+            <real>0.57576</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cabin SemiBold" familyname="Cabin" stylename="SemiBold" filename="instance_ufos/Cabin-SemiBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="116"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>7C863538-AAB4-42AD-A9FE-7240E615272A</key>
+            <real>0.63636</real>
+            <key>UUID0</key>
+            <real>0.36364</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cabin Bold" familyname="Cabin" stylename="Bold" filename="instance_ufos/Cabin-Bold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>7C863538-AAB4-42AD-A9FE-7240E615272A</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cabin Condensed" familyname="Cabin" stylename="Condensed Regular" filename="instance_ufos/Cabin-CondensedRegular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="50"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>A616F07E-65DE-4D07-A020-83605E49AA22</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Condensed</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cabin Condensed Medium" familyname="Cabin" stylename="Condensed Medium" filename="instance_ufos/Cabin-CondensedMedium.ufo">
+      <location>
+        <dimension name="Weight" xvalue="109"/>
+        <dimension name="Width" xvalue="50"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A</key>
+            <real>0.42424</real>
+            <key>A616F07E-65DE-4D07-A020-83605E49AA22</key>
+            <real>0.57576</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Condensed</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cabin Condensed SemiBold" familyname="Cabin" stylename="Condensed SemiBold" filename="instance_ufos/Cabin-CondensedSemiBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="116"/>
+        <dimension name="Width" xvalue="50"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A</key>
+            <real>0.63636</real>
+            <key>A616F07E-65DE-4D07-A020-83605E49AA22</key>
+            <real>0.36364</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Condensed</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cabin Condensed Bold" familyname="Cabin" stylename="Condensed Bold" filename="instance_ufos/Cabin-CondensedBold.ufo" stylemapfamilyname="Cabin Condensed" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="50"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Condensed</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A</key>
+        <dict>
+          <key>HH</key>
+          <string>112</string>
+          <key>HV</key>
+          <string>122</string>
+          <key>OH</key>
+          <string>123</string>
+          <key>OV</key>
+          <string>134</string>
+          <key>nV</key>
+          <string>120</string>
+          <key>oH</key>
+          <string>98</string>
+          <key>oV</key>
+          <string>122</string>
+        </dict>
+        <key>7C863538-AAB4-42AD-A9FE-7240E615272A</key>
+        <dict>
+          <key>HV</key>
+          <string>128</string>
+          <key>OV</key>
+          <string>134</string>
+        </dict>
+        <key>A616F07E-65DE-4D07-A020-83605E49AA22</key>
+        <dict>
+          <key>HH</key>
+          <string>90</string>
+          <key>HV</key>
+          <string>92</string>
+          <key>OH</key>
+          <string>92</string>
+          <key>OV</key>
+          <string>98</string>
+          <key>nV</key>
+          <string>88</string>
+          <key>oH</key>
+          <string>78</string>
+          <key>oV</key>
+          <string>90</string>
+        </dict>
+      </dict>
+      <key>org.statmake.additionalLocations</key>
+      <dict>
+        <key>Italic</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

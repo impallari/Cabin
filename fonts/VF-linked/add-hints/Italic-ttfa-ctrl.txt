@@ -1,0 +1,44 @@
+#——————————————————————————————————————————————————————————————
+# a
+
+a nodir 26
+# Joint gets pinched
+
+
+#——————————————————————————————————————————————————————————————
+# p
+
+p nodir 3
+# Joint gets pinched
+
+
+#——————————————————————————————————————————————————————————————
+# q
+
+q nodir 16
+# Joint gets pinched
+
+
+#——————————————————————————————————————————————————————————————
+# r
+
+r nodir 3
+# r gets pinched
+
+
+#——————————————————————————————————————————————————————————————
+# macroncomb (712)
+
+
+296 point 46-49  yshift -1.0 @ 19
+297 point 46-49 yshift -1.0 @ 19
+63 point 12-15 yshift -1.0 @ 19
+64 point 12-15 yshift -1.0 @ 19
+384 point 32-35 yshift -1.0 @ 19
+385 point 32-35 yshift -1.0 @ 19
+# macron collides with acute in macron_acute. Shifting the macron itself however causes other stacked accents to break
+
+#——————————————————————————————————————————————————————————————
+# macroncombbelow (700)
+
+700 touch 0-3 yshift -1.0 @ 19

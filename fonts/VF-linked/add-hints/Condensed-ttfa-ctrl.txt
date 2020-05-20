@@ -1,0 +1,39 @@
+#——————————————————————————————————————————————————————————————
+# a
+
+a nodir 33 
+# Tail gets pinched when joining bowl in bold
+# pt33 was snapping to the edge of the inner counter for the bowl
+
+a left 8-10 (-100, 0)
+# a in bold loses top counter @ 14ppem
+# make segment for the top of the bowl
+# extend to the left to be repeled from the top stroke
+
+
+#——————————————————————————————————————————————————————————————
+# P
+
+P left 13-14
+# Rises off baseline
+
+
+#——————————————————————————————————————————————————————————————
+# p.sc (488)
+
+488 left 0, 13  (-250, 250)
+488 left 20-22 (-250, 10)
+# Top gets too short
+
+
+#——————————————————————————————————————————————————————————————
+# 5.dnom (527)
+
+527 right 23-26 (0, 250)
+# Top counter collapses
+
+
+#——————————————————————————————————————————————————————————————
+# macroncombbelow (700)
+
+700 touch 0-3 yshift -1.0 @ 19

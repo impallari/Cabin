@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>E80AF363-6342-4EC0-8F17-CEED8BCF3C87</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.approxequal</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.divide</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.equal</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.greater</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.greaterequal</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.less</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.lessequal</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.logicalnot</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.minus</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.multiply</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.notequal</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.plus</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.plusminus</key>
+      <integer>2</integer>
+    </dict>
+  </dict>
+</plist>
