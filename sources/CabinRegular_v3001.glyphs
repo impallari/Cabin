@@ -14,7 +14,7 @@ copyright = "Copyright 2018 The Cabin Project Authors (https://github.com/impall
 customParameters = (
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = trademark;
@@ -22,7 +22,7 @@ value = "Cabin is a trademark of Pablo Impallari. www.impallari.com Igino Marini
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = fsType;
@@ -63,7 +63,7 @@ name = "Variable Font Origin";
 value = UUID0;
 }
 );
-date = "2019-01-25 04:00:18 +0000";
+date = "2020-07-02 20:47:54 +0000";
 designer = "Pablo Impallari";
 designerURL = "http://www.impallari.com";
 familyName = Cabin;
