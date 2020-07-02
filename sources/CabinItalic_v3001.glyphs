@@ -1,5 +1,5 @@
 {
-.appVersion = "1338";
+.appVersion = "1286";
 classes = (
 {
 automatic = 1;
@@ -374,14 +374,6 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 2290;
-},
-{
-name = winDescent;
-value = 628;
-},
-{
 name = hheaAscender;
 value = 1930;
 },
@@ -392,6 +384,14 @@ value = -500;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 2290;
+},
+{
+name = winDescent;
+value = 630;
 }
 );
 descender = -500;
@@ -439,14 +439,6 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 2290;
-},
-{
-name = winDescent;
-value = 628;
-},
-{
 name = hheaAscender;
 value = 1930;
 },
@@ -457,6 +449,14 @@ value = -500;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 2290;
+},
+{
+name = winDescent;
+value = 630;
 }
 );
 descender = -500;
@@ -503,14 +503,6 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 2290;
-},
-{
-name = winDescent;
-value = 628;
-},
-{
 name = hheaAscender;
 value = 1930;
 },
@@ -521,6 +513,14 @@ value = -500;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 2290;
+},
+{
+name = winDescent;
+value = 630;
 }
 );
 descender = -500;
@@ -570,14 +570,6 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 2290;
-},
-{
-name = winDescent;
-value = 628;
-},
-{
 name = hheaAscender;
 value = 1930;
 },
@@ -588,6 +580,14 @@ value = -500;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 2290;
+},
+{
+name = winDescent;
+value = 630;
 }
 );
 descender = -500;

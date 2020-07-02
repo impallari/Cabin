@@ -1,5 +1,5 @@
 {
-.appVersion = "1338";
+.appVersion = "1286";
 DisplayStrings = (
 AV
 );
@@ -10,7 +10,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2018 The Cabin Project Authors (https://github.com/impallari/Cabin.git)";
+copyright = "Copyright 2018 The Cabin Project Authors (https://github.com/impallari/Cabin)";
 customParameters = (
 {
 name = licenseURL;
@@ -374,14 +374,6 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 2292;
-},
-{
-name = winDescent;
-value = 628;
-},
-{
 name = hheaAscender;
 value = 1930;
 },
@@ -392,6 +384,14 @@ value = -500;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 2290;
+},
+{
+name = winDescent;
+value = 630;
 }
 );
 descender = -500;
@@ -434,14 +434,6 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 2292;
-},
-{
-name = winDescent;
-value = 628;
-},
-{
 name = hheaAscender;
 value = 1930;
 },
@@ -452,6 +444,14 @@ value = -500;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 2290;
+},
+{
+name = winDescent;
+value = 630;
 }
 );
 descender = -500;
@@ -508,14 +508,6 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 2292;
-},
-{
-name = winDescent;
-value = 628;
-},
-{
 name = hheaAscender;
 value = 1930;
 },
@@ -526,6 +518,14 @@ value = -500;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 2290;
+},
+{
+name = winDescent;
+value = 630;
 }
 );
 descender = -500;
@@ -566,14 +566,6 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 2292;
-},
-{
-name = winDescent;
-value = 628;
-},
-{
 name = hheaAscender;
 value = 1930;
 },
@@ -584,6 +576,14 @@ value = -500;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 2290;
+},
+{
+name = winDescent;
+value = 630;
 }
 );
 descender = -500;
