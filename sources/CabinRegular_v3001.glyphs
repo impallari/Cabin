@@ -61,6 +61,15 @@ Tag = wdth;
 {
 name = "Variable Font Origin";
 value = UUID0;
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+109 = 500;
+116 = 110;
+};
+};
 }
 );
 date = "2020-07-02 20:47:54 +0000";
@@ -532,14 +541,13 @@ descender = -500;
 horizontalStems = (
 248
 );
+iconName = Condensed;
 id = "A616F07E-65DE-4D07-A020-83605E49AA22";
-name = "Regular Condensed";
 verticalStems = (
 190,
 256
 );
 weightValue = 95;
-width = Condensed;
 widthValue = 50;
 xHeight = 980;
 },
@@ -591,6 +599,7 @@ horizontalStems = (
 248,
 204
 );
+iconName = Bold_Condensed;
 id = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
 verticalStems = (
 256,
@@ -598,7 +607,6 @@ verticalStems = (
 );
 weight = Bold;
 weightValue = 128;
-width = Condensed;
 widthValue = 50;
 xHeight = 1000;
 }
@@ -93437,7 +93445,7 @@ instanceInterpolations = {
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 1;
 };
 isBold = 1;
-linkStyle = "Regular Condensed";
+linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
 widthClass = Condensed;

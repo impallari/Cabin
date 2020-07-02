@@ -538,6 +538,7 @@ position = "{388, 772}";
 horizontalStems = (
 248
 );
+iconName = Condensed;
 id = "16C5A091-070E-4899-9264-7ACF21F5F9FC";
 italicAngle = 10;
 verticalStems = (
@@ -545,7 +546,6 @@ verticalStems = (
 256
 );
 weightValue = 95;
-width = Condensed;
 widthValue = 50;
 xHeight = 980;
 },
@@ -604,16 +604,15 @@ horizontalStems = (
 248,
 204
 );
+iconName = Bold_Condensed;
 id = "881EEDCE-9431-4D11-90D2-5788603AE739";
 italicAngle = 10;
-name = "Condensed Bold Italic";
 verticalStems = (
 256,
 250
 );
 weight = Bold;
 weightValue = 128;
-width = Condensed;
 widthValue = 50;
 xHeight = 1000;
 }
@@ -121542,10 +121541,10 @@ value = 500;
 }
 );
 interpolationCustom = 1;
-interpolationWeight = 106;
+interpolationWeight = 109;
 instanceInterpolations = {
-"D879A026-05F7-4E99-AC55-D533E46CE7AB" = 0.33333;
-UUID0 = 0.66667;
+"D879A026-05F7-4E99-AC55-D533E46CE7AB" = 0.42424;
+UUID0 = 0.57576;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -121560,10 +121559,10 @@ value = 600;
 }
 );
 interpolationCustom = 1;
-interpolationWeight = 118;
+interpolationWeight = 116;
 instanceInterpolations = {
-"D879A026-05F7-4E99-AC55-D533E46CE7AB" = 0.69697;
-UUID0 = 0.30303;
+"D879A026-05F7-4E99-AC55-D533E46CE7AB" = 0.63636;
+UUID0 = 0.36364;
 };
 isItalic = 1;
 linkStyle = SemiBold;
@@ -121650,7 +121649,7 @@ instanceInterpolations = {
 "881EEDCE-9431-4D11-90D2-5788603AE739" = 0.63636;
 };
 isItalic = 1;
-linkStyle = Semibold;
+linkStyle = SemiBold;
 name = "SemiBold Italic";
 weightClass = SemiBold;
 widthClass = Condensed;
