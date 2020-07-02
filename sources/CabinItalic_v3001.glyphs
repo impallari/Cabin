@@ -359,6 +359,7 @@ alignmentZones = (
 );
 ascender = 1500;
 capHeight = 1400;
+custom = Italic;
 customValue = 1;
 customParameters = (
 {
@@ -387,7 +388,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2290;
+value = 2300;
 },
 {
 name = winDescent;
@@ -424,6 +425,7 @@ alignmentZones = (
 );
 ascender = 1500;
 capHeight = 1400;
+custom = Italic;
 customValue = 1;
 customParameters = (
 {
@@ -452,7 +454,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2290;
+value = 2300;
 },
 {
 name = winDescent;
@@ -488,6 +490,7 @@ alignmentZones = (
 );
 ascender = 1500;
 capHeight = 1400;
+custom = Italic;
 customValue = 1;
 customParameters = (
 {
@@ -516,7 +519,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2290;
+value = 2300;
 },
 {
 name = winDescent;
@@ -535,7 +538,6 @@ position = "{388, 772}";
 horizontalStems = (
 248
 );
-iconName = Condensed;
 id = "16C5A091-070E-4899-9264-7ACF21F5F9FC";
 italicAngle = 10;
 verticalStems = (
@@ -543,6 +545,7 @@ verticalStems = (
 256
 );
 weightValue = 95;
+width = Condensed;
 widthValue = 50;
 xHeight = 980;
 },
@@ -555,6 +558,7 @@ alignmentZones = (
 );
 ascender = 1500;
 capHeight = 1400;
+custom = Italic;
 customValue = 1;
 customParameters = (
 {
@@ -583,7 +587,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2290;
+value = 2300;
 },
 {
 name = winDescent;
@@ -600,15 +604,16 @@ horizontalStems = (
 248,
 204
 );
-iconName = Bold_Condensed;
 id = "881EEDCE-9431-4D11-90D2-5788603AE739";
 italicAngle = 10;
+name = "Condensed Bold Italic";
 verticalStems = (
 256,
 250
 );
 weight = Bold;
 weightValue = 128;
+width = Condensed;
 widthValue = 50;
 xHeight = 1000;
 }
@@ -121514,6 +121519,12 @@ width = 0;
 );
 instances = (
 {
+customParameters = (
+{
+name = weightClass;
+value = 400;
+}
+);
 interpolationCustom = 1;
 interpolationWeight = 95;
 instanceInterpolations = {
@@ -121524,6 +121535,12 @@ linkStyle = Regular;
 name = Italic;
 },
 {
+customParameters = (
+{
+name = weightClass;
+value = 500;
+}
+);
 interpolationCustom = 1;
 interpolationWeight = 106;
 instanceInterpolations = {
@@ -121536,6 +121553,12 @@ name = "Medium Italic";
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = weightClass;
+value = 600;
+}
+);
 interpolationCustom = 1;
 interpolationWeight = 118;
 instanceInterpolations = {
@@ -121548,6 +121571,12 @@ name = "SemiBold Italic";
 weightClass = SemiBold;
 },
 {
+customParameters = (
+{
+name = weightClass;
+value = 700;
+}
+);
 interpolationCustom = 1;
 interpolationWeight = 128;
 instanceInterpolations = {
@@ -121555,7 +121584,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = Bold;
+linkStyle = Regular;
 name = "Bold Italic";
 weightClass = Bold;
 },
@@ -121564,6 +121593,10 @@ customParameters = (
 {
 name = familyName;
 value = "Cabin Condensed";
+},
+{
+name = weightClass;
+value = 400;
 }
 );
 interpolationWeight = 95;
@@ -121571,8 +121604,9 @@ interpolationWidth = 50;
 instanceInterpolations = {
 "16C5A091-070E-4899-9264-7ACF21F5F9FC" = 1;
 };
-linkStyle = "Regular Condensed";
-name = "Italic Condensed";
+isItalic = 1;
+linkStyle = Regular;
+name = Italic;
 widthClass = Condensed;
 },
 {
@@ -121580,6 +121614,10 @@ customParameters = (
 {
 name = familyName;
 value = "Cabin Condensed";
+},
+{
+name = weightClass;
+value = 500;
 }
 );
 interpolationWeight = 109;
@@ -121588,8 +121626,9 @@ instanceInterpolations = {
 "16C5A091-070E-4899-9264-7ACF21F5F9FC" = 0.57576;
 "881EEDCE-9431-4D11-90D2-5788603AE739" = 0.42424;
 };
-linkStyle = "Medium Condensed";
-name = "Medium Italic Condensed";
+isItalic = 1;
+linkStyle = Medium;
+name = "Medium Italic";
 weightClass = Medium;
 widthClass = Condensed;
 },
@@ -121598,6 +121637,10 @@ customParameters = (
 {
 name = familyName;
 value = "Cabin Condensed";
+},
+{
+name = weightClass;
+value = 600;
 }
 );
 interpolationWeight = 116;
@@ -121606,8 +121649,9 @@ instanceInterpolations = {
 "16C5A091-070E-4899-9264-7ACF21F5F9FC" = 0.36364;
 "881EEDCE-9431-4D11-90D2-5788603AE739" = 0.63636;
 };
-linkStyle = "Semibold Condensed";
-name = "Semibold Italic Condensed";
+isItalic = 1;
+linkStyle = Semibold;
+name = "SemiBold Italic";
 weightClass = SemiBold;
 widthClass = Condensed;
 },
@@ -121616,6 +121660,10 @@ customParameters = (
 {
 name = familyName;
 value = "Cabin Condensed";
+},
+{
+name = weightClass;
+value = 700;
 }
 );
 interpolationWeight = 128;
@@ -121624,8 +121672,9 @@ instanceInterpolations = {
 "881EEDCE-9431-4D11-90D2-5788603AE739" = 1;
 };
 isBold = 1;
-linkStyle = "Regular Condensed";
-name = "Bold Italic Condensed";
+isItalic = 1;
+linkStyle = Regular;
+name = "Bold Italic";
 weightClass = Bold;
 widthClass = Condensed;
 }

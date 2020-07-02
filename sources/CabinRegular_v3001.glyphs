@@ -387,7 +387,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2290;
+value = 2300;
 },
 {
 name = winDescent;
@@ -447,7 +447,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2290;
+value = 2300;
 },
 {
 name = winDescent;
@@ -521,7 +521,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2290;
+value = 2300;
 },
 {
 name = winDescent;
@@ -579,7 +579,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2290;
+value = 2300;
 },
 {
 name = winDescent;
@@ -93302,6 +93302,12 @@ width = 0;
 );
 instances = (
 {
+customParameters = (
+{
+name = weightClass;
+value = 400;
+}
+);
 interpolationWeight = 95;
 instanceInterpolations = {
 UUID0 = 1;
@@ -93309,6 +93315,12 @@ UUID0 = 1;
 name = Regular;
 },
 {
+customParameters = (
+{
+name = weightClass;
+value = 500;
+}
+);
 interpolationWeight = 109;
 instanceInterpolations = {
 "7C863538-AAB4-42AD-A9FE-7240E615272A" = 0.42424;
@@ -93318,6 +93330,12 @@ name = Medium;
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = weightClass;
+value = 600;
+}
+);
 interpolationWeight = 116;
 instanceInterpolations = {
 "7C863538-AAB4-42AD-A9FE-7240E615272A" = 0.63636;
@@ -93327,6 +93345,12 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
+customParameters = (
+{
+name = weightClass;
+value = 700;
+}
+);
 interpolationWeight = 128;
 instanceInterpolations = {
 "7C863538-AAB4-42AD-A9FE-7240E615272A" = 1;
@@ -93340,6 +93364,10 @@ customParameters = (
 {
 name = familyName;
 value = "Cabin Condensed";
+},
+{
+name = weightClass;
+value = 400;
 }
 );
 interpolationWeight = 95;
@@ -93347,7 +93375,7 @@ interpolationWidth = 50;
 instanceInterpolations = {
 "A616F07E-65DE-4D07-A020-83605E49AA22" = 1;
 };
-name = "Regular Condensed";
+name = Regular;
 widthClass = Condensed;
 },
 {
@@ -93355,6 +93383,10 @@ customParameters = (
 {
 name = familyName;
 value = "Cabin Condensed";
+},
+{
+name = weightClass;
+value = 500;
 }
 );
 interpolationWeight = 109;
@@ -93363,7 +93395,7 @@ instanceInterpolations = {
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 0.42424;
 "A616F07E-65DE-4D07-A020-83605E49AA22" = 0.57576;
 };
-name = "Medium Condensed";
+name = Medium;
 weightClass = Medium;
 widthClass = Condensed;
 },
@@ -93372,6 +93404,10 @@ customParameters = (
 {
 name = familyName;
 value = "Cabin Condensed";
+},
+{
+name = weightClass;
+value = 600;
 }
 );
 interpolationWeight = 116;
@@ -93380,7 +93416,7 @@ instanceInterpolations = {
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 0.63636;
 "A616F07E-65DE-4D07-A020-83605E49AA22" = 0.36364;
 };
-name = "SemiBold Condensed";
+name = SemiBold;
 weightClass = SemiBold;
 widthClass = Condensed;
 },
@@ -93389,6 +93425,10 @@ customParameters = (
 {
 name = familyName;
 value = "Cabin Condensed";
+},
+{
+name = weightClass;
+value = 700;
 }
 );
 interpolationWeight = 128;
@@ -93398,7 +93438,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = "Regular Condensed";
-name = "Bold Condensed";
+name = Bold;
 weightClass = Bold;
 widthClass = Condensed;
 }
