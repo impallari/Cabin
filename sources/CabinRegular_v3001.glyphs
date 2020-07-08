@@ -1,5 +1,5 @@
 {
-.appVersion = "1286";
+.appVersion = "1342";
 DisplayStrings = (
 AV
 );
@@ -61,15 +61,6 @@ Tag = wdth;
 {
 name = "Variable Font Origin";
 value = UUID0;
-},
-{
-name = "Axis Mappings";
-value = {
-wght = {
-109 = 500;
-116 = 110;
-};
-};
 },
 {
 name = "Enforce Compatibility Check";
@@ -545,13 +536,14 @@ descender = -500;
 horizontalStems = (
 248
 );
-iconName = Condensed;
 id = "A616F07E-65DE-4D07-A020-83605E49AA22";
+name = "Regular Condensed";
 verticalStems = (
 190,
 256
 );
 weightValue = 95;
+width = Condensed;
 widthValue = 50;
 xHeight = 980;
 },
@@ -603,7 +595,6 @@ horizontalStems = (
 248,
 204
 );
-iconName = Bold_Condensed;
 id = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
 verticalStems = (
 256,
@@ -611,6 +602,7 @@ verticalStems = (
 );
 weight = Bold;
 weightValue = 128;
+width = Condensed;
 widthValue = 50;
 xHeight = 1000;
 }
@@ -93318,6 +93310,10 @@ customParameters = (
 {
 name = weightClass;
 value = 400;
+},
+{
+name = "Save as TrueType";
+value = 0;
 }
 );
 interpolationWeight = 95;

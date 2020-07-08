@@ -1,5 +1,5 @@
 {
-.appVersion = "1286";
+.appVersion = "1342";
 DisplayStrings = (
 "\012\0121/Placeholder 2/Placeholder 3/Placeholder 4/Placeholder 5/Placeholder 6/Placeholder 7/Placeholder 8/Placeholder 9/Placeholder 0/Placeholder \012H+2/minus =H/notequal H/approxequal H¦\0121=2=3=4=5=6"
 );
@@ -545,14 +545,15 @@ position = "{388, 772}";
 horizontalStems = (
 248
 );
-iconName = Condensed;
 id = "16C5A091-070E-4899-9264-7ACF21F5F9FC";
 italicAngle = 10;
+name = "Italic Condensed";
 verticalStems = (
 190,
 256
 );
 weightValue = 95;
+width = Condensed;
 widthValue = 50;
 xHeight = 980;
 },
@@ -611,15 +612,16 @@ horizontalStems = (
 248,
 204
 );
-iconName = Bold_Condensed;
 id = "881EEDCE-9431-4D11-90D2-5788603AE739";
 italicAngle = 10;
+name = "Bold Italic Condensed";
 verticalStems = (
 256,
 250
 );
 weight = Bold;
 weightValue = 128;
+width = Condensed;
 widthValue = 50;
 xHeight = 1000;
 }
