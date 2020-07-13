@@ -82,8 +82,3 @@ done
 # cleanup
 rm -rf ../fonts/TTF/*gasp*.ttf ../fonts/VF/*gasp*.ttf instance_ufo *.ufo master_ufo/
 
-
-
-
-
-# rm -rf master_ufo/ instance_ufo/

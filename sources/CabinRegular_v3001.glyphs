@@ -1,7 +1,8 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-AV
+AV,
+"/zero.dnom/zerosuperior/one.dnom ¹²³/foursuperior/fivesuperior/sixsuperior/sevensuperior/eightsuperior/ninesuperior A"
 );
 classes = (
 {
@@ -537,14 +538,13 @@ horizontalStems = (
 248
 );
 id = "A616F07E-65DE-4D07-A020-83605E49AA22";
-name = "Regular Condensed";
 verticalStems = (
 190,
 256
 );
 weightValue = 95;
 width = Condensed;
-widthValue = 50;
+widthValue = 75;
 xHeight = 980;
 },
 {
@@ -596,6 +596,7 @@ horizontalStems = (
 204
 );
 id = "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A";
+name = "Condensed Bold";
 verticalStems = (
 256,
 250
@@ -603,7 +604,7 @@ verticalStems = (
 weight = Bold;
 weightValue = 128;
 width = Condensed;
-widthValue = 50;
+widthValue = 75;
 xHeight = 1000;
 }
 );
@@ -93370,83 +93371,67 @@ weightClass = Bold;
 {
 customParameters = (
 {
-name = familyName;
-value = "Cabin Condensed";
-},
-{
 name = weightClass;
 value = 400;
 }
 );
 interpolationWeight = 95;
-interpolationWidth = 50;
+interpolationWidth = 75;
 instanceInterpolations = {
 "A616F07E-65DE-4D07-A020-83605E49AA22" = 1;
 };
-name = Regular;
+name = "Condensed Regular";
 widthClass = Condensed;
 },
 {
 customParameters = (
-{
-name = familyName;
-value = "Cabin Condensed";
-},
 {
 name = weightClass;
 value = 500;
 }
 );
 interpolationWeight = 109;
-interpolationWidth = 50;
+interpolationWidth = 75;
 instanceInterpolations = {
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 0.42424;
 "A616F07E-65DE-4D07-A020-83605E49AA22" = 0.57576;
 };
-name = Medium;
+name = "Condensed Medium";
 weightClass = Medium;
 widthClass = Condensed;
 },
 {
 customParameters = (
 {
-name = familyName;
-value = "Cabin Condensed";
-},
-{
 name = weightClass;
 value = 600;
 }
 );
 interpolationWeight = 116;
-interpolationWidth = 50;
+interpolationWidth = 75;
 instanceInterpolations = {
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 0.63636;
 "A616F07E-65DE-4D07-A020-83605E49AA22" = 0.36364;
 };
-name = SemiBold;
+name = "Condensed SemiBold";
 weightClass = SemiBold;
 widthClass = Condensed;
 },
 {
 customParameters = (
 {
-name = familyName;
-value = "Cabin Condensed";
-},
-{
 name = weightClass;
 value = 700;
 }
 );
 interpolationWeight = 128;
-interpolationWidth = 50;
+interpolationWidth = 75;
 instanceInterpolations = {
 "3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 1;
 };
 isBold = 1;
 linkStyle = Regular;
-name = Bold;
+name = "Condensed Bold";
 weightClass = Bold;
 widthClass = Condensed;
 }
