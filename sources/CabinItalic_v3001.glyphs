@@ -46,14 +46,6 @@ name = "Use Line Breaks";
 value = 1;
 },
 {
-name = "Variable Font Origin";
-value = UUID0;
-},
-{
-name = "Enforce Compatibility Check";
-value = 1;
-},
-{
 name = Axes;
 value = (
 {
@@ -67,6 +59,14 @@ Name = Width;
 Tag = wdth;
 }
 );
+},
+{
+name = "Variable Font Origin";
+value = UUID0;
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
 }
 );
 date = "2020-07-02 20:47:26 +0000";
@@ -121576,7 +121576,7 @@ UUID0 = 1;
 };
 isItalic = 1;
 linkStyle = Regular;
-name = "Condensed Italic";
+name = Italic;
 },
 {
 customParameters = (
