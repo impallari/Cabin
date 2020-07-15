@@ -10,7 +10,7 @@ function postprocess_vf {
 
 mkdir -p ../fonts ../fonts/TTF ../fonts/OTF ../fonts/VF ../fonts/WOFF2
 
-echo "GENERATING VFs"
+# echo "GENERATING VFs"
 
 VF_FILE=../fonts/VF/Cabin\[wdth,wght]\.ttf
 glyphs2ufo CabinRegular_v3001.glyphs --generate-GDEF
@@ -29,33 +29,46 @@ postprocess_vf $VF_FILEit
 python3 Cabin_stat_table.py $VF_FILE
 
 
-# echo "GENERATING TTFs"
-# fontmake -m CabinRegular.designspace -i -o ttf --output-dir ../fonts/TTF/ -a
-# fontmake -m CabinItalic.designspace -i -o ttf --output-dir ../fonts/TTF/ -a
+echo "GENERATING TTFs"
+#Cabin Roman
+gftools rename-font $VF_FILE "Cabin Condensed"
+mv ../fonts/VF/CabinCondensed\[wdth,wght]\.ttf ../fonts/TTF/CabinCondensed\[wght]\.ttf
+fontTools varLib.instancer ../fonts/TTF/CabinCondensed\[wght]\.ttf wdth=75 -o ../fonts/TTF/CabinCondensed\[wght]\.ttf
+fontmake -m CabinRegular_statics.designspace -i -o ttf --output-dir ../fonts/TTF/ -a
 
-# echo "POST PROCESSING TTFs"
-# ttfs=$(ls ../fonts/TTF/*.ttf)
-# for ttf in $ttfs
-# do
-#     gftools fix-hinting $ttf;
-#     mv "$ttf.fix" $ttf;
+rm -rf ../fonts/TTF/CabinCondensed\[wght]\.ttf
 
-#     gftools fix-dsig -f $ttf;
-# done
+#Cabin Italics
+gftools rename-font $VF_FILEit "Cabin Condensed"
+mv ../fonts/VF/CabinCondensed-Italic\[wdth,wght]\.ttf ../fonts/TTF/CabinCondensed-Italic\[wght]\.ttf
+fontTools varLib.instancer ../fonts/TTF/CabinCondensed-Italic\[wght]\.ttf wdth=75 -o ../fonts/TTF/CabinCondensed-Italic\[wght]\.ttf
+fontmake -m CabinItalic_statics.designspace -i -o ttf --output-dir ../fonts/TTF/ -a
 
+rm -rf ../fonts/TTF/CabinCondensed-Italic\[wght]\.ttf
 
-# echo "GENERATING OTFs"
-# fontmake -m CabinRegular.designspace -i -o otf --output-dir ../fonts/otf/ -a
-# fontmake -m CabinItalic.designspace -i -o otf --output-dir ../fonts/otf/ -a
+echo "POST PROCESSING TTFs"
+ttfs=$(ls ../fonts/TTF/*.ttf)
+for ttf in $ttfs
+do
+    gftools fix-hinting $ttf;
+    mv "$ttf.fix" $ttf;
 
-# echo "POST PROCESSING OTFs"
-# otfs=$(ls ../fonts/otf/*.otf)
-# for otf in $otfs
-# do
-#     gftools fix-dsig -f $otf;
-# done
+    gftools fix-dsig -f $ttf;
+done
 
 
-# # cleanup
-# rm -rf ../fonts/TTF/*gasp*.ttf ../fonts/VF/*gasp*.ttf instance_ufo *.ufo master_ufo/
+echo "GENERATING OTFs"
+fontmake -m CabinRegular_statics.designspace -i -o otf --output-dir ../fonts/OTF/ -a
+fontmake -m CabinItalic_statics.designspace -i -o otf --output-dir ../fonts/OTF/ -a
+
+echo "POST PROCESSING OTFs"
+otfs=$(ls ../fonts/OTF/*.otf)
+for otf in $otfs
+do
+    gftools fix-dsig -f $otf;
+done
+
+
+# cleanup
+rm -rf ../fonts/TTF/*gasp*.ttf ../fonts/VF/*gasp*.ttf instance_ufos *.ufo CabinRegular_v3001.designspace CabinItalic_v3001.designspace
 
