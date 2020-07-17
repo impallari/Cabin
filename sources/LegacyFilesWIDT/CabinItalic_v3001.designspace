@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+      <map input="400" output="95"/>
+      <map input="500" output="109"/>
+      <map input="600" output="116"/>
+      <map input="700" output="128"/>
+    </axis>
+    <axis tag="WIDT" name="Width" minimum="50" maximum="100" default="100"/>
+  </axes>
+  <sources>
+    <source filename="Cabin-Italic.ufo" name="Cabin Italic" familyname="Cabin" stylename="Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Cabin-BoldItalic.ufo" name="Cabin Bold Italic" familyname="Cabin" stylename="Bold Italic">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Cabin-ItalicCondensed.ufo" name="Cabin Italic Condensed" familyname="Cabin" stylename="Italic Condensed">
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="Cabin-BoldItalicCondensed.ufo" name="Cabin Bold Italic Condensed" familyname="Cabin" stylename="Bold Italic Condensed">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="50"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Cabin Italic" familyname="Cabin" stylename="Italic" filename="instance_ufos/Cabin-Italic.ufo" stylemapfamilyname="Cabin" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>UUID0</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cabin Medium Italic" familyname="Cabin" stylename="Medium Italic" filename="instance_ufos/Cabin-MediumItalic.ufo" stylemapfamilyname="Cabin Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="109"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>D879A026-05F7-4E99-AC55-D533E46CE7AB</key>
+            <real>0.42424</real>
+            <key>UUID0</key>
+            <real>0.57576</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cabin SemiBold Italic" familyname="Cabin" stylename="SemiBold Italic" filename="instance_ufos/Cabin-SemiBoldItalic.ufo" stylemapfamilyname="Cabin SemiBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="116"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>D879A026-05F7-4E99-AC55-D533E46CE7AB</key>
+            <real>0.63636</real>
+            <key>UUID0</key>
+            <real>0.36364</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cabin Bold Italic" familyname="Cabin" stylename="Bold Italic" filename="instance_ufos/Cabin-BoldItalic.ufo" stylemapfamilyname="Cabin" stylemapstylename="bold italic">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>D879A026-05F7-4E99-AC55-D533E46CE7AB</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cabin Condensed Italic" familyname="Cabin Condensed" stylename="Italic" filename="instance_ufos/CabinCondensed-Italic.ufo" stylemapfamilyname="Cabin Condensed" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="50"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>16C5A091-070E-4899-9264-7ACF21F5F9FC</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Condensed</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cabin Condensed Medium Italic" familyname="Cabin Condensed" stylename="Medium Italic" filename="instance_ufos/CabinCondensed-MediumItalic.ufo" stylemapfamilyname="Cabin Condensed Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="109"/>
+        <dimension name="Width" xvalue="50"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>16C5A091-070E-4899-9264-7ACF21F5F9FC</key>
+            <real>0.57576</real>
+            <key>881EEDCE-9431-4D11-90D2-5788603AE739</key>
+            <real>0.42424</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Condensed</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cabin Condensed SemiBold Italic" familyname="Cabin Condensed" stylename="SemiBold Italic" filename="instance_ufos/CabinCondensed-SemiBoldItalic.ufo" stylemapfamilyname="Cabin Condensed SemiBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="116"/>
+        <dimension name="Width" xvalue="50"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>16C5A091-070E-4899-9264-7ACF21F5F9FC</key>
+            <real>0.36364</real>
+            <key>881EEDCE-9431-4D11-90D2-5788603AE739</key>
+            <real>0.63636</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Condensed</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cabin Condensed Bold Italic" familyname="Cabin Condensed" stylename="Bold Italic" filename="instance_ufos/CabinCondensed-BoldItalic.ufo" stylemapfamilyname="Cabin Condensed" stylemapstylename="bold italic">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="50"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>881EEDCE-9431-4D11-90D2-5788603AE739</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Condensed</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+</designspace>
