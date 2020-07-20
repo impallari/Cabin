@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+      <map input="400" output="95"/>
+      <map input="500" output="109"/>
+      <map input="600" output="116"/>
+      <map input="700" output="128"/>
+    </axis>
+    <axis tag="wdth" name="Width" minimum="75" maximum="100" default="100"/>
+  </axes>
+  <sources>
+    <source filename="Cabin-Regular.ufo" name="Cabin Regular" familyname="Cabin" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Cabin-Bold.ufo" name="Cabin Bold" familyname="Cabin" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Cabin-Condensed.ufo" name="Cabin Condensed" familyname="Cabin Condensed" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="Cabin-CondensedBold.ufo" name="Cabin Condensed Bold" familyname="Cabin Condensed" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Cabin Regular" familyname="Cabin" stylename="Regular" filename="instance_ufos/Cabin-Regular.ufo" stylemapfamilyname="Cabin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cabin Medium" familyname="Cabin" stylename="Medium" filename="instance_ufos/Cabin-Medium.ufo" stylemapfamilyname="Cabin Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="109"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cabin SemiBold" familyname="Cabin" stylename="SemiBold" filename="instance_ufos/Cabin-SemiBold.ufo" stylemapfamilyname="Cabin SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="116"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cabin Bold" familyname="Cabin" stylename="Bold" filename="instance_ufos/Cabin-Bold.ufo" stylemapfamilyname="Cabin" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cabin Condensed Regular" familyname="Cabin Condensed" stylename="Regular" filename="instance_ufos/CabinCondensed-Regular.ufo" stylemapfamilyname="Cabin Condensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cabin Condensed Medium" familyname="Cabin Condensed" stylename="Medium" filename="instance_ufos/CabinCondensed-Medium.ufo" stylemapfamilyname="Cabin Condensed Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="109"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cabin Condensed SemiBold" familyname="Cabin Condensed" stylename="SemiBold" filename="instance_ufos/CabinCondensed-SemiBold.ufo" stylemapfamilyname="Cabin Condensed SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="116"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cabin Condensed Bold" familyname="Cabin Condensed" stylename="Bold" filename="instance_ufos/CabinCondensed-Bold.ufo" stylemapfamilyname="Cabin Condensed" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A</key>
+        <dict>
+          <key>HH</key>
+          <string>112</string>
+          <key>HV</key>
+          <string>122</string>
+          <key>OH</key>
+          <string>123</string>
+          <key>OV</key>
+          <string>134</string>
+          <key>nV</key>
+          <string>120</string>
+          <key>oH</key>
+          <string>98</string>
+          <key>oV</key>
+          <string>122</string>
+        </dict>
+        <key>7C863538-AAB4-42AD-A9FE-7240E615272A</key>
+        <dict>
+          <key>HV</key>
+          <string>128</string>
+          <key>OV</key>
+          <string>134</string>
+        </dict>
+        <key>A616F07E-65DE-4D07-A020-83605E49AA22</key>
+        <dict>
+          <key>HH</key>
+          <string>90</string>
+          <key>HV</key>
+          <string>92</string>
+          <key>OH</key>
+          <string>92</string>
+          <key>OV</key>
+          <string>98</string>
+          <key>nV</key>
+          <string>88</string>
+          <key>oH</key>
+          <string>78</string>
+          <key>oV</key>
+          <string>90</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+      <map input="400" output="95"/>
+      <map input="500" output="109"/>
+      <map input="600" output="116"/>
+      <map input="700" output="128"/>
+    </axis>
+    <axis tag="wdth" name="Width" minimum="75" maximum="100" default="100"/>
+  </axes>
+  <sources>
+    <source filename="Cabin-Italic.ufo" name="Cabin Italic" familyname="Cabin" stylename="Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Cabin-BoldItalic.ufo" name="Cabin Bold Italic" familyname="Cabin" stylename="Bold Italic">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Cabin-CondensedItalic.ufo" name="Cabin Condensed Italic" familyname="Cabin Condensed" stylename="Italic">
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="Cabin-CondensedBoldItalic.ufo" name="Cabin Condensed Bold Italic" familyname="Cabin Condensed" stylename="Bold Italic">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Cabin Italic" familyname="Cabin" stylename="Italic" filename="instance_ufos/Cabin-Italic.ufo" stylemapfamilyname="Cabin" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cabin Medium Italic" familyname="Cabin" stylename="Medium Italic" filename="instance_ufos/Cabin-MediumItalic.ufo" stylemapfamilyname="Cabin Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="109"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cabin SemiBold Italic" familyname="Cabin" stylename="SemiBold Italic" filename="instance_ufos/Cabin-SemiBoldItalic.ufo" stylemapfamilyname="Cabin SemiBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="116"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cabin Bold Italic" familyname="Cabin" stylename="Bold Italic" filename="instance_ufos/Cabin-BoldItalic.ufo" stylemapfamilyname="Cabin" stylemapstylename="bold italic">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cabin Condensed Italic" familyname="Cabin Condensed" stylename="Italic" filename="instance_ufos/CabinCondensed-Italic.ufo" stylemapfamilyname="Cabin Condensed" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="95"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cabin Condensed Medium Italic" familyname="Cabin Condensed" stylename="Medium Italic" filename="instance_ufos/CabinCondensed-MediumItalic.ufo" stylemapfamilyname="Cabin Condensed Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="109"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cabin Condensed SemiBold Italic" familyname="Cabin Condensed" stylename="SemiBold Italic" filename="instance_ufos/CabinCondensed-SemiBoldItalic.ufo" stylemapfamilyname="Cabin Condensed SemiBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="116"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cabin Condensed Bold Italic" familyname="Cabin Condensed" stylename="Bold Italic" filename="instance_ufos/CabinCondensed-BoldItalic.ufo" stylemapfamilyname="Cabin Condensed" stylemapstylename="bold italic">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>
