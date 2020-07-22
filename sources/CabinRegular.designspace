@@ -72,38 +72,6 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Cabin Condensed Regular" familyname="Cabin" stylename="Condensed Regular" filename="instance_ufos/Cabin-CondensedRegular.ufo">
-      <location>
-        <dimension name="Weight" xvalue="95"/>
-        <dimension name="Width" xvalue="75"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance name="Cabin Condensed Medium" familyname="Cabin" stylename="Condensed Medium" filename="instance_ufos/Cabin-CondensedMedium.ufo">
-      <location>
-        <dimension name="Weight" xvalue="109"/>
-        <dimension name="Width" xvalue="75"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance name="Cabin Condensed SemiBold" familyname="Cabin" stylename="Condensed SemiBold" filename="instance_ufos/Cabin-CondensedSemiBold.ufo">
-      <location>
-        <dimension name="Weight" xvalue="116"/>
-        <dimension name="Width" xvalue="75"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance name="Cabin Condensed Bold" familyname="Cabin" stylename="Condensed Bold" filename="instance_ufos/Cabin-CondensedBold.ufo" stylemapfamilyname="Cabin Condensed" stylemapstylename="bold">
-      <location>
-        <dimension name="Weight" xvalue="128"/>
-        <dimension name="Width" xvalue="75"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
   </instances>
   <lib>
     <dict>

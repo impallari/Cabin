@@ -93311,10 +93311,6 @@ customParameters = (
 {
 name = weightClass;
 value = 400;
-},
-{
-name = "Save as TrueType";
-value = 0;
 }
 );
 interpolationWeight = 95;
@@ -93367,73 +93363,6 @@ instanceInterpolations = {
 isBold = 1;
 name = Bold;
 weightClass = Bold;
-},
-{
-customParameters = (
-{
-name = weightClass;
-value = 400;
-}
-);
-interpolationWeight = 95;
-interpolationWidth = 75;
-instanceInterpolations = {
-"A616F07E-65DE-4D07-A020-83605E49AA22" = 1;
-};
-name = "Condensed Regular";
-widthClass = Condensed;
-},
-{
-customParameters = (
-{
-name = weightClass;
-value = 500;
-}
-);
-interpolationWeight = 109;
-interpolationWidth = 75;
-instanceInterpolations = {
-"3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 0.42424;
-"A616F07E-65DE-4D07-A020-83605E49AA22" = 0.57576;
-};
-name = "Condensed Medium";
-weightClass = Medium;
-widthClass = Condensed;
-},
-{
-customParameters = (
-{
-name = weightClass;
-value = 600;
-}
-);
-interpolationWeight = 116;
-interpolationWidth = 75;
-instanceInterpolations = {
-"3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 0.63636;
-"A616F07E-65DE-4D07-A020-83605E49AA22" = 0.36364;
-};
-name = "Condensed SemiBold";
-weightClass = SemiBold;
-widthClass = Condensed;
-},
-{
-customParameters = (
-{
-name = weightClass;
-value = 700;
-}
-);
-interpolationWeight = 128;
-interpolationWidth = 75;
-instanceInterpolations = {
-"3AF73D1F-32CE-4CF3-BC01-E4A23F7DE30A" = 1;
-};
-isBold = 1;
-linkStyle = Regular;
-name = "Condensed Bold";
-weightClass = Bold;
-widthClass = Condensed;
 }
 );
 kerning = {

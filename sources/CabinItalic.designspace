@@ -72,37 +72,5 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Cabin Condensed Italic" familyname="Cabin" stylename="Condensed Italic" filename="instance_ufos/Cabin-CondensedItalic.ufo" stylemapfamilyname="Cabin Condensed" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="95"/>
-        <dimension name="Width" xvalue="75"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance name="Cabin Condensed Medium Italic" familyname="Cabin" stylename="Condensed Medium Italic" filename="instance_ufos/Cabin-CondensedMediumItalic.ufo" stylemapfamilyname="Cabin Medium" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="109"/>
-        <dimension name="Width" xvalue="75"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance name="Cabin Condensed SemiBold Italic" familyname="Cabin" stylename="Condensed SemiBold Italic" filename="instance_ufos/Cabin-CondensedSemiBoldItalic.ufo" stylemapfamilyname="Cabin SemiBold" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="116"/>
-        <dimension name="Width" xvalue="75"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance name="Cabin Condensed Bold Italic" familyname="Cabin" stylename="Condensed Bold Italic" filename="instance_ufos/Cabin-CondensedBoldItalic.ufo" stylemapfamilyname="Cabin Condensed" stylemapstylename="bold italic">
-      <location>
-        <dimension name="Weight" xvalue="128"/>
-        <dimension name="Width" xvalue="75"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
   </instances>
 </designspace>
