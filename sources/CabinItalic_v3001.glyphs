@@ -10,7 +10,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircu
 name = Uppercase;
 }
 );
-copyright = "Copyright 2018 The Cabin Project Authors (https://github.com/impallari/Cabin.git)";
+copyright = "Copyright 2018 The Cabin Project Authors (https://github.com/impallari/Cabin)";
 customParameters = (
 {
 name = licenseURL;
@@ -69,7 +69,7 @@ name = "Enforce Compatibility Check";
 value = 1;
 }
 );
-date = "2020-07-02 20:47:26 +0000";
+date = "2020-07-22 18:31:56 +0000";
 designer = "Pablo Impallari";
 designerURL = "http://www.impallari.com";
 familyName = Cabin;
